@@ -9,19 +9,50 @@
   <!-- CSS file -->
   <link rel="stylesheet" type="text/css" href="css/styles.css" media="all">
 
+  <!-- Import pure.css -->
+  <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css"
+    integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mHNJ" crossorigin="anonymous">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
+  <!-- Google font -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
 </head>
 <body>
-  
-<div id="choropleth_map"></div>
+  <div class="page">
+    <!-- pure grid group -->
+    <div class="pure-g">
+      <div class="pure-u-1-1">
+        <h1>FIT3179 Week 10 Homework</h1>
+        <p>Create your own interactive visualisation in Vega-Lite</p>
+      </div>
+    </div>
+    <!-- end pure grid group -->
 
-<script type="text/javascript">
+    <!-- pure grid group -->
+    <div class="pure-g">
+      <div class="pure-u-1-2">
+        <div id="choropleth_map" class="vis-container"></div>
+      </div>
+      <div class="pure-u-1-2">
+        <div id="area_chart" class="vis-container"></div>
+      </div>
+    </div>
+  </div>
 
-  var spec2 = "js/spotify_streams_country_data.vg.json";
-  vegaEmbed('#choropleth_map', spec2).then(function(result) {
-    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-  }).catch(console.error);
-</script>
+  <script type="text/javascript">
 
+    var mapSpec = "js/spotify_streams_country_data.vg.json";
+    vegaEmbed('#choropleth_map', mapSpec, { "actions": false }).then(function(result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+
+    var chartSpec = "js/listening_trends_over_time.vg.json";
+    vegaEmbed('#area_chart', chartSpec, { "actions": false }).then(function(result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+
+  </script>
 </body>
 </html>
