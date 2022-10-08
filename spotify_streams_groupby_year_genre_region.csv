@@ -17,42 +17,6 @@ chart_year,Genre,region,sum
 2017,A Cappella,Sweden,33330.0
 2017,A Cappella,Switzerland,239698.0
 2017,A Cappella,United States of America,7547168.0
-2017,AI,Canada,69487.0
-2017,AI,Poland,39230.0
-2017,AI,Portugal,5217.0
-2017,AI,Switzerland,15535.0
-2017,AI,Turkey,6189.0
-2017,Acoustic Chill,Sweden,251454.0
-2017,Adult Standards,Australia,2742992.0
-2017,Adult Standards,Austria,222755.0
-2017,Adult Standards,Belgium,434941.0
-2017,Adult Standards,Canada,2952391.0
-2017,Adult Standards,Chile,75861.0
-2017,Adult Standards,Costa Rica,2211.0
-2017,Adult Standards,Denmark,2097946.0
-2017,Adult Standards,Ecuador,2865.0
-2017,Adult Standards,Finland,126474.0
-2017,Adult Standards,France,242358.0
-2017,Adult Standards,Germany,2739404.0
-2017,Adult Standards,Global,36412866.0
-2017,Adult Standards,Indonesia,5119.0
-2017,Adult Standards,Ireland,866700.0
-2017,Adult Standards,Italy,933286.0
-2017,Adult Standards,Malaysia,81398.0
-2017,Adult Standards,Mexico,65842.0
-2017,Adult Standards,Netherlands,1527172.0
-2017,Adult Standards,New Zealand,539642.0
-2017,Adult Standards,Norway,1834751.0
-2017,Adult Standards,Peru,6929.0
-2017,Adult Standards,Philippines,239261.0
-2017,Adult Standards,Poland,1503286.0
-2017,Adult Standards,Portugal,86988.0
-2017,Adult Standards,Singapore,143472.0
-2017,Adult Standards,Spain,351922.0
-2017,Adult Standards,Sweden,2389508.0
-2017,Adult Standards,Switzerland,206520.0
-2017,Adult Standards,Taiwan,68050.0
-2017,Adult Standards,United States of America,16012040.0
 2017,Alternative Dance,Australia,3067541.0
 2017,Alternative Dance,Austria,329937.0
 2017,Alternative Dance,Belgium,850758.0
@@ -145,10 +109,6 @@ chart_year,Genre,region,sum
 2017,Alternative Metal,Turkey,327891.0
 2017,Alternative Metal,United States of America,15718646.0
 2017,Alternative Pop,Denmark,8883.0
-2017,Alternative Pop Rock,Finland,7966.0
-2017,Alternative Pop Rock,Netherlands,225660.0
-2017,Alternative Pop Rock,Poland,8936.0
-2017,Alternative Pop Rock,Taiwan,4266.0
 2017,Alternative R&b,Australia,43870703.0
 2017,Alternative R&b,Austria,970254.0
 2017,Alternative R&b,Belgium,2319054.0
@@ -179,164 +139,95 @@ chart_year,Genre,region,sum
 2017,Alternative R&b,Taiwan,1917004.0
 2017,Alternative R&b,Turkey,1536925.0
 2017,Alternative R&b,United States of America,416472334.0
-2017,Alternative Rock,Argentina,11241.0
-2017,Alternative Rock,Australia,4085564.0
-2017,Alternative Rock,Austria,864770.0
-2017,Alternative Rock,Belgium,102922.0
-2017,Alternative Rock,Brazil,1800296.0
-2017,Alternative Rock,Canada,641748.0
-2017,Alternative Rock,Chile,325386.0
-2017,Alternative Rock,Colombia,14271.0
-2017,Alternative Rock,Costa Rica,25212.0
-2017,Alternative Rock,Denmark,7392.0
-2017,Alternative Rock,Finland,242986.0
-2017,Alternative Rock,France,63752.0
-2017,Alternative Rock,Germany,12841134.0
-2017,Alternative Rock,Global,475535.0
-2017,Alternative Rock,Indonesia,152244.0
-2017,Alternative Rock,Ireland,1634106.0
-2017,Alternative Rock,Italy,1016239.0
-2017,Alternative Rock,Malaysia,39615.0
-2017,Alternative Rock,Mexico,42139.0
-2017,Alternative Rock,New Zealand,508371.0
-2017,Alternative Rock,Norway,50357.0
-2017,Alternative Rock,Peru,129183.0
-2017,Alternative Rock,Philippines,8981334.0
-2017,Alternative Rock,Poland,4988769.0
-2017,Alternative Rock,Portugal,313968.0
-2017,Alternative Rock,Singapore,25464.0
-2017,Alternative Rock,Sweden,9335678.0
-2017,Alternative Rock,Switzerland,306518.0
-2017,Alternative Rock,Taiwan,21902.0
-2017,Alternative Rock,Turkey,20553.0
-2017,Alternative Rock,United States of America,2600139.0
-2017,Ambigious / Unknown,Australia,2005578.0
-2017,Ambigious / Unknown,Austria,381726.0
-2017,Ambigious / Unknown,Belgium,967103.0
-2017,Ambigious / Unknown,Canada,4315221.0
-2017,Ambigious / Unknown,Chile,159192.0
-2017,Ambigious / Unknown,Colombia,156026.0
-2017,Ambigious / Unknown,Costa Rica,210581.0
-2017,Ambigious / Unknown,Denmark,2644139.0
-2017,Ambigious / Unknown,Ecuador,22497.0
-2017,Ambigious / Unknown,Finland,132257.0
-2017,Ambigious / Unknown,France,138010.0
-2017,Ambigious / Unknown,Germany,3062956.0
-2017,Ambigious / Unknown,Global,75585508.0
-2017,Ambigious / Unknown,Indonesia,168281.0
-2017,Ambigious / Unknown,Ireland,1815240.0
-2017,Ambigious / Unknown,Italy,1185490.0
-2017,Ambigious / Unknown,Malaysia,246527.0
-2017,Ambigious / Unknown,Mexico,428988.0
-2017,Ambigious / Unknown,Netherlands,860517.0
-2017,Ambigious / Unknown,New Zealand,304243.0
-2017,Ambigious / Unknown,Norway,1428852.0
-2017,Ambigious / Unknown,Peru,49431.0
-2017,Ambigious / Unknown,Philippines,472474.0
-2017,Ambigious / Unknown,Poland,1437379.0
-2017,Ambigious / Unknown,Portugal,99002.0
-2017,Ambigious / Unknown,Singapore,440800.0
-2017,Ambigious / Unknown,Spain,1580139.0
-2017,Ambigious / Unknown,Sweden,2802959.0
-2017,Ambigious / Unknown,Switzerland,494105.0
-2017,Ambigious / Unknown,Taiwan,193775.0
-2017,Ambigious / Unknown,Turkey,4551250.0
-2017,Ambigious / Unknown,United States of America,34001369.0
-2017,Basshall,France,96864.0
-2017,Bassline,Ireland,3802.0
-2017,Beatlesque,Ireland,7175.0
-2017,Big Room,Argentina,3528310.0
-2017,Big Room,Australia,36678928.0
-2017,Big Room,Austria,12041381.0
-2017,Big Room,Belgium,12138065.0
-2017,Big Room,Brazil,32022725.0
-2017,Big Room,Canada,30902812.0
-2017,Big Room,Chile,3599717.0
-2017,Big Room,Colombia,2916912.0
-2017,Big Room,Costa Rica,1669697.0
-2017,Big Room,Denmark,21752628.0
-2017,Big Room,Ecuador,1301597.0
-2017,Big Room,Finland,21167721.0
-2017,Big Room,France,29266374.0
-2017,Big Room,Germany,185775160.0
-2017,Big Room,Global,1101637432.0
-2017,Big Room,Indonesia,21363294.0
-2017,Big Room,Ireland,12005620.0
-2017,Big Room,Italy,43977083.0
-2017,Big Room,Malaysia,6996698.0
-2017,Big Room,Mexico,24638592.0
-2017,Big Room,Netherlands,56316708.0
-2017,Big Room,New Zealand,8414861.0
-2017,Big Room,Norway,55653452.0
-2017,Big Room,Peru,2397039.0
-2017,Big Room,Philippines,15185713.0
-2017,Big Room,Poland,19770624.0
-2017,Big Room,Portugal,5460556.0
-2017,Big Room,Singapore,12219579.0
-2017,Big Room,Spain,28164487.0
-2017,Big Room,Sweden,116866180.0
-2017,Big Room,Switzerland,13290226.0
-2017,Big Room,Taiwan,4145513.0
-2017,Big Room,Turkey,6599976.0
-2017,Big Room,United States of America,110683642.0
-2017,Blues,Ireland,3056.0
-2017,Blues Rock,Austria,1664.0
-2017,Blues Rock,Belgium,9034.0
-2017,Blues Rock,Finland,12924.0
-2017,Blues Rock,France,19505.0
-2017,Blues Rock,Global,482336.0
-2017,Blues Rock,Ireland,3520.0
-2017,Blues Rock,Italy,10991.0
-2017,Blues Rock,Netherlands,19553.0
-2017,Blues Rock,Norway,57864.0
-2017,Blues Rock,Poland,4332.0
-2017,Blues Rock,Spain,38999.0
-2017,Blues Rock,Sweden,22140.0
-2017,Blues Rock,Switzerland,4569.0
-2017,Blues Rock,Turkey,4681.0
-2017,Blues Rock,United States of America,166987.0
-2017,Boy Band,Australia,324712.0
-2017,Boy Band,Austria,49516.0
-2017,Boy Band,Belgium,14549.0
-2017,Boy Band,Canada,17538.0
-2017,Boy Band,Finland,159877.0
-2017,Boy Band,France,39089.0
-2017,Boy Band,Germany,758482.0
-2017,Boy Band,Ireland,518443.0
-2017,Boy Band,Italy,871869.0
-2017,Boy Band,Malaysia,649286.0
-2017,Boy Band,New Zealand,54873.0
-2017,Boy Band,Norway,864118.0
-2017,Boy Band,Philippines,8647883.0
-2017,Boy Band,Poland,102071.0
-2017,Boy Band,Singapore,80542.0
-2017,Boy Band,Sweden,49150.0
-2017,Boy Band,Switzerland,29045.0
-2017,Boy Band,Taiwan,17716.0
+2017,Alternative Rock,Argentina,6950419.0
+2017,Alternative Rock,Australia,4922911.0
+2017,Alternative Rock,Austria,1109381.0
+2017,Alternative Rock,Belgium,877139.0
+2017,Alternative Rock,Brazil,6388206.0
+2017,Alternative Rock,Canada,841101.0
+2017,Alternative Rock,Chile,4119291.0
+2017,Alternative Rock,Colombia,1274554.0
+2017,Alternative Rock,Costa Rica,1246823.0
+2017,Alternative Rock,Denmark,651240.0
+2017,Alternative Rock,Ecuador,752507.0
+2017,Alternative Rock,Finland,299851.0
+2017,Alternative Rock,France,101765.0
+2017,Alternative Rock,Germany,15256704.0
+2017,Alternative Rock,Global,95536330.0
+2017,Alternative Rock,Indonesia,6729010.0
+2017,Alternative Rock,Ireland,3445466.0
+2017,Alternative Rock,Italy,2247180.0
+2017,Alternative Rock,Malaysia,5450707.0
+2017,Alternative Rock,Mexico,16012512.0
+2017,Alternative Rock,Netherlands,1291306.0
+2017,Alternative Rock,New Zealand,687723.0
+2017,Alternative Rock,Norway,3471381.0
+2017,Alternative Rock,Peru,2601047.0
+2017,Alternative Rock,Philippines,30251329.0
+2017,Alternative Rock,Poland,5552182.0
+2017,Alternative Rock,Portugal,583808.0
+2017,Alternative Rock,Singapore,5492344.0
+2017,Alternative Rock,Spain,424822.0
+2017,Alternative Rock,Sweden,16213363.0
+2017,Alternative Rock,Switzerland,475108.0
+2017,Alternative Rock,Taiwan,1996101.0
+2017,Alternative Rock,Turkey,42220.0
+2017,Alternative Rock,United States of America,3620764.0
+2017,Ambigious / Others,Argentina,10503.0
+2017,Ambigious / Others,Australia,26387227.0
+2017,Ambigious / Others,Austria,3938799.0
+2017,Ambigious / Others,Belgium,8910630.0
+2017,Ambigious / Others,Brazil,1138893.0
+2017,Ambigious / Others,Canada,14766006.0
+2017,Ambigious / Others,Chile,242590.0
+2017,Ambigious / Others,Colombia,379147.0
+2017,Ambigious / Others,Costa Rica,1994246.0
+2017,Ambigious / Others,Denmark,39929003.0
+2017,Ambigious / Others,Ecuador,75439.0
+2017,Ambigious / Others,Finland,2033255.0
+2017,Ambigious / Others,France,18116210.0
+2017,Ambigious / Others,Germany,32277965.0
+2017,Ambigious / Others,Global,543326108.0
+2017,Ambigious / Others,Indonesia,5841153.0
+2017,Ambigious / Others,Ireland,15762978.0
+2017,Ambigious / Others,Italy,23646960.0
+2017,Ambigious / Others,Malaysia,3460060.0
+2017,Ambigious / Others,Mexico,772735.0
+2017,Ambigious / Others,Netherlands,51427181.0
+2017,Ambigious / Others,New Zealand,7746472.0
+2017,Ambigious / Others,Norway,27726069.0
+2017,Ambigious / Others,Peru,56360.0
+2017,Ambigious / Others,Philippines,16998176.0
+2017,Ambigious / Others,Poland,7760892.0
+2017,Ambigious / Others,Portugal,3693413.0
+2017,Ambigious / Others,Singapore,7089332.0
+2017,Ambigious / Others,Spain,5064063.0
+2017,Ambigious / Others,Sweden,41288872.0
+2017,Ambigious / Others,Switzerland,6485162.0
+2017,Ambigious / Others,Taiwan,1276748.0
+2017,Ambigious / Others,Turkey,5433264.0
+2017,Ambigious / Others,United States of America,97867941.0
+2017,Blues,Australia,941020.0
+2017,Blues,Belgium,9594.0
+2017,Blues,Canada,74052.0
+2017,Blues,Chile,19705.0
+2017,Blues,Denmark,194132.0
+2017,Blues,Ecuador,2063.0
+2017,Blues,Global,3969975.0
+2017,Blues,Ireland,239111.0
+2017,Blues,Italy,23235.0
+2017,Blues,Mexico,65602.0
+2017,Blues,New Zealand,230401.0
+2017,Blues,Norway,473461.0
+2017,Blues,Philippines,116021.0
+2017,Blues,Portugal,10862.0
+2017,Blues,Spain,64008.0
+2017,Blues,Sweden,95755.0
+2017,Blues,Taiwan,8299.0
+2017,Blues,United States of America,1283367.0
 2017,Britpop,Ireland,195904.0
-2017,Brostep,Argentina,10503.0
-2017,Brostep,Indonesia,3064057.0
-2017,Brostep,Malaysia,769138.0
-2017,Brostep,Philippines,14736.0
-2017,Brostep,Singapore,541341.0
-2017,Brostep,Taiwan,85918.0
 2017,C-pop,Singapore,16910.0
 2017,C-pop,Taiwan,172857.0
-2017,C86,Sweden,260391.0
-2017,Calming Instrumental,Finland,14408.0
-2017,Cantautor,Ecuador,1663.0
-2017,Chanson,France,131619.0
-2017,Christmas Instrumental,Finland,167523.0
-2017,Christmas Instrumental,Sweden,79941.0
-2017,Classic Rock,Australia,245620.0
-2017,Classic Rock,Belgium,6607.0
-2017,Classic Rock,Ireland,28894.0
-2017,Classic Rock,Netherlands,13670.0
-2017,Classic Rock,New Zealand,51339.0
-2017,Classic Rock,Poland,4958.0
-2017,Classic Rock,Portugal,6468.0
-2017,Classic Rock,Switzerland,2549.0
-2017,Classic Rock,United States of America,183669.0
 2017,Country,Australia,17428846.0
 2017,Country,Belgium,441188.0
 2017,Country,Canada,59251346.0
@@ -356,14 +247,12 @@ chart_year,Genre,region,sum
 2017,Country,Taiwan,336570.0
 2017,Country,Turkey,122180.0
 2017,Country,United States of America,760276078.0
-2017,Dakke Dak,Denmark,4576087.0
-2017,Dakke Dak,Norway,320742.0
 2017,Dance,Argentina,184691.0
 2017,Dance,Australia,3402719.0
-2017,Dance,Austria,78988.0
+2017,Dance,Austria,85694.0
 2017,Dance,Belgium,84644.0
 2017,Dance,Brazil,1230945.0
-2017,Dance,Canada,194997.0
+2017,Dance,Canada,1297665.0
 2017,Dance,Chile,917838.0
 2017,Dance,Colombia,313122.0
 2017,Dance,Costa Rica,566182.0
@@ -371,7 +260,7 @@ chart_year,Genre,region,sum
 2017,Dance,Ecuador,52388.0
 2017,Dance,Finland,441331.0
 2017,Dance,France,61440.0
-2017,Dance,Germany,1439051.0
+2017,Dance,Germany,1476186.0
 2017,Dance,Global,13056039.0
 2017,Dance,Indonesia,65187.0
 2017,Dance,Ireland,308995.0
@@ -383,7 +272,7 @@ chart_year,Genre,region,sum
 2017,Dance,Norway,185469.0
 2017,Dance,Peru,340881.0
 2017,Dance,Philippines,37428.0
-2017,Dance,Poland,405955.0
+2017,Dance,Poland,419870.0
 2017,Dance,Portugal,126294.0
 2017,Dance,Singapore,43129.0
 2017,Dance,Spain,1024513.0
@@ -391,16 +280,7 @@ chart_year,Genre,region,sum
 2017,Dance,Switzerland,93071.0
 2017,Dance,Taiwan,73978.0
 2017,Dance,Turkey,753967.0
-2017,Dance,United States of America,191964.0
-2017,Dance Pop,Finland,1002144.0
-2017,Dance Rock,Australia,35122.0
-2017,Dance Rock,Belgium,2813.0
-2017,Dance Rock,Ireland,12320.0
-2017,Dance Rock,Poland,16231.0
-2017,Dance Rock,Portugal,11565.0
-2017,Dance Rock,Turkey,19892.0
-2017,Dancehall,Costa Rica,1679334.0
-2017,Dangdut,Indonesia,31810.0
+2017,Dance,United States of America,1215733.0
 2017,Disco,Australia,1873567.0
 2017,Disco,Austria,4423.0
 2017,Disco,Belgium,396131.0
@@ -416,180 +296,88 @@ chart_year,Genre,region,sum
 2017,Disco,Sweden,53907.0
 2017,Disco,Switzerland,47214.0
 2017,Disco,United States of America,745118.0
-2017,Double Drumming,Canada,21294.0
-2017,Double Drumming,Ireland,3749.0
-2017,Double Drumming,Italy,178124.0
-2017,Double Drumming,Poland,6716.0
-2017,Downtempo,Australia,614227.0
-2017,Downtempo,Austria,76478.0
-2017,Downtempo,Belgium,593232.0
-2017,Downtempo,Brazil,38634.0
-2017,Downtempo,Canada,139349.0
-2017,Downtempo,Colombia,4532.0
-2017,Downtempo,Denmark,43166.0
-2017,Downtempo,Finland,23219.0
-2017,Downtempo,France,233938.0
-2017,Downtempo,Germany,888963.0
-2017,Downtempo,Global,10348733.0
-2017,Downtempo,Indonesia,6379.0
-2017,Downtempo,Ireland,211473.0
-2017,Downtempo,Italy,5819880.0
-2017,Downtempo,Malaysia,8944.0
-2017,Downtempo,Mexico,116420.0
-2017,Downtempo,Netherlands,141482.0
-2017,Downtempo,New Zealand,44106.0
-2017,Downtempo,Norway,50692.0
-2017,Downtempo,Poland,499349.0
-2017,Downtempo,Portugal,664553.0
-2017,Downtempo,Singapore,28708.0
-2017,Downtempo,Spain,186699.0
-2017,Downtempo,Sweden,277941.0
-2017,Downtempo,Switzerland,148075.0
-2017,Downtempo,Taiwan,60766.0
-2017,Downtempo,Turkey,11944.0
-2017,Downtempo,United States of America,1752893.0
-2017,Drill,Austria,29292.0
-2017,Drill,France,4365203.0
-2017,Drill,Germany,4957964.0
-2017,Drill,Switzerland,35261.0
-2017,Edm,Australia,516251.0
-2017,Edm,Austria,833591.0
-2017,Edm,Belgium,1464277.0
-2017,Edm,Canada,1482639.0
-2017,Edm,Denmark,7764.0
-2017,Edm,France,9330520.0
-2017,Edm,Germany,6801295.0
-2017,Edm,Global,45301631.0
-2017,Edm,Indonesia,498614.0
-2017,Edm,Ireland,232755.0
-2017,Edm,Italy,747064.0
-2017,Edm,Malaysia,342457.0
-2017,Edm,Mexico,113470.0
-2017,Edm,Netherlands,9328080.0
-2017,Edm,New Zealand,8039.0
-2017,Edm,Norway,3328042.0
-2017,Edm,Philippines,1517209.0
-2017,Edm,Poland,1748318.0
-2017,Edm,Portugal,120773.0
-2017,Edm,Singapore,1958936.0
-2017,Edm,Spain,228331.0
-2017,Edm,Sweden,7556357.0
-2017,Edm,Switzerland,1901152.0
-2017,Edm,Taiwan,821938.0
-2017,Edm,Turkey,120353.0
-2017,Edm,United States of America,16282594.0
-2017,Electro House,Argentina,1733727.0
-2017,Electro House,Australia,2035943.0
-2017,Electro House,Austria,2227847.0
-2017,Electro House,Belgium,1300078.0
-2017,Electro House,Brazil,6695481.0
-2017,Electro House,Canada,2644248.0
-2017,Electro House,Chile,3227803.0
-2017,Electro House,Colombia,2393921.0
-2017,Electro House,Costa Rica,2743544.0
-2017,Electro House,Denmark,2664365.0
-2017,Electro House,Ecuador,1209066.0
-2017,Electro House,Finland,17928230.0
-2017,Electro House,France,2526443.0
-2017,Electro House,Germany,25193015.0
-2017,Electro House,Global,241059530.0
-2017,Electro House,Indonesia,14298004.0
-2017,Electro House,Ireland,480144.0
-2017,Electro House,Italy,5151865.0
-2017,Electro House,Malaysia,11616446.0
-2017,Electro House,Mexico,44596101.0
-2017,Electro House,Netherlands,4068957.0
-2017,Electro House,New Zealand,562800.0
-2017,Electro House,Norway,38408112.0
-2017,Electro House,Peru,8247394.0
-2017,Electro House,Philippines,1488870.0
-2017,Electro House,Poland,3447859.0
-2017,Electro House,Portugal,891980.0
-2017,Electro House,Singapore,8498610.0
-2017,Electro House,Spain,7940852.0
-2017,Electro House,Sweden,23407858.0
-2017,Electro House,Switzerland,4549995.0
-2017,Electro House,Taiwan,7302208.0
-2017,Electro House,Turkey,1835694.0
-2017,Electronic,Australia,64136.0
-2017,Electronic,Canada,2189923.0
-2017,Electronic,Ireland,4189.0
-2017,Electronic,New Zealand,8860.0
-2017,Electronica,Australia,259739.0
+2017,EDM,Argentina,5262037.0
+2017,EDM,Australia,39231122.0
+2017,EDM,Austria,15868654.0
+2017,EDM,Belgium,15700017.0
+2017,EDM,Brazil,38745567.0
+2017,EDM,Canada,36006692.0
+2017,EDM,Chile,6827520.0
+2017,EDM,Colombia,5310833.0
+2017,EDM,Costa Rica,4413241.0
+2017,EDM,Denmark,24439404.0
+2017,EDM,Ecuador,2510663.0
+2017,EDM,Finland,39116007.0
+2017,EDM,France,41155019.0
+2017,EDM,Germany,223637001.0
+2017,EDM,Global,1397710632.0
+2017,EDM,Indonesia,36423224.0
+2017,EDM,Ireland,15680264.0
+2017,EDM,Italy,50335105.0
+2017,EDM,Malaysia,19090764.0
+2017,EDM,Mexico,69348163.0
+2017,EDM,Netherlands,72817736.0
+2017,EDM,New Zealand,8985700.0
+2017,EDM,Norway,97694572.0
+2017,EDM,Peru,10644433.0
+2017,EDM,Philippines,18831415.0
+2017,EDM,Poland,25507089.0
+2017,EDM,Portugal,6502501.0
+2017,EDM,Singapore,22920257.0
+2017,EDM,Spain,36333670.0
+2017,EDM,Sweden,149159462.0
+2017,EDM,Switzerland,19939146.0
+2017,EDM,Taiwan,12366067.0
+2017,EDM,Turkey,8556023.0
+2017,EDM,United States of America,129205939.0
+2017,Electronica,Australia,643466.0
 2017,Electronica,Austria,3917.0
+2017,Electronica,Canada,2189923.0
+2017,Electronica,Denmark,216195.0
 2017,Electronica,France,1962659.0
 2017,Electronica,Germany,84316.0
-2017,Electronica,Ireland,7654.0
+2017,Electronica,Global,8488223.0
+2017,Electronica,Ireland,1948828.0
 2017,Electronica,Italy,17064.0
+2017,Electronica,New Zealand,26369.0
 2017,Electronica,Spain,21242.0
 2017,Electronica,Sweden,25250.0
-2017,Electronica,Taiwan,6062.0
+2017,Electronica,Taiwan,8901.0
 2017,Electronica,Turkey,17100.0
-2017,Electropop,Australia,1196047.0
-2017,Electropop,Canada,592396.0
-2017,Emo,Australia,82413.0
-2017,Emo,Austria,8764.0
-2017,Emo,Belgium,122209.0
-2017,Emo,Canada,1338646.0
-2017,Emo,Finland,2639695.0
-2017,Emo,Global,29358487.0
-2017,Emo,Ireland,260502.0
-2017,Emo,Malaysia,25839.0
-2017,Emo,Philippines,60718.0
-2017,Emo,Poland,252937.0
-2017,Emo,Portugal,135305.0
-2017,Emo,Singapore,568704.0
-2017,Emo,Sweden,41115.0
-2017,Emo,Switzerland,3443.0
-2017,Emo,Taiwan,99330.0
-2017,Emo,United States of America,20627274.0
-2017,Europop,Belgium,9907.0
-2017,Europop,Denmark,76651.0
-2017,Europop,Finland,68213.0
-2017,Europop,Ireland,3485.0
-2017,Europop,Sweden,515275.0
-2017,Eurovision,Austria,269853.0
-2017,Eurovision,Belgium,1469153.0
-2017,Eurovision,Denmark,79317.0
-2017,Eurovision,Finland,158461.0
-2017,Eurovision,Germany,252284.0
-2017,Eurovision,Global,1050839.0
-2017,Eurovision,Ireland,12565.0
-2017,Eurovision,Netherlands,561697.0
-2017,Eurovision,Norway,288371.0
-2017,Eurovision,Poland,185113.0
-2017,Eurovision,Portugal,90102.0
-2017,Eurovision,Spain,215391.0
-2017,Eurovision,Sweden,5048528.0
-2017,Eurovision,Switzerland,11987.0
-2017,Folk,Australia,15111.0
-2017,Folk,Canada,273377.0
-2017,Folk,France,47902.0
-2017,Folk,Indonesia,1561357.0
-2017,Folk,Ireland,11460.0
-2017,Folk,Philippines,59880.0
-2017,Folk Rock,Canada,21105.0
-2017,Folk Rock,Ireland,289785.0
-2017,Folk-pop,Australia,9073442.0
-2017,Folk-pop,Austria,1456.0
-2017,Folk-pop,Belgium,41977.0
-2017,Folk-pop,Canada,2789759.0
-2017,Folk-pop,Denmark,7584.0
-2017,Folk-pop,Finland,7819.0
-2017,Folk-pop,France,35537.0
-2017,Folk-pop,Ireland,865703.0
-2017,Folk-pop,Italy,852276.0
-2017,Folk-pop,Netherlands,31298.0
-2017,Folk-pop,New Zealand,1355945.0
-2017,Folk-pop,Norway,18359.0
-2017,Folk-pop,Poland,1769030.0
-2017,Folk-pop,Singapore,4734.0
-2017,Folk-pop,Sweden,207310.0
-2017,Folk-pop,Switzerland,286419.0
-2017,Folk-pop,Taiwan,8768.0
-2017,Folk-pop,United States of America,391595.0
-2017,Francoton,France,4916903.0
-2017,Francoton,Taiwan,3189.0
+2017,Electronica,United States of America,189260.0
+2017,Folk,Argentina,216199.0
+2017,Folk,Australia,19469348.0
+2017,Folk,Austria,500270.0
+2017,Folk,Belgium,1392234.0
+2017,Folk,Brazil,2514373.0
+2017,Folk,Canada,6989154.0
+2017,Folk,Chile,669841.0
+2017,Folk,Colombia,85043.0
+2017,Folk,Costa Rica,145344.0
+2017,Folk,Ecuador,81276.0
+2017,Folk,Finland,35891.0
+2017,Folk,France,1373595.0
+2017,Folk,Germany,2251263.0
+2017,Folk,Global,99425660.0
+2017,Folk,Indonesia,1897231.0
+2017,Folk,Ireland,12347628.0
+2017,Folk,Italy,761634.0
+2017,Folk,Malaysia,245965.0
+2017,Folk,Mexico,2121843.0
+2017,Folk,Netherlands,1083814.0
+2017,Folk,New Zealand,1239453.0
+2017,Folk,Norway,4070500.0
+2017,Folk,Peru,132702.0
+2017,Folk,Philippines,1009436.0
+2017,Folk,Poland,2148545.0
+2017,Folk,Portugal,375163.0
+2017,Folk,Singapore,435223.0
+2017,Folk,Spain,757962.0
+2017,Folk,Sweden,2601659.0
+2017,Folk,Switzerland,1161063.0
+2017,Folk,Taiwan,203812.0
+2017,Folk,Turkey,496658.0
+2017,Folk,United States of America,39131369.0
 2017,Funk,Australia,42212.0
 2017,Funk,Belgium,26671.0
 2017,Funk,Finland,8111.0
@@ -597,55 +385,9 @@ chart_year,Genre,region,sum
 2017,Funk,Poland,12141.0
 2017,Funk,Sweden,36075.0
 2017,Funk,United States of America,943794.0
-2017,Gangster Rap,Australia,42132.0
-2017,Gangster Rap,Ireland,3440.0
-2017,Gangster Rap,New Zealand,11585.0
-2017,Gangster Rap,United States of America,209249.0
-2017,Garage Punk,Australia,113272.0
-2017,Glam Metal,Australia,221125.0
-2017,Glam Metal,Austria,3348.0
-2017,Glam Metal,Brazil,97843.0
-2017,Glam Metal,Costa Rica,24003.0
-2017,Glam Metal,Denmark,99035.0
-2017,Glam Metal,Finland,60228.0
-2017,Glam Metal,Ireland,54584.0
-2017,Glam Metal,New Zealand,130653.0
-2017,Glam Metal,Portugal,14768.0
-2017,Glam Metal,Singapore,3304.0
-2017,Glam Metal,Sweden,135622.0
-2017,Glam Metal,Switzerland,9054.0
-2017,Glam Rock,Australia,633899.0
-2017,Glam Rock,Austria,124839.0
-2017,Glam Rock,Belgium,25405.0
-2017,Glam Rock,Canada,93084.0
-2017,Glam Rock,Denmark,197814.0
-2017,Glam Rock,Finland,5958.0
-2017,Glam Rock,France,82080.0
-2017,Glam Rock,Germany,1205697.0
-2017,Glam Rock,Global,9328832.0
-2017,Glam Rock,Ireland,448415.0
-2017,Glam Rock,Italy,451449.0
-2017,Glam Rock,New Zealand,164613.0
-2017,Glam Rock,Norway,56563.0
-2017,Glam Rock,Portugal,7161.0
-2017,Glam Rock,Spain,47941.0
-2017,Glam Rock,Sweden,549221.0
-2017,Glam Rock,Switzerland,92748.0
-2017,Glam Rock,Taiwan,11946.0
-2017,Glam Rock,United States of America,203971.0
-2017,Grime,Australia,319591.0
-2017,Grime,Denmark,216195.0
-2017,Grime,Global,8488223.0
-2017,Grime,Ireland,1933357.0
-2017,Grime,New Zealand,17509.0
-2017,Grime,Taiwan,2839.0
-2017,Halloween,Canada,78508.0
-2017,Halloween,Global,1192726.0
-2017,Halloween,Ireland,12370.0
-2017,Halloween,United States of America,729144.0
 2017,Hip Hop,Argentina,6959187.0
 2017,Hip Hop,Australia,64580454.0
-2017,Hip Hop,Austria,2349063.0
+2017,Hip Hop,Austria,2378355.0
 2017,Hip Hop,Belgium,4809748.0
 2017,Hip Hop,Brazil,10160069.0
 2017,Hip Hop,Canada,165841496.0
@@ -655,8 +397,8 @@ chart_year,Genre,region,sum
 2017,Hip Hop,Denmark,23254865.0
 2017,Hip Hop,Ecuador,528611.0
 2017,Hip Hop,Finland,4957728.0
-2017,Hip Hop,France,26072851.0
-2017,Hip Hop,Germany,45954136.0
+2017,Hip Hop,France,30438054.0
+2017,Hip Hop,Germany,50912100.0
 2017,Hip Hop,Global,1785602079.0
 2017,Hip Hop,Indonesia,12505659.0
 2017,Hip Hop,Ireland,9186524.0
@@ -673,48 +415,10 @@ chart_year,Genre,region,sum
 2017,Hip Hop,Singapore,3378520.0
 2017,Hip Hop,Spain,7876388.0
 2017,Hip Hop,Sweden,28248735.0
-2017,Hip Hop,Switzerland,5766969.0
+2017,Hip Hop,Switzerland,5802230.0
 2017,Hip Hop,Taiwan,1392394.0
 2017,Hip Hop,Turkey,4230521.0
 2017,Hip Hop,United States of America,1880910413.0
-2017,Hip Pop,Australia,20830.0
-2017,Hip Pop,France,31523.0
-2017,Hip Pop,Ireland,13303.0
-2017,Hip Pop,Malaysia,3676.0
-2017,Hip Pop,Philippines,18709.0
-2017,Hip Pop,Singapore,4198.0
-2017,Hollywood,Italy,71835.0
-2017,Hollywood,Malaysia,14500.0
-2017,Hollywood,Singapore,9635.0
-2017,Hollywood,Taiwan,33766.0
-2017,Hopebeat,Austria,1656.0
-2017,Hopebeat,Belgium,3005.0
-2017,Hopebeat,Poland,5878.0
-2017,Hopebeat,Switzerland,2852.0
-2017,Hopebeat,United States of America,164012.0
-2017,House,Austria,641773.0
-2017,House,Belgium,797597.0
-2017,House,Brazil,27361.0
-2017,House,Canada,976993.0
-2017,House,Denmark,14647.0
-2017,House,Finland,20056.0
-2017,House,France,31682.0
-2017,House,Germany,3853102.0
-2017,House,Global,9712039.0
-2017,House,Indonesia,263312.0
-2017,House,Ireland,2961745.0
-2017,House,Italy,459093.0
-2017,House,Malaysia,135163.0
-2017,House,Netherlands,3103991.0
-2017,House,Norway,304966.0
-2017,House,Philippines,639623.0
-2017,House,Poland,540288.0
-2017,House,Portugal,29192.0
-2017,House,Singapore,243132.0
-2017,House,Sweden,1329067.0
-2017,House,Switzerland,197773.0
-2017,House,Taiwan,96408.0
-2017,House,United States of America,2239703.0
 2017,Indie,Australia,8860218.0
 2017,Indie,Austria,86622.0
 2017,Indie,Belgium,3644262.0
@@ -722,133 +426,29 @@ chart_year,Genre,region,sum
 2017,Indie,France,2230512.0
 2017,Indie,Germany,184850.0
 2017,Indie,Global,3927392.0
-2017,Indie,Indonesia,4974578.0
+2017,Indie,Indonesia,5704643.0
 2017,Indie,Ireland,892325.0
 2017,Indie,Italy,1052256.0
-2017,Indie,Malaysia,16316.0
+2017,Indie,Malaysia,709467.0
 2017,Indie,Netherlands,5852753.0
 2017,Indie,New Zealand,12091.0
 2017,Indie,Norway,102044.0
 2017,Indie,Philippines,363197.0
 2017,Indie,Poland,213903.0
 2017,Indie,Portugal,48985.0
-2017,Indie,Singapore,249402.0
+2017,Indie,Singapore,812213.0
+2017,Indie,Sweden,290633.0
 2017,Indie,Switzerland,162792.0
-2017,Indie,Taiwan,107021.0
+2017,Indie,Taiwan,619725.0
 2017,Indie,Turkey,180007.0
 2017,Indie,United States of America,8042753.0
-2017,Indie Anthem-folk,Finland,30648.0
-2017,Indie Anthem-folk,France,30420.0
-2017,Indie Anthem-folk,Ireland,10764390.0
-2017,Indie Anthem-folk,Singapore,3755.0
-2017,Indie Anthem-folk,Taiwan,3010.0
-2017,Indie Folk,Argentina,216199.0
-2017,Indie Folk,Australia,19454237.0
-2017,Indie Folk,Austria,500270.0
-2017,Indie Folk,Belgium,1392234.0
-2017,Indie Folk,Brazil,2514373.0
-2017,Indie Folk,Canada,6715777.0
-2017,Indie Folk,Chile,669841.0
-2017,Indie Folk,Colombia,85043.0
-2017,Indie Folk,Costa Rica,145344.0
-2017,Indie Folk,Ecuador,81276.0
-2017,Indie Folk,Finland,5243.0
-2017,Indie Folk,France,1295273.0
-2017,Indie Folk,Germany,2251263.0
-2017,Indie Folk,Global,99425660.0
-2017,Indie Folk,Indonesia,335874.0
-2017,Indie Folk,Ireland,1571778.0
-2017,Indie Folk,Italy,761634.0
-2017,Indie Folk,Malaysia,245965.0
-2017,Indie Folk,Mexico,2121843.0
-2017,Indie Folk,Netherlands,1083814.0
-2017,Indie Folk,New Zealand,1239453.0
-2017,Indie Folk,Norway,4070500.0
-2017,Indie Folk,Peru,132702.0
-2017,Indie Folk,Philippines,949556.0
-2017,Indie Folk,Poland,2148545.0
-2017,Indie Folk,Portugal,375163.0
-2017,Indie Folk,Singapore,431468.0
-2017,Indie Folk,Spain,757962.0
-2017,Indie Folk,Sweden,2601659.0
-2017,Indie Folk,Switzerland,1161063.0
-2017,Indie Folk,Taiwan,200802.0
-2017,Indie Folk,Turkey,496658.0
-2017,Indie Folk,United States of America,39131369.0
-2017,Indie Pop,Australia,1196215.0
-2017,Indie Pop,Austria,99912.0
-2017,Indie Pop,Belgium,704326.0
-2017,Indie Pop,Canada,3930612.0
-2017,Indie Pop,Denmark,8160.0
-2017,Indie Pop,Finland,641327.0
-2017,Indie Pop,France,73737.0
-2017,Indie Pop,Global,38099011.0
-2017,Indie Pop,Indonesia,104006.0
-2017,Indie Pop,Ireland,1155997.0
-2017,Indie Pop,Italy,69305.0
-2017,Indie Pop,Malaysia,66953.0
-2017,Indie Pop,New Zealand,69278.0
-2017,Indie Pop,Norway,4929900.0
-2017,Indie Pop,Philippines,112833.0
-2017,Indie Pop,Poland,2440460.0
-2017,Indie Pop,Portugal,120200.0
-2017,Indie Pop,Singapore,1459156.0
-2017,Indie Pop,Sweden,8017909.0
-2017,Indie Pop,Switzerland,2034467.0
-2017,Indie Pop,Taiwan,102993.0
-2017,Indie Pop,United States of America,12492314.0
-2017,Indie Rock,Argentina,88125.0
-2017,Indie Rock,Australia,15926526.0
-2017,Indie Rock,Austria,3049603.0
-2017,Indie Rock,Belgium,1878130.0
-2017,Indie Rock,Brazil,1515574.0
-2017,Indie Rock,Canada,9553861.0
-2017,Indie Rock,Colombia,399634.0
-2017,Indie Rock,Costa Rica,97782.0
-2017,Indie Rock,Denmark,1863481.0
-2017,Indie Rock,Ecuador,127101.0
-2017,Indie Rock,Finland,2095121.0
-2017,Indie Rock,France,8937864.0
-2017,Indie Rock,Germany,15663844.0
-2017,Indie Rock,Global,237033130.0
-2017,Indie Rock,Indonesia,1526034.0
-2017,Indie Rock,Ireland,1709581.0
-2017,Indie Rock,Italy,3268887.0
-2017,Indie Rock,Malaysia,922522.0
-2017,Indie Rock,Mexico,2664492.0
-2017,Indie Rock,Netherlands,5716672.0
-2017,Indie Rock,New Zealand,3696149.0
-2017,Indie Rock,Norway,7295015.0
-2017,Indie Rock,Peru,6299.0
-2017,Indie Rock,Philippines,2002147.0
-2017,Indie Rock,Poland,3793101.0
-2017,Indie Rock,Portugal,1672863.0
-2017,Indie Rock,Singapore,1655054.0
-2017,Indie Rock,Spain,5211621.0
-2017,Indie Rock,Sweden,4806568.0
-2017,Indie Rock,Switzerland,1953981.0
-2017,Indie Rock,Taiwan,634747.0
-2017,Indie Rock,Turkey,1277590.0
-2017,Indie Rock,United States of America,94772769.0
-2017,Indiecoustica,Sweden,290633.0
-2017,Indiecoustica,Taiwan,2842.0
-2017,Indietronica,Ireland,3628.0
-2017,J-Rock,Taiwan,3028.0
-2017,J-idol,Indonesia,368381.0
-2017,J-idol,Malaysia,116690.0
-2017,J-idol,Singapore,161020.0
-2017,J-idol,Taiwan,214975.0
-2017,Jam Band,Belgium,7790.0
-2017,Jam Band,Canada,22608.0
-2017,Jam Band,Ireland,4719.0
-2017,Jam Band,Portugal,3083.0
-2017,Jam Band,Switzerland,5916.0
+2017,J-pop,Indonesia,368381.0
+2017,J-pop,Malaysia,116690.0
+2017,J-pop,Singapore,161020.0
+2017,J-pop,Taiwan,214975.0
+2017,J-rock,Taiwan,3028.0
 2017,Jazz,Netherlands,238426.0
 2017,Jazz,Norway,85550.0
-2017,K-indie,Indonesia,730065.0
-2017,K-indie,Malaysia,693151.0
-2017,K-indie,Singapore,562811.0
-2017,K-indie,Taiwan,509862.0
 2017,K-pop,Argentina,17202.0
 2017,K-pop,Australia,41199.0
 2017,K-pop,Austria,7013.0
@@ -871,208 +471,62 @@ chart_year,Genre,region,sum
 2017,K-pop,Taiwan,1389943.0
 2017,K-pop,Turkey,99477.0
 2017,K-pop,United States of America,1356962.0
-2017,Latin,Ireland,3123.0
-2017,Latin,Mexico,128536.0
-2017,Lilith,Ireland,7209.0
-2017,Lilith,Philippines,441213.0
 2017,Mandopop,Taiwan,759536.0
-2017,Melancholia,Netherlands,84224.0
-2017,Metal,Finland,22977.0
-2017,Metropopolis,Australia,229303.0
-2017,Metropopolis,Austria,32236.0
-2017,Metropopolis,Belgium,71641.0
-2017,Metropopolis,Brazil,170086.0
-2017,Metropopolis,Denmark,9985.0
-2017,Metropopolis,Finland,60267.0
-2017,Metropopolis,France,341411.0
-2017,Metropopolis,Germany,220338.0
-2017,Metropopolis,Global,999941.0
-2017,Metropopolis,Ireland,781957.0
-2017,Metropopolis,Italy,46069.0
-2017,Metropopolis,Netherlands,54246.0
-2017,Metropopolis,Norway,60270.0
-2017,Metropopolis,Poland,31761.0
-2017,Metropopolis,Portugal,111770.0
-2017,Metropopolis,Sweden,382068.0
-2017,Metropopolis,Switzerland,17667.0
-2017,Metropopolis,Taiwan,7917.0
-2017,Motown,Australia,941020.0
-2017,Motown,Belgium,9594.0
-2017,Motown,Canada,74052.0
-2017,Motown,Chile,19705.0
-2017,Motown,Denmark,194132.0
-2017,Motown,Ecuador,2063.0
-2017,Motown,Global,3969975.0
-2017,Motown,Ireland,236055.0
-2017,Motown,Italy,23235.0
-2017,Motown,Mexico,65602.0
-2017,Motown,New Zealand,230401.0
-2017,Motown,Norway,473461.0
-2017,Motown,Philippines,116021.0
-2017,Motown,Portugal,10862.0
-2017,Motown,Spain,64008.0
-2017,Motown,Sweden,95755.0
-2017,Motown,Taiwan,8299.0
-2017,Motown,United States of America,1283367.0
-2017,Neo Mellow,Australia,20657586.0
-2017,Neo Mellow,Austria,2936815.0
-2017,Neo Mellow,Belgium,5420857.0
-2017,Neo Mellow,Brazil,1100259.0
-2017,Neo Mellow,Canada,7149610.0
-2017,Neo Mellow,Chile,7537.0
-2017,Neo Mellow,Colombia,218589.0
-2017,Neo Mellow,Costa Rica,102120.0
-2017,Neo Mellow,Denmark,30488348.0
-2017,Neo Mellow,Ecuador,48414.0
-2017,Neo Mellow,Finland,1251036.0
-2017,Neo Mellow,France,12317429.0
-2017,Neo Mellow,Germany,24575876.0
-2017,Neo Mellow,Global,418735436.0
-2017,Neo Mellow,Indonesia,2565507.0
-2017,Neo Mellow,Ireland,12270218.0
-2017,Neo Mellow,Italy,14586476.0
-2017,Neo Mellow,Malaysia,1690267.0
-2017,Neo Mellow,Mexico,32949.0
-2017,Neo Mellow,Netherlands,48252089.0
-2017,Neo Mellow,New Zealand,6792023.0
-2017,Neo Mellow,Norway,22928873.0
-2017,Neo Mellow,Philippines,7182609.0
-2017,Neo Mellow,Poland,3981870.0
-2017,Neo Mellow,Portugal,2744468.0
-2017,Neo Mellow,Singapore,5844834.0
-2017,Neo Mellow,Spain,2729912.0
-2017,Neo Mellow,Sweden,30129000.0
-2017,Neo Mellow,Switzerland,5571127.0
-2017,Neo Mellow,Taiwan,813568.0
-2017,Neo Mellow,Turkey,863881.0
-2017,Neo Mellow,United States of America,44999234.0
-2017,New Wave Pop,Ireland,29364.0
-2017,Norges Stemme,Norway,9670.0
-2017,Opm,Philippines,725960.0
-2017,Opm,Taiwan,2334.0
-2017,Permanent Wave,Argentina,6939178.0
-2017,Permanent Wave,Australia,837347.0
-2017,Permanent Wave,Austria,244611.0
-2017,Permanent Wave,Belgium,774217.0
-2017,Permanent Wave,Brazil,4587910.0
-2017,Permanent Wave,Canada,199353.0
-2017,Permanent Wave,Chile,3793905.0
-2017,Permanent Wave,Colombia,1260283.0
-2017,Permanent Wave,Costa Rica,1221611.0
-2017,Permanent Wave,Denmark,643848.0
-2017,Permanent Wave,Ecuador,752507.0
-2017,Permanent Wave,Finland,48899.0
-2017,Permanent Wave,France,38013.0
-2017,Permanent Wave,Germany,2415570.0
-2017,Permanent Wave,Global,95060795.0
-2017,Permanent Wave,Indonesia,6576766.0
-2017,Permanent Wave,Ireland,1811360.0
-2017,Permanent Wave,Italy,1230941.0
-2017,Permanent Wave,Malaysia,5411092.0
-2017,Permanent Wave,Mexico,15970373.0
-2017,Permanent Wave,Netherlands,1065646.0
-2017,Permanent Wave,New Zealand,179352.0
-2017,Permanent Wave,Norway,3421024.0
-2017,Permanent Wave,Peru,2471864.0
-2017,Permanent Wave,Philippines,21269995.0
-2017,Permanent Wave,Poland,554477.0
-2017,Permanent Wave,Portugal,269840.0
-2017,Permanent Wave,Singapore,5466880.0
-2017,Permanent Wave,Spain,424822.0
-2017,Permanent Wave,Sweden,6877685.0
-2017,Permanent Wave,Switzerland,168590.0
-2017,Permanent Wave,Taiwan,1969933.0
-2017,Permanent Wave,Turkey,21667.0
-2017,Permanent Wave,United States of America,1020625.0
+2017,Metal,Australia,221125.0
+2017,Metal,Austria,3348.0
+2017,Metal,Brazil,97843.0
+2017,Metal,Costa Rica,24003.0
+2017,Metal,Denmark,99035.0
+2017,Metal,Finland,83205.0
+2017,Metal,Ireland,54584.0
+2017,Metal,New Zealand,130653.0
+2017,Metal,Portugal,14768.0
+2017,Metal,Singapore,3304.0
+2017,Metal,Sweden,135622.0
+2017,Metal,Switzerland,9054.0
 2017,Pop,Argentina,101839840.0
-2017,Pop,Australia,875172356.0
-2017,Pop,Austria,50443344.0
-2017,Pop,Belgium,94359093.0
-2017,Pop,Brazil,512898790.0
-2017,Pop,Canada,576164087.0
+2017,Pop,Australia,886888193.0
+2017,Pop,Austria,50576948.0
+2017,Pop,Belgium,95186944.0
+2017,Pop,Brazil,513068876.0
+2017,Pop,Canada,583476854.0
 2017,Pop,Chile,63664309.0
 2017,Pop,Colombia,48274974.0
 2017,Pop,Costa Rica,34350385.0
-2017,Pop,Denmark,210555893.0
+2017,Pop,Denmark,210658273.0
 2017,Pop,Ecuador,15270356.0
-2017,Pop,Finland,84441144.0
-2017,Pop,France,168111631.0
-2017,Pop,Germany,699781876.0
-2017,Pop,Global,13977726414.0
-2017,Pop,Indonesia,227965804.0
-2017,Pop,Ireland,153988149.0
-2017,Pop,Italy,205468578.0
-2017,Pop,Malaysia,135078180.0
+2017,Pop,Finland,86220914.0
+2017,Pop,France,168593839.0
+2017,Pop,Germany,700002214.0
+2017,Pop,Global,14016825366.0
+2017,Pop,Indonesia,228069810.0
+2017,Pop,Ireland,156837958.0
+2017,Pop,Italy,206436228.0
+2017,Pop,Malaysia,135148809.0
 2017,Pop,Mexico,342636659.0
-2017,Pop,Netherlands,403667591.0
-2017,Pop,New Zealand,196087456.0
-2017,Pop,Norway,270930969.0
+2017,Pop,Netherlands,403753135.0
+2017,Pop,New Zealand,197512679.0
+2017,Pop,Norway,275939498.0
 2017,Pop,Peru,44904890.0
-2017,Pop,Philippines,707423173.0
-2017,Pop,Poland,133603471.0
-2017,Pop,Portugal,69618995.0
-2017,Pop,Singapore,165831205.0
+2017,Pop,Philippines,708280675.0
+2017,Pop,Poland,137844722.0
+2017,Pop,Portugal,69850965.0
+2017,Pop,Singapore,167299293.0
 2017,Pop,Spain,261848478.0
-2017,Pop,Sweden,471366623.0
-2017,Pop,Switzerland,80281784.0
-2017,Pop,Taiwan,69357664.0
+2017,Pop,Sweden,480489185.0
+2017,Pop,Switzerland,82620337.0
+2017,Pop,Taiwan,69479676.0
 2017,Pop,Turkey,88629713.0
-2017,Pop,United States of America,3858837963.0
-2017,Pop Dance,Austria,6706.0
-2017,Pop Dance,Canada,1102668.0
-2017,Pop Dance,Germany,37135.0
-2017,Pop Dance,Poland,13915.0
-2017,Pop Dance,United States of America,1023769.0
-2017,Pop Edm,Austria,124062.0
-2017,Pop Edm,Germany,2014429.0
-2017,Pop Punk,Australia,61574.0
-2017,Pop Punk,Austria,4415.0
-2017,Pop Punk,Ireland,8886.0
-2017,Pop Rap,Argentina,75190.0
-2017,Pop Rap,Australia,17210526.0
-2017,Pop Rap,Austria,1648072.0
-2017,Pop Rap,Belgium,1292570.0
-2017,Pop Rap,Brazil,2018918.0
-2017,Pop Rap,Canada,14481297.0
-2017,Pop Rap,Colombia,265147.0
-2017,Pop Rap,Costa Rica,543974.0
-2017,Pop Rap,Denmark,6075080.0
-2017,Pop Rap,Ecuador,77227.0
-2017,Pop Rap,Finland,3247726.0
-2017,Pop Rap,France,2329454.0
-2017,Pop Rap,Germany,28723433.0
-2017,Pop Rap,Global,262906906.0
-2017,Pop Rap,Indonesia,2407240.0
-2017,Pop Rap,Ireland,1095316.0
-2017,Pop Rap,Italy,2222707.0
-2017,Pop Rap,Malaysia,2654755.0
-2017,Pop Rap,Mexico,1689909.0
-2017,Pop Rap,Netherlands,3268187.0
-2017,Pop Rap,New Zealand,4273932.0
-2017,Pop Rap,Norway,10357811.0
-2017,Pop Rap,Peru,136317.0
-2017,Pop Rap,Philippines,5960019.0
-2017,Pop Rap,Poland,4010170.0
-2017,Pop Rap,Portugal,906705.0
-2017,Pop Rap,Singapore,2000197.0
-2017,Pop Rap,Spain,1557778.0
-2017,Pop Rap,Sweden,6808045.0
-2017,Pop Rap,Switzerland,1563693.0
-2017,Pop Rap,Taiwan,587682.0
-2017,Pop Rap,Turkey,3229856.0
-2017,Pop Rap,United States of America,155216840.0
-2017,Pop Rock,Australia,42227.0
-2017,Pop Rock,Ireland,33483.0
-2017,Pop Rock,Sweden,52668.0
-2017,Pop Soul,Austria,14348.0
-2017,Pop Soul,Germany,224601.0
-2017,Pop Soul,Switzerland,16714.0
+2017,Pop,United States of America,3871721872.0
 2017,Psych,Australia,41515.0
 2017,Psych,Ireland,3666.0
 2017,Psych,Mexico,324051.0
 2017,Psych,Poland,63948.0
 2017,Psych,Portugal,2692.0
 2017,Psych,Spain,31319.0
+2017,Punk,Australia,174846.0
+2017,Punk,Austria,4415.0
+2017,Punk,Ireland,8886.0
 2017,R&b,Argentina,23531.0
 2017,R&b,Australia,11266579.0
 2017,R&b,Austria,903028.0
@@ -1107,111 +561,84 @@ chart_year,Genre,region,sum
 2017,R&b,Taiwan,442719.0
 2017,R&b,Turkey,1265149.0
 2017,R&b,United States of America,205651630.0
-2017,Rap,Argentina,1656032.0
-2017,Rap,Australia,111046076.0
-2017,Rap,Austria,2505915.0
-2017,Rap,Belgium,7237049.0
-2017,Rap,Brazil,20596192.0
-2017,Rap,Canada,148856631.0
+2017,Rap,Argentina,1731222.0
+2017,Rap,Australia,128256602.0
+2017,Rap,Austria,4153987.0
+2017,Rap,Belgium,8529619.0
+2017,Rap,Brazil,22615110.0
+2017,Rap,Canada,163337928.0
 2017,Rap,Chile,2996261.0
-2017,Rap,Colombia,637611.0
-2017,Rap,Costa Rica,1097303.0
-2017,Rap,Denmark,28566266.0
-2017,Rap,Ecuador,372407.0
-2017,Rap,Finland,11467870.0
-2017,Rap,France,10368905.0
-2017,Rap,Germany,39087723.0
-2017,Rap,Global,2640857494.0
-2017,Rap,Indonesia,4539525.0
-2017,Rap,Ireland,8712993.0
-2017,Rap,Italy,35770406.0
-2017,Rap,Malaysia,3376407.0
-2017,Rap,Mexico,11056754.0
-2017,Rap,Netherlands,15396190.0
-2017,Rap,New Zealand,28948077.0
-2017,Rap,Norway,32029813.0
-2017,Rap,Peru,495933.0
-2017,Rap,Philippines,15957422.0
-2017,Rap,Poland,14659765.0
-2017,Rap,Portugal,11701838.0
-2017,Rap,Singapore,4142807.0
-2017,Rap,Spain,6597714.0
-2017,Rap,Sweden,47301507.0
-2017,Rap,Switzerland,7016458.0
-2017,Rap,Taiwan,1630251.0
-2017,Rap,Turkey,2546092.0
-2017,Rap,United States of America,2207361603.0
+2017,Rap,Colombia,902758.0
+2017,Rap,Costa Rica,1641277.0
+2017,Rap,Denmark,34641346.0
+2017,Rap,Ecuador,449634.0
+2017,Rap,Finland,14715596.0
+2017,Rap,France,12698359.0
+2017,Rap,Germany,67811156.0
+2017,Rap,Global,2903764400.0
+2017,Rap,Indonesia,6946765.0
+2017,Rap,Ireland,9808309.0
+2017,Rap,Italy,37993113.0
+2017,Rap,Malaysia,6031162.0
+2017,Rap,Mexico,12746663.0
+2017,Rap,Netherlands,18664377.0
+2017,Rap,New Zealand,33222009.0
+2017,Rap,Norway,42387624.0
+2017,Rap,Peru,632250.0
+2017,Rap,Philippines,21917441.0
+2017,Rap,Poland,18669935.0
+2017,Rap,Portugal,12608543.0
+2017,Rap,Singapore,6143004.0
+2017,Rap,Spain,8155492.0
+2017,Rap,Sweden,54109552.0
+2017,Rap,Switzerland,8580151.0
+2017,Rap,Taiwan,2217933.0
+2017,Rap,Turkey,5775948.0
+2017,Rap,United States of America,2362578443.0
+2017,Reggae,Australia,6188389.0
+2017,Reggae,Belgium,12222.0
+2017,Reggae,Ireland,16261.0
 2017,Reggae,Netherlands,21018.0
-2017,Reggae Fusion,Australia,6188389.0
-2017,Reggae Fusion,Belgium,12222.0
-2017,Reggae Fusion,Ireland,16261.0
-2017,Reggae Fusion,New Zealand,1092331.0
-2017,Reggae Fusion,Switzerland,2431.0
-2017,Reggae Fusion,Taiwan,2292.0
-2017,Rock,Argentina,30276894.0
-2017,Rock,Australia,102321257.0
-2017,Rock,Austria,21542342.0
-2017,Rock,Belgium,26676139.0
-2017,Rock,Brazil,141705129.0
-2017,Rock,Canada,114056609.0
-2017,Rock,Chile,23875488.0
-2017,Rock,Colombia,13454222.0
-2017,Rock,Costa Rica,9778505.0
-2017,Rock,Denmark,28596615.0
-2017,Rock,Ecuador,4839683.0
-2017,Rock,Finland,30638811.0
-2017,Rock,France,94262280.0
-2017,Rock,Germany,285038938.0
-2017,Rock,Global,3171134901.0
-2017,Rock,Indonesia,43724508.0
-2017,Rock,Ireland,23006391.0
-2017,Rock,Italy,101896145.0
-2017,Rock,Malaysia,21010654.0
-2017,Rock,Mexico,161209962.0
-2017,Rock,Netherlands,136221762.0
-2017,Rock,New Zealand,31965090.0
-2017,Rock,Norway,79284854.0
-2017,Rock,Peru,11722072.0
-2017,Rock,Philippines,98694100.0
-2017,Rock,Poland,54652090.0
-2017,Rock,Portugal,17889679.0
-2017,Rock,Singapore,28329193.0
-2017,Rock,Spain,61345651.0
-2017,Rock,Sweden,105122040.0
-2017,Rock,Switzerland,23345216.0
-2017,Rock,Taiwan,11044782.0
-2017,Rock,Turkey,45456593.0
-2017,Rock,United States of America,857865624.0
-2017,Rock-and-roll,Australia,366607.0
-2017,Rock-and-roll,Austria,13699.0
-2017,Rock-and-roll,Belgium,151139.0
-2017,Rock-and-roll,Canada,1334015.0
-2017,Rock-and-roll,Chile,32418.0
-2017,Rock-and-roll,Costa Rica,2093.0
-2017,Rock-and-roll,Denmark,154285.0
-2017,Rock-and-roll,Ecuador,2739.0
-2017,Rock-and-roll,Finland,12127.0
-2017,Rock-and-roll,France,111779.0
-2017,Rock-and-roll,Germany,120370.0
-2017,Rock-and-roll,Global,18660031.0
-2017,Rock-and-roll,Ireland,97710.0
-2017,Rock-and-roll,Malaysia,17026.0
-2017,Rock-and-roll,Mexico,90123.0
-2017,Rock-and-roll,Netherlands,772384.0
-2017,Rock-and-roll,New Zealand,83508.0
-2017,Rock-and-roll,Norway,203767.0
-2017,Rock-and-roll,Peru,6776.0
-2017,Rock-and-roll,Poland,47396.0
-2017,Rock-and-roll,Portugal,33257.0
-2017,Rock-and-roll,Singapore,29558.0
-2017,Rock-and-roll,Spain,51714.0
-2017,Rock-and-roll,Sweden,1827737.0
-2017,Rock-and-roll,Switzerland,28054.0
-2017,Rock-and-roll,United States of America,11662943.0
-2017,Soca,Ireland,11746.0
+2017,Reggae,New Zealand,1092331.0
+2017,Reggae,Switzerland,2431.0
+2017,Reggae,Taiwan,2292.0
+2017,Rock,Argentina,30365019.0
+2017,Rock,Australia,119653671.0
+2017,Rock,Austria,24740911.0
+2017,Rock,Belgium,28871476.0
+2017,Rock,Brazil,143220703.0
+2017,Rock,Canada,126397320.0
+2017,Rock,Chile,23907906.0
+2017,Rock,Colombia,13853856.0
+2017,Rock,Costa Rica,9878380.0
+2017,Rock,Denmark,30812195.0
+2017,Rock,Ecuador,4969523.0
+2017,Rock,Finland,35404636.0
+2017,Rock,France,103413508.0
+2017,Rock,Germany,302028849.0
+2017,Rock,Global,3465997717.0
+2017,Rock,Indonesia,45250542.0
+2017,Rock,Ireland,25890601.0
+2017,Rock,Italy,105627472.0
+2017,Rock,Malaysia,21976041.0
+2017,Rock,Mexico,163964577.0
+2017,Rock,Netherlands,142744041.0
+2017,Rock,New Zealand,35960699.0
+2017,Rock,Norway,86898063.0
+2017,Rock,Peru,11735147.0
+2017,Rock,Philippines,100756965.0
+2017,Rock,Poland,58771045.0
+2017,Rock,Portugal,19756298.0
+2017,Rock,Singapore,30582509.0
+2017,Rock,Spain,66695926.0
+2017,Rock,Sweden,112421489.0
+2017,Rock,Switzerland,25430560.0
+2017,Rock,Taiwan,11790805.0
+2017,Rock,Turkey,46758756.0
+2017,Rock,United States of America,985483237.0
 2017,Soul,Argentina,200125.0
 2017,Soul,Australia,7438303.0
-2017,Soul,Austria,1667192.0
+2017,Soul,Austria,1681540.0
 2017,Soul,Belgium,3754553.0
 2017,Soul,Brazil,130336.0
 2017,Soul,Canada,311624.0
@@ -1222,7 +649,7 @@ chart_year,Genre,region,sum
 2017,Soul,Ecuador,113039.0
 2017,Soul,Finland,4218553.0
 2017,Soul,France,21245516.0
-2017,Soul,Germany,24100803.0
+2017,Soul,Germany,24325404.0
 2017,Soul,Global,218116716.0
 2017,Soul,Indonesia,2999164.0
 2017,Soul,Ireland,5073550.0
@@ -1239,14 +666,12 @@ chart_year,Genre,region,sum
 2017,Soul,Singapore,1730871.0
 2017,Soul,Spain,4727722.0
 2017,Soul,Sweden,18752603.0
-2017,Soul,Switzerland,2950548.0
+2017,Soul,Switzerland,2967262.0
 2017,Soul,Taiwan,171867.0
 2017,Soul,Turkey,7178199.0
 2017,Soul,United States of America,2322341.0
-2017,Stomp And Holler,Ireland,11006.0
 2017,Swing,Global,862954.0
 2017,Swing,Ireland,1671524.0
-2017,Synth,United States of America,189260.0
 2018,A Cappella,Australia,197650.0
 2018,A Cappella,Austria,470287.0
 2018,A Cappella,Belgium,41702.0
@@ -1268,54 +693,6 @@ chart_year,Genre,region,sum
 2018,A Cappella,Switzerland,197547.0
 2018,A Cappella,Taiwan,8191.0
 2018,A Cappella,United States of America,6177945.0
-2018,Acoustic Chill,Denmark,57209.0
-2018,Acoustic Chill,Sweden,637727.0
-2018,Adult Standards,Australia,5367386.0
-2018,Adult Standards,Austria,549902.0
-2018,Adult Standards,Belgium,1104519.0
-2018,Adult Standards,Canada,9162353.0
-2018,Adult Standards,Chile,100223.0
-2018,Adult Standards,Costa Rica,12802.0
-2018,Adult Standards,Denmark,3211089.0
-2018,Adult Standards,Ecuador,20758.0
-2018,Adult Standards,Finland,432978.0
-2018,Adult Standards,France,504633.0
-2018,Adult Standards,Germany,6315067.0
-2018,Adult Standards,Global,110155869.0
-2018,Adult Standards,Indonesia,27850.0
-2018,Adult Standards,Ireland,1620093.0
-2018,Adult Standards,Italy,874089.0
-2018,Adult Standards,Malaysia,177775.0
-2018,Adult Standards,Mexico,95147.0
-2018,Adult Standards,Netherlands,5173804.0
-2018,Adult Standards,New Zealand,1108415.0
-2018,Adult Standards,Norway,3031390.0
-2018,Adult Standards,Peru,22007.0
-2018,Adult Standards,Philippines,500596.0
-2018,Adult Standards,Poland,3365637.0
-2018,Adult Standards,Portugal,387822.0
-2018,Adult Standards,Singapore,370716.0
-2018,Adult Standards,Spain,734143.0
-2018,Adult Standards,Sweden,4830461.0
-2018,Adult Standards,Switzerland,1134725.0
-2018,Adult Standards,Taiwan,43727.0
-2018,Adult Standards,United States of America,48168740.0
-2018,Afrofuturism,Austria,2985.0
-2018,Afrofuturism,Canada,48057.0
-2018,Afrofuturism,Germany,46558.0
-2018,Afrofuturism,Global,802089.0
-2018,Afrofuturism,Indonesia,11041.0
-2018,Afrofuturism,Ireland,13761.0
-2018,Afrofuturism,Malaysia,19822.0
-2018,Afrofuturism,Norway,10601.0
-2018,Afrofuturism,Philippines,22262.0
-2018,Afrofuturism,Poland,11336.0
-2018,Afrofuturism,Singapore,9751.0
-2018,Afrofuturism,Sweden,19946.0
-2018,Afrofuturism,Switzerland,4074.0
-2018,Afrofuturism,Taiwan,47866.0
-2018,Afrofuturism,United States of America,1265968.0
-2018,Alternative,Poland,53237.0
 2018,Alternative Dance,Australia,476376.0
 2018,Alternative Dance,Belgium,20048.0
 2018,Alternative Dance,Canada,26802.0
@@ -1324,7 +701,6 @@ chart_year,Genre,region,sum
 2018,Alternative Dance,New Zealand,5910.0
 2018,Alternative Dance,Norway,42988.0
 2018,Alternative Dance,Portugal,19062.0
-2018,Alternative Emo,Taiwan,3051.0
 2018,Alternative Hip Hop,Argentina,625851.0
 2018,Alternative Hip Hop,Australia,61748185.0
 2018,Alternative Hip Hop,Austria,863582.0
@@ -1379,11 +755,6 @@ chart_year,Genre,region,sum
 2018,Alternative Pop,Australia,16333524.0
 2018,Alternative Pop,New Zealand,738318.0
 2018,Alternative Pop,Taiwan,5376.0
-2018,Alternative Pop Rock,Australia,407524.0
-2018,Alternative Pop Rock,Denmark,689376.0
-2018,Alternative Pop Rock,Ireland,10322.0
-2018,Alternative Pop Rock,Netherlands,159715.0
-2018,Alternative Pop Rock,Poland,50109.0
 2018,Alternative R&b,Australia,70000274.0
 2018,Alternative R&b,Austria,1786035.0
 2018,Alternative R&b,Belgium,3619621.0
@@ -1414,197 +785,96 @@ chart_year,Genre,region,sum
 2018,Alternative R&b,Taiwan,3251117.0
 2018,Alternative R&b,Turkey,1359646.0
 2018,Alternative R&b,United States of America,449642813.0
-2018,Alternative Rock,Argentina,260060.0
-2018,Alternative Rock,Australia,5530036.0
-2018,Alternative Rock,Austria,619258.0
-2018,Alternative Rock,Belgium,127198.0
-2018,Alternative Rock,Brazil,2248897.0
-2018,Alternative Rock,Canada,588609.0
-2018,Alternative Rock,Chile,1219575.0
-2018,Alternative Rock,Colombia,89490.0
-2018,Alternative Rock,Costa Rica,124283.0
-2018,Alternative Rock,Denmark,19501.0
-2018,Alternative Rock,Ecuador,1951.0
-2018,Alternative Rock,Finland,66493.0
+2018,Alternative Rock,Argentina,6702325.0
+2018,Alternative Rock,Australia,7154590.0
+2018,Alternative Rock,Austria,874138.0
+2018,Alternative Rock,Belgium,430200.0
+2018,Alternative Rock,Brazil,3543749.0
+2018,Alternative Rock,Canada,1552791.0
+2018,Alternative Rock,Chile,3491719.0
+2018,Alternative Rock,Colombia,1798021.0
+2018,Alternative Rock,Costa Rica,1357846.0
+2018,Alternative Rock,Denmark,1410185.0
+2018,Alternative Rock,Ecuador,907022.0
+2018,Alternative Rock,Finland,137646.0
 2018,Alternative Rock,France,218832.0
-2018,Alternative Rock,Germany,1608496.0
-2018,Alternative Rock,Global,8149190.0
-2018,Alternative Rock,Indonesia,1304533.0
-2018,Alternative Rock,Ireland,1636186.0
-2018,Alternative Rock,Italy,28998.0
-2018,Alternative Rock,Malaysia,500273.0
-2018,Alternative Rock,Mexico,2122402.0
-2018,Alternative Rock,Netherlands,26637.0
-2018,Alternative Rock,New Zealand,139582.0
-2018,Alternative Rock,Norway,24540.0
-2018,Alternative Rock,Peru,871562.0
-2018,Alternative Rock,Philippines,12507079.0
-2018,Alternative Rock,Poland,4791856.0
-2018,Alternative Rock,Portugal,329777.0
-2018,Alternative Rock,Singapore,125288.0
-2018,Alternative Rock,Sweden,93779.0
-2018,Alternative Rock,Switzerland,64712.0
-2018,Alternative Rock,Taiwan,90573.0
-2018,Alternative Rock,United States of America,5227932.0
-2018,Ambigious / Unknown,Argentina,490835.0
-2018,Ambigious / Unknown,Australia,7436009.0
-2018,Ambigious / Unknown,Austria,1244653.0
-2018,Ambigious / Unknown,Belgium,1977764.0
-2018,Ambigious / Unknown,Brazil,408356.0
-2018,Ambigious / Unknown,Canada,12923468.0
-2018,Ambigious / Unknown,Chile,617223.0
-2018,Ambigious / Unknown,Colombia,120992.0
-2018,Ambigious / Unknown,Costa Rica,251012.0
-2018,Ambigious / Unknown,Denmark,6124171.0
-2018,Ambigious / Unknown,Ecuador,146755.0
-2018,Ambigious / Unknown,Finland,1890307.0
-2018,Ambigious / Unknown,France,710378.0
-2018,Ambigious / Unknown,Germany,13757965.0
-2018,Ambigious / Unknown,Global,277322230.0
-2018,Ambigious / Unknown,Indonesia,4205373.0
-2018,Ambigious / Unknown,Ireland,7659709.0
-2018,Ambigious / Unknown,Italy,3803261.0
-2018,Ambigious / Unknown,Malaysia,4039506.0
-2018,Ambigious / Unknown,Mexico,4183936.0
-2018,Ambigious / Unknown,Netherlands,8288906.0
-2018,Ambigious / Unknown,New Zealand,2051646.0
-2018,Ambigious / Unknown,Norway,5492188.0
-2018,Ambigious / Unknown,Peru,300730.0
-2018,Ambigious / Unknown,Philippines,22355438.0
-2018,Ambigious / Unknown,Poland,2397186.0
-2018,Ambigious / Unknown,Portugal,774025.0
-2018,Ambigious / Unknown,Singapore,3072226.0
-2018,Ambigious / Unknown,Spain,4940312.0
-2018,Ambigious / Unknown,Sweden,26616165.0
-2018,Ambigious / Unknown,Switzerland,1574957.0
-2018,Ambigious / Unknown,Taiwan,530354.0
-2018,Ambigious / Unknown,Turkey,434643.0
-2018,Ambigious / Unknown,United States of America,113429403.0
-2018,Anthem Worship,Belgium,27473.0
-2018,Anthem Worship,Canada,58450.0
-2018,Anthem Worship,Denmark,448725.0
-2018,Anthem Worship,Global,777725.0
-2018,Anthem Worship,Ireland,10564.0
-2018,Anthem Worship,Netherlands,44258.0
-2018,Anthem Worship,Portugal,8583.0
-2018,Anthem Worship,Switzerland,31611.0
-2018,Anthem Worship,United States of America,290059.0
-2018,Australian Indigenous,Australia,58297.0
-2018,Australian Indigenous,Denmark,8215.0
-2018,Australian Indigenous,Norway,39595.0
-2018,Australian Indigenous,Portugal,5816.0
-2018,Australian Indigenous,Spain,22457.0
-2018,Australian Indigenous,Sweden,200318.0
-2018,Bassline,Ireland,4810.0
-2018,Big Room,Argentina,498824.0
-2018,Big Room,Australia,4900026.0
-2018,Big Room,Austria,6362644.0
-2018,Big Room,Belgium,7215300.0
-2018,Big Room,Brazil,10889144.0
-2018,Big Room,Canada,5464697.0
-2018,Big Room,Chile,442800.0
-2018,Big Room,Colombia,1084361.0
-2018,Big Room,Costa Rica,505433.0
-2018,Big Room,Denmark,6384413.0
-2018,Big Room,Ecuador,469666.0
-2018,Big Room,Finland,9368568.0
-2018,Big Room,France,6453092.0
-2018,Big Room,Germany,72810361.0
-2018,Big Room,Global,472661026.0
-2018,Big Room,Indonesia,17137876.0
-2018,Big Room,Ireland,3255103.0
-2018,Big Room,Italy,23321668.0
-2018,Big Room,Malaysia,2436155.0
-2018,Big Room,Mexico,2662972.0
-2018,Big Room,Netherlands,21230184.0
-2018,Big Room,New Zealand,881794.0
-2018,Big Room,Norway,18387099.0
-2018,Big Room,Peru,461439.0
-2018,Big Room,Philippines,1169123.0
-2018,Big Room,Poland,17565181.0
-2018,Big Room,Portugal,1829226.0
-2018,Big Room,Singapore,5935838.0
-2018,Big Room,Spain,7385623.0
-2018,Big Room,Sweden,62821808.0
-2018,Big Room,Switzerland,8899493.0
-2018,Big Room,Taiwan,1368116.0
-2018,Big Room,Turkey,251026.0
-2018,Big Room,United States of America,6072944.0
-2018,Blues,Belgium,11002.0
-2018,Bounce,Austria,4921.0
-2018,Boy Band,Argentina,2096658.0
-2018,Boy Band,Australia,96399808.0
-2018,Boy Band,Austria,4262087.0
-2018,Boy Band,Belgium,10285773.0
-2018,Boy Band,Brazil,20295554.0
-2018,Boy Band,Canada,49619696.0
-2018,Boy Band,Chile,562735.0
-2018,Boy Band,Colombia,978712.0
-2018,Boy Band,Costa Rica,1082925.0
-2018,Boy Band,Denmark,22996932.0
-2018,Boy Band,Ecuador,368730.0
-2018,Boy Band,Finland,9881831.0
-2018,Boy Band,France,9293872.0
-2018,Boy Band,Germany,45807889.0
-2018,Boy Band,Global,1095233158.0
-2018,Boy Band,Indonesia,19470249.0
-2018,Boy Band,Ireland,13374982.0
-2018,Boy Band,Italy,26973912.0
-2018,Boy Band,Malaysia,16789427.0
-2018,Boy Band,Mexico,9276852.0
-2018,Boy Band,Netherlands,49579196.0
-2018,Boy Band,New Zealand,16983843.0
-2018,Boy Band,Norway,32590461.0
-2018,Boy Band,Peru,620598.0
-2018,Boy Band,Philippines,55489866.0
-2018,Boy Band,Poland,18092720.0
-2018,Boy Band,Portugal,6252622.0
-2018,Boy Band,Singapore,20124654.0
-2018,Boy Band,Spain,8648853.0
-2018,Boy Band,Sweden,37458130.0
-2018,Boy Band,Switzerland,5341457.0
-2018,Boy Band,Taiwan,5990981.0
-2018,Boy Band,Turkey,2200374.0
-2018,Boy Band,United States of America,305362297.0
-2018,Brostep,Sweden,116631.0
+2018,Alternative Rock,Germany,4378448.0
+2018,Alternative Rock,Global,41687574.0
+2018,Alternative Rock,Indonesia,4091211.0
+2018,Alternative Rock,Ireland,2184758.0
+2018,Alternative Rock,Italy,494209.0
+2018,Alternative Rock,Malaysia,4593813.0
+2018,Alternative Rock,Mexico,20593835.0
+2018,Alternative Rock,Netherlands,1564055.0
+2018,Alternative Rock,New Zealand,405825.0
+2018,Alternative Rock,Norway,3544224.0
+2018,Alternative Rock,Peru,3544664.0
+2018,Alternative Rock,Philippines,25092666.0
+2018,Alternative Rock,Poland,5662089.0
+2018,Alternative Rock,Portugal,544502.0
+2018,Alternative Rock,Singapore,2120695.0
+2018,Alternative Rock,Spain,405402.0
+2018,Alternative Rock,Sweden,3021294.0
+2018,Alternative Rock,Switzerland,268180.0
+2018,Alternative Rock,Taiwan,245280.0
+2018,Alternative Rock,United States of America,6162877.0
+2018,Ambigious / Others,Argentina,5560369.0
+2018,Ambigious / Others,Australia,118313524.0
+2018,Ambigious / Others,Austria,6727790.0
+2018,Ambigious / Others,Belgium,14485809.0
+2018,Ambigious / Others,Brazil,20703910.0
+2018,Ambigious / Others,Canada,75040063.0
+2018,Ambigious / Others,Chile,5344092.0
+2018,Ambigious / Others,Colombia,9851409.0
+2018,Ambigious / Others,Costa Rica,2684878.0
+2018,Ambigious / Others,Denmark,46582689.0
+2018,Ambigious / Others,Ecuador,4799391.0
+2018,Ambigious / Others,Finland,13519372.0
+2018,Ambigious / Others,France,53782674.0
+2018,Ambigious / Others,Germany,68289634.0
+2018,Ambigious / Others,Global,1531900073.0
+2018,Ambigious / Others,Indonesia,42284491.0
+2018,Ambigious / Others,Ireland,27340516.0
+2018,Ambigious / Others,Italy,31948676.0
+2018,Ambigious / Others,Malaysia,34662764.0
+2018,Ambigious / Others,Mexico,25250767.0
+2018,Ambigious / Others,Netherlands,65060713.0
+2018,Ambigious / Others,New Zealand,29320375.0
+2018,Ambigious / Others,Norway,57840878.0
+2018,Ambigious / Others,Peru,15220153.0
+2018,Ambigious / Others,Philippines,100609221.0
+2018,Ambigious / Others,Poland,24628674.0
+2018,Ambigious / Others,Portugal,8091830.0
+2018,Ambigious / Others,Singapore,33946722.0
+2018,Ambigious / Others,Spain,27701690.0
+2018,Ambigious / Others,Sweden,80231700.0
+2018,Ambigious / Others,Switzerland,8687394.0
+2018,Ambigious / Others,Taiwan,7854638.0
+2018,Ambigious / Others,Turkey,2642796.0
+2018,Ambigious / Others,United States of America,497587381.0
+2018,Blues,Australia,1613919.0
+2018,Blues,Austria,14645.0
+2018,Blues,Belgium,148416.0
+2018,Blues,Canada,1221382.0
+2018,Blues,Denmark,520533.0
+2018,Blues,Germany,130010.0
+2018,Blues,Global,16274765.0
+2018,Blues,Ireland,663157.0
+2018,Blues,Italy,45842.0
+2018,Blues,Malaysia,11477.0
+2018,Blues,Netherlands,527317.0
+2018,Blues,New Zealand,449586.0
+2018,Blues,Norway,566383.0
+2018,Blues,Philippines,65626.0
+2018,Blues,Poland,16246.0
+2018,Blues,Portugal,43434.0
+2018,Blues,Singapore,31277.0
+2018,Blues,Spain,71112.0
+2018,Blues,Sweden,555373.0
+2018,Blues,Switzerland,152123.0
+2018,Blues,United States of America,3842405.0
 2018,C-pop,Singapore,25390.0
 2018,C-pop,Taiwan,12427.0
-2018,Cantautor,Costa Rica,5612.0
-2018,Ccm,Belgium,12630.0
-2018,Ccm,Canada,754827.0
-2018,Ccm,Global,1168776.0
-2018,Ccm,Norway,72185.0
-2018,Ccm,Portugal,16923.0
-2018,Ccm,Singapore,57035.0
-2018,Ccm,Sweden,86567.0
-2018,Ccm,Switzerland,62116.0
-2018,Ccm,Taiwan,77510.0
-2018,Ccm,United States of America,11038884.0
-2018,Celtic,Ireland,14347.0
-2018,Chanson,France,74620.0
-2018,Chillwave,United States of America,236050.0
-2018,Christmas Instrumental,Finland,108510.0
-2018,Christmas Instrumental,Sweden,572286.0
-2018,Classic Rock,Argentina,663625.0
-2018,Classic Rock,Australia,510699.0
-2018,Classic Rock,Chile,1243644.0
-2018,Classic Rock,Colombia,550206.0
-2018,Classic Rock,Costa Rica,282076.0
-2018,Classic Rock,Ecuador,255091.0
-2018,Classic Rock,France,178016.0
-2018,Classic Rock,Global,20182478.0
-2018,Classic Rock,Indonesia,625536.0
-2018,Classic Rock,Ireland,61993.0
-2018,Classic Rock,Malaysia,10801.0
-2018,Classic Rock,Mexico,5642451.0
-2018,Classic Rock,New Zealand,51801.0
-2018,Classic Rock,Peru,566400.0
-2018,Classic Rock,Philippines,571698.0
-2018,Classic Rock,Poland,29387.0
-2018,Classic Rock,Portugal,3383.0
-2018,Classic Rock,Spain,285611.0
-2018,Classic Rock,Sweden,45137.0
-2018,Classic Rock,Turkey,74476.0
 2018,Country,Australia,9788086.0
 2018,Country,Belgium,28162.0
 2018,Country,Canada,79675246.0
@@ -1621,30 +891,21 @@ chart_year,Genre,region,sum
 2018,Country,Switzerland,29643.0
 2018,Country,Taiwan,21705.0
 2018,Country,United States of America,938761848.0
-2018,Country Pop,Belgium,7189.0
-2018,Country Pop,Ireland,4744.0
-2018,Dakke Dak,Denmark,2944416.0
 2018,Dance,Australia,847008.0
-2018,Dance,Austria,6024.0
-2018,Dance,Belgium,144687.0
+2018,Dance,Austria,8675.0
+2018,Dance,Belgium,148911.0
 2018,Dance,Costa Rica,75573.0
 2018,Dance,Denmark,532073.0
 2018,Dance,Finland,196105.0
 2018,Dance,France,78182.0
 2018,Dance,Germany,182798.0
-2018,Dance,Ireland,179297.0
+2018,Dance,Ireland,188410.0
 2018,Dance,Malaysia,8871.0
-2018,Dance,Norway,44186.0
-2018,Dance,Poland,811993.0
-2018,Dance,Sweden,261342.0
-2018,Dance,Taiwan,50368.0
+2018,Dance,Norway,62800.0
+2018,Dance,Poland,830657.0
+2018,Dance,Sweden,580365.0
+2018,Dance,Taiwan,54012.0
 2018,Dance,Turkey,29255.0
-2018,Dance Pop,Finland,823665.0
-2018,Dance Rock,Australia,36249.0
-2018,Dance Rock,New Zealand,11902.0
-2018,Dancehall,Costa Rica,905683.0
-2018,Danspunk,Sweden,28409.0
-2018,Death Metal,Finland,114750.0
 2018,Disco,Australia,2444137.0
 2018,Disco,Austria,7559.0
 2018,Disco,Belgium,467404.0
@@ -1661,177 +922,69 @@ chart_year,Genre,region,sum
 2018,Disco,Sweden,388672.0
 2018,Disco,Switzerland,13923.0
 2018,Disco,United States of America,3005332.0
-2018,Double Drumming,Belgium,184189.0
-2018,Double Drumming,France,24463.0
-2018,Double Drumming,Ireland,459293.0
-2018,Double Drumming,Italy,27492.0
-2018,Double Drumming,Poland,431344.0
-2018,Double Drumming,Sweden,275139.0
-2018,Downtempo,Ireland,4440.0
-2018,Downtempo,Poland,164908.0
-2018,Downtempo,Taiwan,16967.0
-2018,Drill,Austria,4951523.0
-2018,Drill,Germany,102148128.0
-2018,Drill,Ireland,7325.0
-2018,Drill,Switzerland,3825210.0
-2018,Edm,Austria,180428.0
-2018,Edm,Belgium,2293049.0
-2018,Edm,Canada,335937.0
-2018,Edm,Denmark,10881.0
-2018,Edm,Germany,3546719.0
-2018,Edm,Global,2023886.0
-2018,Edm,Ireland,6721.0
-2018,Edm,Netherlands,22412.0
-2018,Edm,Norway,90803.0
-2018,Edm,Poland,9522.0
-2018,Edm,Portugal,3663.0
-2018,Edm,Switzerland,34199.0
-2018,Edm,Taiwan,3507.0
-2018,Edm,Turkey,3921769.0
-2018,Edm,United States of America,4035460.0
-2018,Electro House,Colombia,271157.0
-2018,Electro House,Costa Rica,1688040.0
-2018,Electro House,Ecuador,156618.0
-2018,Electro House,Finland,4430754.0
-2018,Electro House,Italy,12108.0
-2018,Electro House,Malaysia,3830584.0
-2018,Electro House,Mexico,4947642.0
-2018,Electro House,Norway,10965836.0
-2018,Electro House,Peru,4923549.0
-2018,Electro House,Poland,8533.0
-2018,Electro House,Singapore,4746913.0
-2018,Electro House,Sweden,981296.0
-2018,Electro House,Switzerland,575816.0
-2018,Electro House,Taiwan,2690497.0
-2018,Electro House,Turkey,11280.0
-2018,Electronic,Ireland,9407.0
-2018,Electronic,Poland,195184.0
+2018,EDM,Argentina,498824.0
+2018,EDM,Australia,5671170.0
+2018,EDM,Austria,6543072.0
+2018,EDM,Belgium,10389502.0
+2018,EDM,Brazil,10889144.0
+2018,EDM,Canada,5873184.0
+2018,EDM,Chile,442800.0
+2018,EDM,Colombia,1355518.0
+2018,EDM,Costa Rica,2193473.0
+2018,EDM,Denmark,6395294.0
+2018,EDM,Ecuador,626284.0
+2018,EDM,Finland,13799322.0
+2018,EDM,France,6453092.0
+2018,EDM,Germany,76357080.0
+2018,EDM,Global,475423331.0
+2018,EDM,Indonesia,17137876.0
+2018,EDM,Ireland,3426240.0
+2018,EDM,Italy,23333776.0
+2018,EDM,Malaysia,6266739.0
+2018,EDM,Mexico,7610614.0
+2018,EDM,Netherlands,23088073.0
+2018,EDM,New Zealand,881794.0
+2018,EDM,Norway,29443738.0
+2018,EDM,Peru,5384988.0
+2018,EDM,Philippines,1169123.0
+2018,EDM,Poland,17583236.0
+2018,EDM,Portugal,1836806.0
+2018,EDM,Singapore,10682751.0
+2018,EDM,Spain,7385623.0
+2018,EDM,Sweden,63803104.0
+2018,EDM,Switzerland,9509508.0
+2018,EDM,Taiwan,4062120.0
+2018,EDM,Turkey,4184075.0
+2018,EDM,United States of America,10818138.0
 2018,Electronica,Australia,33075252.0
+2018,Electronica,Ireland,41102.0
 2018,Electronica,New Zealand,1755498.0
-2018,Electropop,Australia,2811578.0
-2018,Electropop,Denmark,115835.0
-2018,Electropop,Finland,6755.0
-2018,Electropop,Norway,28570.0
-2018,Electropop,Sweden,53255.0
-2018,Electropop,United States of America,186533.0
-2018,Emo,Austria,16998.0
-2018,Emo,Finland,456844.0
-2018,Emo,Germany,113429.0
-2018,Emo,Global,1671027.0
-2018,Emo,Ireland,5569.0
-2018,Emo,Singapore,49654.0
-2018,Emo,Taiwan,5203.0
-2018,Emo,United States of America,2133160.0
-2018,Europop,Belgium,8468.0
-2018,Europop,Denmark,105253.0
-2018,Europop,Finland,80283.0
-2018,Europop,Sweden,4169338.0
-2018,Eurovision,Austria,380842.0
-2018,Eurovision,Belgium,260331.0
-2018,Eurovision,Denmark,2493063.0
-2018,Eurovision,Finland,1184133.0
-2018,Eurovision,France,325822.0
-2018,Eurovision,Germany,2362155.0
-2018,Eurovision,Global,6038731.0
-2018,Eurovision,Ireland,267178.0
-2018,Eurovision,Netherlands,665064.0
-2018,Eurovision,Norway,1082375.0
-2018,Eurovision,Poland,78322.0
-2018,Eurovision,Portugal,192669.0
-2018,Eurovision,Spain,5480583.0
-2018,Eurovision,Sweden,4985313.0
-2018,Eurovision,Switzerland,32704.0
-2018,Eurovision,Turkey,7779.0
-2018,Folk,Australia,143948.0
-2018,Folk,Canada,30121.0
+2018,Electronica,Poland,195184.0
+2018,Folk,Australia,33393492.0
+2018,Folk,Austria,218942.0
+2018,Folk,Belgium,1097190.0
+2018,Folk,Canada,3766931.0
+2018,Folk,Costa Rica,4941.0
+2018,Folk,Finland,72816.0
+2018,Folk,France,27067.0
+2018,Folk,Germany,142197.0
+2018,Folk,Global,14871108.0
 2018,Folk,Indonesia,4373855.0
-2018,Folk,Ireland,6965.0
-2018,Folk,New Zealand,65926.0
+2018,Folk,Ireland,12550775.0
+2018,Folk,Netherlands,2126574.0
+2018,Folk,New Zealand,1033114.0
+2018,Folk,Norway,2034251.0
+2018,Folk,Poland,2500540.0
+2018,Folk,Portugal,5884.0
+2018,Folk,Sweden,327995.0
+2018,Folk,Switzerland,500345.0
 2018,Folk,Turkey,10811.0
-2018,Folk Rock,Austria,4303.0
-2018,Folk Rock,Belgium,7817.0
-2018,Folk Rock,Canada,189379.0
-2018,Folk Rock,Global,871329.0
-2018,Folk Rock,Ireland,151611.0
-2018,Folk Rock,Netherlands,36322.0
-2018,Folk Rock,Poland,12920.0
-2018,Folk Rock,Portugal,4174.0
-2018,Folk Rock,Sweden,284857.0
-2018,Folk Rock,Switzerland,10653.0
-2018,Folk Rock,United States of America,754217.0
-2018,Folk-pop,Australia,34967433.0
-2018,Folk-pop,Austria,5654991.0
-2018,Folk-pop,Belgium,4343155.0
-2018,Folk-pop,Canada,3164968.0
-2018,Folk-pop,Denmark,6048484.0
-2018,Folk-pop,France,8091354.0
-2018,Folk-pop,Germany,48278096.0
-2018,Folk-pop,Global,249707578.0
-2018,Folk-pop,Ireland,26621965.0
-2018,Folk-pop,Italy,1859117.0
-2018,Folk-pop,Netherlands,20481954.0
-2018,Folk-pop,New Zealand,5985086.0
-2018,Folk-pop,Norway,1687070.0
-2018,Folk-pop,Poland,8454629.0
-2018,Folk-pop,Portugal,183365.0
-2018,Folk-pop,Singapore,351655.0
-2018,Folk-pop,Spain,382912.0
-2018,Folk-pop,Sweden,4270655.0
-2018,Folk-pop,Switzerland,3317521.0
-2018,Folk-pop,Taiwan,106636.0
-2018,Folk-pop,United States of America,1035367.0
-2018,Francoton,Belgium,495713.0
-2018,Francoton,France,42848886.0
-2018,Francoton,Switzerland,35369.0
+2018,Folk,United States of America,5944154.0
 2018,Funk,Ireland,4877.0
 2018,Funk,Netherlands,43691.0
-2018,Gaming Dubstep,Austria,272540.0
-2018,Gangster Rap,Australia,334209.0
-2018,Gangster Rap,Belgium,5481.0
-2018,Gangster Rap,Canada,1267875.0
-2018,Gangster Rap,Denmark,10443.0
-2018,Gangster Rap,Global,7204049.0
-2018,Gangster Rap,Ireland,30482.0
-2018,Gangster Rap,Netherlands,25011.0
-2018,Gangster Rap,New Zealand,41755.0
-2018,Gangster Rap,United States of America,10752882.0
-2018,Garage Punk,Australia,483363.0
-2018,Glam Metal,Australia,266746.0
-2018,Glam Metal,Colombia,58264.0
-2018,Glam Metal,Costa Rica,95929.0
-2018,Glam Metal,Denmark,85756.0
-2018,Glam Metal,Indonesia,98761.0
-2018,Glam Metal,New Zealand,62488.0
-2018,Glam Metal,Norway,35800.0
-2018,Glam Metal,Sweden,144284.0
-2018,Glam Metal,Taiwan,3202.0
-2018,Glam Rock,Australia,853939.0
-2018,Glam Rock,Austria,148051.0
-2018,Glam Rock,Belgium,64769.0
-2018,Glam Rock,Canada,864540.0
-2018,Glam Rock,Denmark,429097.0
-2018,Glam Rock,France,87652.0
-2018,Glam Rock,Germany,1452341.0
-2018,Glam Rock,Global,18300306.0
-2018,Glam Rock,Ireland,644831.0
-2018,Glam Rock,Italy,224255.0
-2018,Glam Rock,Malaysia,5886.0
-2018,Glam Rock,Netherlands,218075.0
-2018,Glam Rock,New Zealand,294441.0
-2018,Glam Rock,Norway,273990.0
-2018,Glam Rock,Portugal,11834.0
-2018,Glam Rock,Singapore,14737.0
-2018,Glam Rock,Sweden,791652.0
-2018,Glam Rock,Switzerland,131479.0
-2018,Glam Rock,United States of America,826676.0
-2018,Grime,Ireland,31695.0
-2018,Halloween,Canada,124184.0
-2018,Halloween,Global,1660298.0
-2018,Halloween,Ireland,14150.0
-2018,Halloween,United States of America,1449258.0
-2018,Hip Hop,Argentina,28998319.0
+2018,Hip Hop,Argentina,29396030.0
 2018,Hip Hop,Australia,164972969.0
-2018,Hip Hop,Austria,8931173.0
+2018,Hip Hop,Austria,13887617.0
 2018,Hip Hop,Belgium,15526849.0
 2018,Hip Hop,Brazil,52822856.0
 2018,Hip Hop,Canada,265723249.0
@@ -1842,10 +995,10 @@ chart_year,Genre,region,sum
 2018,Hip Hop,Ecuador,1468134.0
 2018,Hip Hop,Finland,16510943.0
 2018,Hip Hop,France,51310128.0
-2018,Hip Hop,Germany,159040486.0
+2018,Hip Hop,Germany,261188614.0
 2018,Hip Hop,Global,3594035883.0
 2018,Hip Hop,Indonesia,16046927.0
-2018,Hip Hop,Ireland,30128696.0
+2018,Hip Hop,Ireland,30136021.0
 2018,Hip Hop,Italy,186898174.0
 2018,Hip Hop,Malaysia,8794284.0
 2018,Hip Hop,Mexico,46344119.0
@@ -1857,32 +1010,12 @@ chart_year,Genre,region,sum
 2018,Hip Hop,Poland,14319196.0
 2018,Hip Hop,Portugal,17510931.0
 2018,Hip Hop,Singapore,10420165.0
-2018,Hip Hop,Spain,21587718.0
+2018,Hip Hop,Spain,22004008.0
 2018,Hip Hop,Sweden,60130543.0
-2018,Hip Hop,Switzerland,17981173.0
+2018,Hip Hop,Switzerland,21806383.0
 2018,Hip Hop,Taiwan,3934247.0
 2018,Hip Hop,Turkey,21827921.0
 2018,Hip Hop,United States of America,2130107370.0
-2018,Hip Pop,Belgium,4251.0
-2018,Hip Pop,Denmark,11152.0
-2018,Hip Pop,Malaysia,4905.0
-2018,Hip Pop,Philippines,24270.0
-2018,Hollywood,Australia,1482612.0
-2018,Hollywood,Global,9069508.0
-2018,Hollywood,Indonesia,1057869.0
-2018,Hollywood,Ireland,1784006.0
-2018,Hollywood,Italy,115780.0
-2018,Hollywood,Malaysia,590784.0
-2018,Hollywood,Mexico,424210.0
-2018,Hollywood,New Zealand,182381.0
-2018,Hollywood,Philippines,2616796.0
-2018,Hollywood,Singapore,993600.0
-2018,Hollywood,Taiwan,918361.0
-2018,Hollywood,United States of America,4759531.0
-2018,House,Australia,771144.0
-2018,House,Belgium,876025.0
-2018,House,Ireland,164416.0
-2018,House,Netherlands,1835477.0
 2018,Indie,Australia,19231281.0
 2018,Indie,Austria,7315.0
 2018,Indie,Belgium,1190142.0
@@ -1890,97 +1023,18 @@ chart_year,Genre,region,sum
 2018,Indie,Indonesia,8458124.0
 2018,Indie,Ireland,373789.0
 2018,Indie,Italy,32037.0
+2018,Indie,Malaysia,4325.0
 2018,Indie,Netherlands,6454994.0
 2018,Indie,New Zealand,237299.0
-2018,Indie,Norway,1866641.0
-2018,Indie,Poland,8309.0
+2018,Indie,Norway,1926432.0
+2018,Indie,Poland,18314.0
 2018,Indie,Portugal,9959.0
+2018,Indie,Sweden,136857.0
+2018,Indie,Taiwan,4020.0
 2018,Indie,Turkey,88346.0
-2018,Indie Anthem-folk,Finland,65156.0
-2018,Indie Anthem-folk,Ireland,11777377.0
-2018,Indie Anthem-folk,Poland,50480.0
-2018,Indie Electropop,Taiwan,4188.0
-2018,Indie Folk,Australia,33249544.0
-2018,Indie Folk,Austria,218942.0
-2018,Indie Folk,Belgium,1097190.0
-2018,Indie Folk,Canada,3736810.0
-2018,Indie Folk,Costa Rica,4941.0
-2018,Indie Folk,Finland,7660.0
-2018,Indie Folk,France,27067.0
-2018,Indie Folk,Germany,142197.0
-2018,Indie Folk,Global,14871108.0
-2018,Indie Folk,Ireland,766433.0
-2018,Indie Folk,Netherlands,2126574.0
-2018,Indie Folk,New Zealand,967188.0
-2018,Indie Folk,Norway,2034251.0
-2018,Indie Folk,Poland,2450060.0
-2018,Indie Folk,Portugal,5884.0
-2018,Indie Folk,Sweden,327995.0
-2018,Indie Folk,Switzerland,500345.0
-2018,Indie Folk,United States of America,5944154.0
-2018,Indie Pop,Australia,466399.0
-2018,Indie Pop,Austria,174174.0
-2018,Indie Pop,Belgium,393324.0
-2018,Indie Pop,Canada,677251.0
-2018,Indie Pop,Denmark,7970.0
-2018,Indie Pop,France,31990934.0
-2018,Indie Pop,Germany,221938.0
-2018,Indie Pop,Global,4727860.0
-2018,Indie Pop,Ireland,117526.0
-2018,Indie Pop,Italy,718536.0
-2018,Indie Pop,Malaysia,83078.0
-2018,Indie Pop,Norway,24179.0
-2018,Indie Pop,Philippines,1646732.0
-2018,Indie Pop,Poland,104467.0
-2018,Indie Pop,Portugal,119688.0
-2018,Indie Pop,Singapore,363619.0
-2018,Indie Pop,Sweden,330612.0
-2018,Indie Pop,Switzerland,1537896.0
-2018,Indie Pop,Taiwan,44829.0
-2018,Indie Pop,United States of America,4258186.0
-2018,Indie Rock,Argentina,58850.0
-2018,Indie Rock,Australia,20180860.0
-2018,Indie Rock,Austria,2215820.0
-2018,Indie Rock,Belgium,2696994.0
-2018,Indie Rock,Brazil,504015.0
-2018,Indie Rock,Canada,7063279.0
-2018,Indie Rock,Colombia,384632.0
-2018,Indie Rock,Costa Rica,11611.0
-2018,Indie Rock,Denmark,2239674.0
-2018,Indie Rock,Ecuador,126139.0
-2018,Indie Rock,Finland,1081902.0
-2018,Indie Rock,France,6097213.0
-2018,Indie Rock,Germany,11487308.0
-2018,Indie Rock,Global,259633350.0
-2018,Indie Rock,Indonesia,712915.0
-2018,Indie Rock,Ireland,4058590.0
-2018,Indie Rock,Italy,907559.0
-2018,Indie Rock,Malaysia,558840.0
-2018,Indie Rock,Mexico,2584479.0
-2018,Indie Rock,Netherlands,7035143.0
-2018,Indie Rock,New Zealand,4283954.0
-2018,Indie Rock,Norway,6103782.0
-2018,Indie Rock,Poland,8209173.0
-2018,Indie Rock,Portugal,1405001.0
-2018,Indie Rock,Singapore,920867.0
-2018,Indie Rock,Spain,6854047.0
-2018,Indie Rock,Sweden,11443365.0
-2018,Indie Rock,Switzerland,2144004.0
-2018,Indie Rock,Taiwan,142378.0
-2018,Indie Rock,Turkey,2681795.0
-2018,Indie Rock,United States of America,34213118.0
-2018,Indiecoustica,Malaysia,4325.0
-2018,Indiecoustica,Norway,59791.0
-2018,Indiecoustica,Poland,10005.0
-2018,Indiecoustica,Sweden,136857.0
 2018,J-pop,Taiwan,26066.0
-2018,Jam Band,Canada,31753.0
-2018,Jam Band,United States of America,275917.0
-2018,Jawaiian,Australia,1476334.0
-2018,Jawaiian,New Zealand,7909626.0
 2018,Jazz,Netherlands,153250.0
 2018,Jazz,Norway,20242.0
-2018,K-indie,Taiwan,4020.0
 2018,K-pop,Argentina,60619.0
 2018,K-pop,Australia,212981.0
 2018,K-pop,Austria,5917.0
@@ -2002,169 +1056,58 @@ chart_year,Genre,region,sum
 2018,K-pop,Taiwan,1673473.0
 2018,K-pop,Turkey,133087.0
 2018,K-pop,United States of America,2767565.0
-2018,Latin,Argentina,2972876.0
-2018,Latin,Chile,4063911.0
-2018,Latin,Colombia,8751705.0
-2018,Latin,Costa Rica,426844.0
-2018,Latin,Ecuador,4263148.0
-2018,Latin,Global,3445980.0
-2018,Latin,Mexico,11270622.0
-2018,Latin,Peru,14276818.0
-2018,Latin,Spain,7875342.0
 2018,Mandopop,Taiwan,599170.0
+2018,Metal,Australia,266746.0
 2018,Metal,Canada,39225.0
-2018,Metal,Finland,429934.0
-2018,Metal,Norway,44968.0
-2018,Metal,Sweden,807542.0
-2018,Metropopolis,Austria,199282.0
-2018,Metropopolis,Belgium,723428.0
-2018,Metropopolis,Finland,25715.0
-2018,Metropopolis,Germany,333610.0
-2018,Metropopolis,Global,693931.0
-2018,Metropopolis,Ireland,91761.0
-2018,Metropopolis,Netherlands,3282027.0
-2018,Metropopolis,Norway,104569.0
-2018,Metropopolis,Poland,110040.0
-2018,Metropopolis,Portugal,17620.0
-2018,Metropopolis,Sweden,15879.0
-2018,Metropopolis,Switzerland,151841.0
-2018,Motown,Australia,1613919.0
-2018,Motown,Austria,14645.0
-2018,Motown,Belgium,137414.0
-2018,Motown,Canada,1221382.0
-2018,Motown,Denmark,520533.0
-2018,Motown,Germany,130010.0
-2018,Motown,Global,16274765.0
-2018,Motown,Ireland,663157.0
-2018,Motown,Italy,45842.0
-2018,Motown,Malaysia,11477.0
-2018,Motown,Netherlands,527317.0
-2018,Motown,New Zealand,449586.0
-2018,Motown,Norway,566383.0
-2018,Motown,Philippines,65626.0
-2018,Motown,Poland,16246.0
-2018,Motown,Portugal,43434.0
-2018,Motown,Singapore,31277.0
-2018,Motown,Spain,71112.0
-2018,Motown,Sweden,555373.0
-2018,Motown,Switzerland,152123.0
-2018,Motown,United States of America,3842405.0
-2018,Neo Mellow,Australia,5758869.0
-2018,Neo Mellow,Austria,14781.0
-2018,Neo Mellow,Belgium,131936.0
-2018,Neo Mellow,Canada,1049400.0
-2018,Neo Mellow,Denmark,8288426.0
-2018,Neo Mellow,Finland,21613.0
-2018,Neo Mellow,Global,19021660.0
-2018,Neo Mellow,Indonesia,17512109.0
-2018,Neo Mellow,Ireland,2078873.0
-2018,Neo Mellow,Italy,154142.0
-2018,Neo Mellow,Malaysia,13045450.0
-2018,Neo Mellow,Netherlands,1284474.0
-2018,Neo Mellow,New Zealand,1042709.0
-2018,Neo Mellow,Norway,14998665.0
-2018,Neo Mellow,Philippines,19624263.0
-2018,Neo Mellow,Portugal,453370.0
-2018,Neo Mellow,Singapore,9318740.0
-2018,Neo Mellow,Sweden,4058652.0
-2018,Neo Mellow,Switzerland,470381.0
-2018,Neo Mellow,Taiwan,228872.0
-2018,Neo Mellow,United States of America,558392.0
-2018,Neo-psychedelic,Sweden,345956.0
-2018,New Wave Pop,Ireland,8046.0
-2018,Norges Stemme,Norway,523418.0
-2018,Opm,Philippines,53103046.0
-2018,Opm,Taiwan,3332.0
-2018,Permanent Wave,Argentina,6442265.0
-2018,Permanent Wave,Australia,1217030.0
-2018,Permanent Wave,Austria,254880.0
-2018,Permanent Wave,Belgium,303002.0
-2018,Permanent Wave,Brazil,1294852.0
-2018,Permanent Wave,Canada,964182.0
-2018,Permanent Wave,Chile,2272144.0
-2018,Permanent Wave,Colombia,1708531.0
-2018,Permanent Wave,Costa Rica,1233563.0
-2018,Permanent Wave,Denmark,701308.0
-2018,Permanent Wave,Ecuador,905071.0
-2018,Permanent Wave,Finland,71153.0
-2018,Permanent Wave,Germany,2769952.0
-2018,Permanent Wave,Global,33538384.0
-2018,Permanent Wave,Indonesia,2786678.0
-2018,Permanent Wave,Ireland,538250.0
-2018,Permanent Wave,Italy,465211.0
-2018,Permanent Wave,Malaysia,4093540.0
-2018,Permanent Wave,Mexico,18471433.0
-2018,Permanent Wave,Netherlands,1377703.0
-2018,Permanent Wave,New Zealand,266243.0
-2018,Permanent Wave,Norway,3519684.0
-2018,Permanent Wave,Peru,2673102.0
-2018,Permanent Wave,Philippines,12585587.0
-2018,Permanent Wave,Poland,820124.0
-2018,Permanent Wave,Portugal,214725.0
-2018,Permanent Wave,Singapore,1995407.0
-2018,Permanent Wave,Spain,405402.0
-2018,Permanent Wave,Sweden,2927515.0
-2018,Permanent Wave,Switzerland,203468.0
-2018,Permanent Wave,Taiwan,151656.0
-2018,Permanent Wave,United States of America,934945.0
+2018,Metal,Colombia,58264.0
+2018,Metal,Costa Rica,95929.0
+2018,Metal,Denmark,85756.0
+2018,Metal,Finland,544684.0
+2018,Metal,Indonesia,98761.0
+2018,Metal,New Zealand,62488.0
+2018,Metal,Norway,80768.0
+2018,Metal,Sweden,951826.0
+2018,Metal,Taiwan,3202.0
 2018,Pop,Argentina,40490161.0
-2018,Pop,Australia,766050877.0
-2018,Pop,Austria,52648577.0
-2018,Pop,Belgium,88511010.0
+2018,Pop,Australia,804296287.0
+2018,Pop,Austria,58677024.0
+2018,Pop,Belgium,93990825.0
 2018,Pop,Brazil,198397654.0
-2018,Pop,Canada,478460815.0
+2018,Pop,Canada,482303034.0
 2018,Pop,Chile,32838168.0
 2018,Pop,Colombia,16438860.0
 2018,Pop,Costa Rica,12683832.0
-2018,Pop,Denmark,180338050.0
+2018,Pop,Denmark,186626744.0
 2018,Pop,Ecuador,7010121.0
-2018,Pop,Finland,72654354.0
-2018,Pop,France,111300460.0
-2018,Pop,Germany,659258970.0
-2018,Pop,Global,10868630431.0
+2018,Pop,Finland,73590772.0
+2018,Pop,France,151382748.0
+2018,Pop,Germany,708092614.0
+2018,Pop,Global,11123759800.0
 2018,Pop,Indonesia,289953763.0
-2018,Pop,Ireland,140730823.0
-2018,Pop,Italy,128542390.0
-2018,Pop,Malaysia,160761621.0
+2018,Pop,Ireland,167574865.0
+2018,Pop,Italy,131120043.0
+2018,Pop,Malaysia,160849604.0
 2018,Pop,Mexico,198476758.0
-2018,Pop,Netherlands,323339711.0
-2018,Pop,New Zealand,160093485.0
-2018,Pop,Norway,275290426.0
+2018,Pop,Netherlands,347128339.0
+2018,Pop,New Zealand,166078571.0
+2018,Pop,Norway,277134814.0
 2018,Pop,Peru,18837910.0
-2018,Pop,Philippines,718170144.0
-2018,Pop,Poland,99508571.0
-2018,Pop,Portugal,45912511.0
-2018,Pop,Singapore,175499141.0
-2018,Pop,Spain,171178923.0
-2018,Pop,Sweden,337928387.0
-2018,Pop,Switzerland,73657031.0
-2018,Pop,Taiwan,67132685.0
+2018,Pop,Philippines,772944192.0
+2018,Pop,Poland,108177707.0
+2018,Pop,Portugal,46233184.0
+2018,Pop,Singapore,176214415.0
+2018,Pop,Spain,171561835.0
+2018,Pop,Sweden,346768126.0
+2018,Pop,Switzerland,78664289.0
+2018,Pop,Taiwan,67291670.0
 2018,Pop,Turkey,49666007.0
-2018,Pop,United States of America,2981017351.0
-2018,Pop Dance,Austria,2651.0
-2018,Pop Dance,Belgium,4224.0
-2018,Pop Dance,Ireland,9113.0
-2018,Pop Dance,Norway,18614.0
-2018,Pop Dance,Poland,18664.0
-2018,Pop Dance,Sweden,319023.0
-2018,Pop Dance,Taiwan,3644.0
-2018,Pop Punk,Ireland,5225.0
-2018,Pop Rap,Austria,14582.0
-2018,Pop Rap,Canada,192618.0
-2018,Pop Rap,Germany,42105.0
-2018,Pop Rap,Poland,111919.0
-2018,Pop Rap,Turkey,16274.0
-2018,Pop Rap,United States of America,2764779.0
-2018,Pop Rock,Australia,139523.0
-2018,Pop Rock,Belgium,11936.0
-2018,Pop Rock,Ireland,11995.0
-2018,Pop Rock,Sweden,59793.0
-2018,Pop Soul,Austria,8154.0
-2018,Pop Soul,Germany,141223.0
+2018,Pop,United States of America,2986497437.0
 2018,Psych,Ecuador,15629.0
 2018,Psych,Mexico,1385303.0
 2018,Psych,Poland,176942.0
 2018,Psych,Portugal,11843.0
+2018,Punk,Australia,483363.0
+2018,Punk,Ireland,5225.0
 2018,R&b,Argentina,1167043.0
 2018,R&b,Australia,20837186.0
 2018,R&b,Austria,547121.0
@@ -2201,10 +1144,10 @@ chart_year,Genre,region,sum
 2018,R&b,United States of America,425237246.0
 2018,Rap,Argentina,7979940.0
 2018,Rap,Australia,346332826.0
-2018,Rap,Austria,11015988.0
+2018,Rap,Austria,11030570.0
 2018,Rap,Belgium,31496164.0
 2018,Rap,Brazil,28453905.0
-2018,Rap,Canada,408042384.0
+2018,Rap,Canada,408235002.0
 2018,Rap,Chile,13863728.0
 2018,Rap,Colombia,3077057.0
 2018,Rap,Costa Rica,4956157.0
@@ -2212,7 +1155,7 @@ chart_year,Genre,region,sum
 2018,Rap,Ecuador,1393146.0
 2018,Rap,Finland,46083080.0
 2018,Rap,France,64097897.0
-2018,Rap,Germany,155700708.0
+2018,Rap,Germany,155742813.0
 2018,Rap,Global,7376158218.0
 2018,Rap,Indonesia,15681906.0
 2018,Rap,Ireland,45760158.0
@@ -2224,91 +1167,58 @@ chart_year,Genre,region,sum
 2018,Rap,Norway,102615812.0
 2018,Rap,Peru,2302863.0
 2018,Rap,Philippines,39872850.0
-2018,Rap,Poland,29321134.0
+2018,Rap,Poland,29433053.0
 2018,Rap,Portugal,34060417.0
 2018,Rap,Singapore,11534027.0
 2018,Rap,Spain,29038535.0
 2018,Rap,Sweden,157240020.0
 2018,Rap,Switzerland,24426485.0
 2018,Rap,Taiwan,4084792.0
-2018,Rap,Turkey,17787141.0
-2018,Rap,United States of America,4771499636.0
-2018,Rap Pop,Netherlands,24647.0
+2018,Rap,Turkey,17803415.0
+2018,Rap,United States of America,4774264415.0
+2018,Reggae,Australia,6669529.0
+2018,Reggae,Chile,31294.0
 2018,Reggae,Costa Rica,11084.0
-2018,Reggae,New Zealand,32955.0
-2018,Reggae Fusion,Australia,6669529.0
-2018,Reggae Fusion,Ireland,5705.0
-2018,Reggae Fusion,New Zealand,2892798.0
-2018,Reggae Fusion,United States of America,325570.0
-2018,Reggaeton,Chile,31294.0
-2018,Rock,Argentina,27362467.0
-2018,Rock,Australia,87677121.0
-2018,Rock,Austria,11982831.0
-2018,Rock,Belgium,20202932.0
-2018,Rock,Brazil,170659741.0
-2018,Rock,Canada,101150735.0
-2018,Rock,Chile,23278719.0
-2018,Rock,Colombia,9525645.0
-2018,Rock,Costa Rica,8396943.0
-2018,Rock,Denmark,9679864.0
-2018,Rock,Ecuador,4773919.0
-2018,Rock,Finland,17771518.0
-2018,Rock,France,49787351.0
-2018,Rock,Germany,133789303.0
-2018,Rock,Global,2602389200.0
-2018,Rock,Indonesia,25140893.0
-2018,Rock,Ireland,14768507.0
-2018,Rock,Italy,92997228.0
-2018,Rock,Malaysia,10728538.0
-2018,Rock,Mexico,160006295.0
-2018,Rock,Netherlands,83646282.0
-2018,Rock,New Zealand,24311308.0
-2018,Rock,Norway,35905203.0
-2018,Rock,Peru,5798551.0
-2018,Rock,Philippines,42469863.0
-2018,Rock,Poland,48218470.0
-2018,Rock,Portugal,16708299.0
-2018,Rock,Singapore,14062317.0
-2018,Rock,Spain,47266988.0
-2018,Rock,Sweden,60086273.0
-2018,Rock,Switzerland,20685040.0
-2018,Rock,Taiwan,4512702.0
-2018,Rock,Turkey,39940091.0
-2018,Rock,United States of America,659317115.0
-2018,Rock-and-roll,Australia,706344.0
-2018,Rock-and-roll,Austria,34867.0
-2018,Rock-and-roll,Belgium,159476.0
-2018,Rock-and-roll,Canada,2266283.0
-2018,Rock-and-roll,Chile,24595.0
-2018,Rock-and-roll,Costa Rica,2853.0
-2018,Rock-and-roll,Denmark,172366.0
-2018,Rock-and-roll,Ecuador,3288.0
-2018,Rock-and-roll,Finland,43238.0
-2018,Rock-and-roll,France,142022.0
-2018,Rock-and-roll,Germany,259372.0
-2018,Rock-and-roll,Global,25551720.0
-2018,Rock-and-roll,Ireland,183259.0
-2018,Rock-and-roll,Malaysia,16635.0
-2018,Rock-and-roll,Netherlands,1051591.0
-2018,Rock-and-roll,New Zealand,170797.0
-2018,Rock-and-roll,Norway,573092.0
-2018,Rock-and-roll,Philippines,33073.0
-2018,Rock-and-roll,Poland,20636.0
-2018,Rock-and-roll,Portugal,42003.0
-2018,Rock-and-roll,Singapore,20152.0
-2018,Rock-and-roll,Spain,63953.0
-2018,Rock-and-roll,Sweden,1551671.0
-2018,Rock-and-roll,Switzerland,87888.0
-2018,Rock-and-roll,Taiwan,4555.0
-2018,Rock-and-roll,United States of America,14605644.0
-2018,Room,Belgium,5128.0
-2018,Room,Canada,72550.0
-2018,Room,Global,738419.0
-2018,Room,Portugal,3917.0
-2018,Room,United States of America,709734.0
+2018,Reggae,Ireland,5705.0
+2018,Reggae,New Zealand,2925753.0
+2018,Reggae,United States of America,325570.0
+2018,Rock,Argentina,28084942.0
+2018,Rock,Australia,110104735.0
+2018,Rock,Austria,14402870.0
+2018,Rock,Belgium,23143924.0
+2018,Rock,Brazil,171163756.0
+2018,Rock,Canada,111534216.0
+2018,Rock,Chile,24546958.0
+2018,Rock,Colombia,10460483.0
+2018,Rock,Costa Rica,8693483.0
+2018,Rock,Denmark,12521001.0
+2018,Rock,Ecuador,5158437.0
+2018,Rock,Finland,19353502.0
+2018,Rock,France,56292254.0
+2018,Rock,Germany,147101753.0
+2018,Rock,Global,2928599410.0
+2018,Rock,Indonesia,26479344.0
+2018,Rock,Ireland,19886355.0
+2018,Rock,Italy,94129042.0
+2018,Rock,Malaysia,11320700.0
+2018,Rock,Mexico,168233225.0
+2018,Rock,Netherlands,91987413.0
+2018,Rock,New Zealand,29124203.0
+2018,Rock,Norway,42856067.0
+2018,Rock,Peru,6364951.0
+2018,Rock,Philippines,43074634.0
+2018,Rock,Poland,56490586.0
+2018,Rock,Portugal,18174694.0
+2018,Rock,Singapore,15067727.0
+2018,Rock,Spain,54470599.0
+2018,Rock,Sweden,74262748.0
+2018,Rock,Switzerland,23059064.0
+2018,Rock,Taiwan,4664838.0
+2018,Rock,Turkey,42696362.0
+2018,Rock,United States of America,711849930.0
 2018,Soul,Argentina,19203.0
 2018,Soul,Australia,763413.0
-2018,Soul,Austria,140137.0
+2018,Soul,Austria,148291.0
 2018,Soul,Belgium,333851.0
 2018,Soul,Brazil,154242.0
 2018,Soul,Canada,1106471.0
@@ -2318,7 +1228,7 @@ chart_year,Genre,region,sum
 2018,Soul,Denmark,72354.0
 2018,Soul,Finland,294345.0
 2018,Soul,France,370837.0
-2018,Soul,Germany,1699928.0
+2018,Soul,Germany,1841151.0
 2018,Soul,Global,17358213.0
 2018,Soul,Indonesia,2359346.0
 2018,Soul,Ireland,738941.0
@@ -2338,8 +1248,6 @@ chart_year,Genre,region,sum
 2018,Soul,Taiwan,34552.0
 2018,Soul,Turkey,1536454.0
 2018,Soul,United States of America,3951910.0
-2018,Stomp And Holler,Ireland,3828.0
-2018,Stomp And Holler,Poland,33984.0
 2018,Swing,Austria,1052394.0
 2018,Swing,Denmark,3885350.0
 2018,Swing,Germany,43187708.0
@@ -2350,8 +1258,6 @@ chart_year,Genre,region,sum
 2018,Swing,Sweden,2088099.0
 2018,Swing,Switzerland,3044108.0
 2018,Swing,Taiwan,2887.0
-2018,Trap,Argentina,397711.0
-2018,Trap,Spain,416290.0
 2019,A Cappella,Australia,121583.0
 2019,A Cappella,Austria,564816.0
 2019,A Cappella,Canada,1207928.0
@@ -2365,44 +1271,6 @@ chart_year,Genre,region,sum
 2019,A Cappella,Sweden,336602.0
 2019,A Cappella,Switzerland,115408.0
 2019,A Cappella,United States of America,3709064.0
-2019,Acoustic Chill,Denmark,19171.0
-2019,Acoustic Chill,Sweden,540714.0
-2019,Adult Standards,Australia,5354660.0
-2019,Adult Standards,Austria,633997.0
-2019,Adult Standards,Belgium,1111974.0
-2019,Adult Standards,Canada,12966456.0
-2019,Adult Standards,Chile,149077.0
-2019,Adult Standards,Costa Rica,13154.0
-2019,Adult Standards,Denmark,2382687.0
-2019,Adult Standards,Ecuador,21221.0
-2019,Adult Standards,Finland,473763.0
-2019,Adult Standards,France,1425564.0
-2019,Adult Standards,Germany,7282558.0
-2019,Adult Standards,Global,116521081.0
-2019,Adult Standards,Ireland,1948233.0
-2019,Adult Standards,Italy,1020096.0
-2019,Adult Standards,Malaysia,154269.0
-2019,Adult Standards,Mexico,242323.0
-2019,Adult Standards,Netherlands,4805277.0
-2019,Adult Standards,New Zealand,1014238.0
-2019,Adult Standards,Norway,3001038.0
-2019,Adult Standards,Peru,29515.0
-2019,Adult Standards,Philippines,257732.0
-2019,Adult Standards,Poland,3078267.0
-2019,Adult Standards,Portugal,419513.0
-2019,Adult Standards,Singapore,409998.0
-2019,Adult Standards,Spain,624728.0
-2019,Adult Standards,Sweden,4831498.0
-2019,Adult Standards,Switzerland,1378340.0
-2019,Adult Standards,Taiwan,48912.0
-2019,Adult Standards,United States of America,58937688.0
-2019,Afrofuturism,Belgium,6681.0
-2019,Afrofuturism,Canada,37363.0
-2019,Afrofuturism,Denmark,12954.0
-2019,Afrofuturism,Global,811241.0
-2019,Afrofuturism,Netherlands,32711.0
-2019,Afrofuturism,Norway,13808.0
-2019,Afrofuturism,United States of America,1610093.0
 2019,Alternative Dance,Ireland,12610.0
 2019,Alternative Dance,Portugal,3948.0
 2019,Alternative Hip Hop,Australia,9688764.0
@@ -2450,28 +1318,6 @@ chart_year,Genre,region,sum
 2019,Alternative Pop,New Zealand,3380406.0
 2019,Alternative Pop,Singapore,12995.0
 2019,Alternative Pop,Taiwan,6017.0
-2019,Alternative Pop Rock,Australia,71041828.0
-2019,Alternative Pop Rock,Austria,2784900.0
-2019,Alternative Pop Rock,Belgium,4420628.0
-2019,Alternative Pop Rock,Canada,15450926.0
-2019,Alternative Pop Rock,Denmark,3312862.0
-2019,Alternative Pop Rock,Finland,78783.0
-2019,Alternative Pop Rock,France,2477386.0
-2019,Alternative Pop Rock,Germany,54345276.0
-2019,Alternative Pop Rock,Global,483743338.0
-2019,Alternative Pop Rock,Ireland,18195522.0
-2019,Alternative Pop Rock,Malaysia,134764.0
-2019,Alternative Pop Rock,Netherlands,13917550.0
-2019,Alternative Pop Rock,New Zealand,11781146.0
-2019,Alternative Pop Rock,Norway,2746740.0
-2019,Alternative Pop Rock,Philippines,434609.0
-2019,Alternative Pop Rock,Poland,750870.0
-2019,Alternative Pop Rock,Portugal,138079.0
-2019,Alternative Pop Rock,Singapore,408061.0
-2019,Alternative Pop Rock,Sweden,485917.0
-2019,Alternative Pop Rock,Switzerland,3320936.0
-2019,Alternative Pop Rock,Taiwan,156614.0
-2019,Alternative Pop Rock,United States of America,29537634.0
 2019,Alternative R&b,Argentina,1530156.0
 2019,Alternative R&b,Australia,125732651.0
 2019,Alternative R&b,Austria,2818221.0
@@ -2506,178 +1352,95 @@ chart_year,Genre,region,sum
 2019,Alternative R&b,Taiwan,4229220.0
 2019,Alternative R&b,Turkey,3505415.0
 2019,Alternative R&b,United States of America,814148077.0
-2019,Alternative Rock,Argentina,41174.0
-2019,Alternative Rock,Australia,8788808.0
-2019,Alternative Rock,Austria,5491.0
-2019,Alternative Rock,Belgium,180058.0
-2019,Alternative Rock,Canada,66343.0
-2019,Alternative Rock,Colombia,399216.0
-2019,Alternative Rock,Costa Rica,162151.0
-2019,Alternative Rock,Ecuador,31276.0
-2019,Alternative Rock,Finland,7009.0
-2019,Alternative Rock,Global,1576815.0
-2019,Alternative Rock,Ireland,263140.0
-2019,Alternative Rock,Malaysia,6044.0
-2019,Alternative Rock,Mexico,369687.0
-2019,Alternative Rock,New Zealand,75242.0
-2019,Alternative Rock,Peru,55954.0
-2019,Alternative Rock,Philippines,9414694.0
-2019,Alternative Rock,Poland,23296.0
-2019,Alternative Rock,Portugal,21763.0
-2019,Alternative Rock,Singapore,6907.0
-2019,Alternative Rock,Taiwan,20137.0
-2019,Alternative Rock,United States of America,653998.0
-2019,Ambigious / Unknown,Argentina,168102.0
-2019,Ambigious / Unknown,Australia,4627795.0
-2019,Ambigious / Unknown,Austria,1372342.0
-2019,Ambigious / Unknown,Belgium,2192215.0
-2019,Ambigious / Unknown,Brazil,572620.0
-2019,Ambigious / Unknown,Canada,15930307.0
-2019,Ambigious / Unknown,Chile,347307.0
-2019,Ambigious / Unknown,Colombia,21794.0
-2019,Ambigious / Unknown,Costa Rica,71353.0
-2019,Ambigious / Unknown,Denmark,5281858.0
-2019,Ambigious / Unknown,Ecuador,101193.0
-2019,Ambigious / Unknown,Finland,642283.0
-2019,Ambigious / Unknown,France,402096.0
-2019,Ambigious / Unknown,Germany,18233576.0
-2019,Ambigious / Unknown,Global,250691539.0
-2019,Ambigious / Unknown,Indonesia,67430.0
-2019,Ambigious / Unknown,Ireland,6545963.0
-2019,Ambigious / Unknown,Italy,1729662.0
-2019,Ambigious / Unknown,Malaysia,556733.0
-2019,Ambigious / Unknown,Mexico,923028.0
-2019,Ambigious / Unknown,Netherlands,7175541.0
-2019,Ambigious / Unknown,New Zealand,844201.0
-2019,Ambigious / Unknown,Norway,5010853.0
-2019,Ambigious / Unknown,Peru,134496.0
-2019,Ambigious / Unknown,Philippines,1959599.0
-2019,Ambigious / Unknown,Poland,2642785.0
-2019,Ambigious / Unknown,Portugal,873056.0
-2019,Ambigious / Unknown,Singapore,902338.0
-2019,Ambigious / Unknown,Spain,1548807.0
-2019,Ambigious / Unknown,Sweden,24154600.0
-2019,Ambigious / Unknown,Switzerland,1941966.0
-2019,Ambigious / Unknown,Taiwan,353454.0
-2019,Ambigious / Unknown,Turkey,407096.0
-2019,Ambigious / Unknown,United States of America,106657534.0
-2019,Anthem Worship,Belgium,35958.0
-2019,Anthem Worship,Canada,134382.0
-2019,Anthem Worship,Denmark,163747.0
-2019,Anthem Worship,Global,1855221.0
-2019,Anthem Worship,Ireland,25611.0
-2019,Anthem Worship,Netherlands,43665.0
-2019,Anthem Worship,Portugal,7616.0
-2019,Anthem Worship,Switzerland,51590.0
-2019,Anthem Worship,United States of America,326890.0
-2019,Australian Indigenous,Australia,13750468.0
-2019,Big Room,Australia,5985641.0
-2019,Big Room,Austria,1242974.0
-2019,Big Room,Belgium,3097577.0
-2019,Big Room,Brazil,1063371.0
-2019,Big Room,Canada,3455309.0
-2019,Big Room,Colombia,65265.0
-2019,Big Room,Costa Rica,14614.0
-2019,Big Room,Denmark,1256439.0
-2019,Big Room,Ecuador,2930.0
-2019,Big Room,Finland,1973993.0
-2019,Big Room,France,2712677.0
-2019,Big Room,Germany,8840206.0
-2019,Big Room,Global,105952297.0
-2019,Big Room,Indonesia,698575.0
-2019,Big Room,Ireland,1156817.0
-2019,Big Room,Italy,6715530.0
-2019,Big Room,Malaysia,485213.0
-2019,Big Room,Mexico,268665.0
-2019,Big Room,Netherlands,9580595.0
-2019,Big Room,New Zealand,561718.0
-2019,Big Room,Norway,4100356.0
-2019,Big Room,Philippines,1223761.0
-2019,Big Room,Poland,7383597.0
-2019,Big Room,Portugal,408044.0
-2019,Big Room,Singapore,683053.0
-2019,Big Room,Spain,523623.0
-2019,Big Room,Sweden,23245764.0
-2019,Big Room,Switzerland,1174850.0
-2019,Big Room,Taiwan,766363.0
-2019,Big Room,United States of America,14510515.0
-2019,Boy Band,Argentina,9540760.0
-2019,Boy Band,Australia,166407414.0
-2019,Boy Band,Austria,8220917.0
-2019,Boy Band,Belgium,23354355.0
-2019,Boy Band,Brazil,27861239.0
-2019,Boy Band,Canada,120660909.0
-2019,Boy Band,Chile,1270452.0
-2019,Boy Band,Colombia,3893055.0
-2019,Boy Band,Costa Rica,2346232.0
-2019,Boy Band,Denmark,25015058.0
-2019,Boy Band,Ecuador,2060584.0
-2019,Boy Band,Finland,9589217.0
-2019,Boy Band,France,31123441.0
-2019,Boy Band,Germany,69579743.0
-2019,Boy Band,Global,2400574796.0
-2019,Boy Band,Indonesia,36539530.0
-2019,Boy Band,Ireland,29050961.0
-2019,Boy Band,Italy,23901828.0
-2019,Boy Band,Malaysia,36903634.0
-2019,Boy Band,Mexico,50878552.0
-2019,Boy Band,Netherlands,83873922.0
-2019,Boy Band,New Zealand,28192604.0
-2019,Boy Band,Norway,24854075.0
-2019,Boy Band,Peru,4621381.0
-2019,Boy Band,Philippines,72445358.0
-2019,Boy Band,Poland,41684227.0
-2019,Boy Band,Portugal,11175802.0
-2019,Boy Band,Singapore,41277801.0
-2019,Boy Band,Spain,28819179.0
-2019,Boy Band,Sweden,23841923.0
-2019,Boy Band,Switzerland,8991873.0
-2019,Boy Band,Taiwan,13741384.0
-2019,Boy Band,Turkey,5167800.0
-2019,Boy Band,United States of America,700092757.0
+2019,Alternative Rock,Argentina,4764638.0
+2019,Alternative Rock,Australia,84141658.0
+2019,Alternative Rock,Austria,3166439.0
+2019,Alternative Rock,Belgium,6536303.0
+2019,Alternative Rock,Brazil,103416.0
+2019,Alternative Rock,Canada,19250742.0
+2019,Alternative Rock,Colombia,1864979.0
+2019,Alternative Rock,Costa Rica,1339206.0
+2019,Alternative Rock,Denmark,3904688.0
+2019,Alternative Rock,Ecuador,566888.0
+2019,Alternative Rock,Finland,319293.0
+2019,Alternative Rock,France,2698306.0
+2019,Alternative Rock,Germany,56777139.0
+2019,Alternative Rock,Global,582742725.0
+2019,Alternative Rock,Indonesia,167890.0
+2019,Alternative Rock,Ireland,19770467.0
+2019,Alternative Rock,Italy,2563529.0
+2019,Alternative Rock,Malaysia,1792260.0
+2019,Alternative Rock,Mexico,16165785.0
+2019,Alternative Rock,Netherlands,22308822.0
+2019,Alternative Rock,New Zealand,12504914.0
+2019,Alternative Rock,Norway,6583486.0
+2019,Alternative Rock,Peru,536794.0
+2019,Alternative Rock,Philippines,12075725.0
+2019,Alternative Rock,Poland,2137117.0
+2019,Alternative Rock,Portugal,601704.0
+2019,Alternative Rock,Singapore,1099834.0
+2019,Alternative Rock,Spain,1487546.0
+2019,Alternative Rock,Sweden,2904909.0
+2019,Alternative Rock,Switzerland,4198496.0
+2019,Alternative Rock,Taiwan,956377.0
+2019,Alternative Rock,United States of America,34228474.0
+2019,Ambigious / Others,Argentina,18240632.0
+2019,Ambigious / Others,Australia,207428895.0
+2019,Ambigious / Others,Austria,10257644.0
+2019,Ambigious / Others,Belgium,30581740.0
+2019,Ambigious / Others,Brazil,28523550.0
+2019,Ambigious / Others,Canada,156407554.0
+2019,Ambigious / Others,Chile,13580497.0
+2019,Ambigious / Others,Colombia,9736014.0
+2019,Ambigious / Others,Costa Rica,8173549.0
+2019,Ambigious / Others,Denmark,44941880.0
+2019,Ambigious / Others,Ecuador,6558298.0
+2019,Ambigious / Others,Finland,10888249.0
+2019,Ambigious / Others,France,99757911.0
+2019,Ambigious / Others,Germany,95611014.0
+2019,Ambigious / Others,Global,2865862346.0
+2019,Ambigious / Others,Indonesia,55048328.0
+2019,Ambigious / Others,Ireland,42365271.0
+2019,Ambigious / Others,Italy,27281112.0
+2019,Ambigious / Others,Malaysia,46435292.0
+2019,Ambigious / Others,Mexico,133374097.0
+2019,Ambigious / Others,Netherlands,111100895.0
+2019,Ambigious / Others,New Zealand,39792725.0
+2019,Ambigious / Others,Norway,48966263.0
+2019,Ambigious / Others,Peru,19531887.0
+2019,Ambigious / Others,Philippines,93325052.0
+2019,Ambigious / Others,Poland,47405279.0
+2019,Ambigious / Others,Portugal,12623985.0
+2019,Ambigious / Others,Singapore,50112828.0
+2019,Ambigious / Others,Spain,122760418.0
+2019,Ambigious / Others,Sweden,56391556.0
+2019,Ambigious / Others,Switzerland,13098048.0
+2019,Ambigious / Others,Taiwan,14466771.0
+2019,Ambigious / Others,Turkey,5574896.0
+2019,Ambigious / Others,United States of America,919027079.0
+2019,Blues,Australia,1444754.0
+2019,Blues,Austria,26773.0
+2019,Blues,Belgium,267731.0
+2019,Blues,Canada,2388106.0
+2019,Blues,Denmark,395209.0
+2019,Blues,Finland,27523.0
+2019,Blues,Germany,309078.0
+2019,Blues,Global,29560467.0
+2019,Blues,Ireland,640071.0
+2019,Blues,Malaysia,13213.0
+2019,Blues,Netherlands,884439.0
+2019,Blues,New Zealand,347815.0
+2019,Blues,Norway,495399.0
+2019,Blues,Philippines,82800.0
+2019,Blues,Poland,131870.0
+2019,Blues,Portugal,88350.0
+2019,Blues,Singapore,37112.0
+2019,Blues,Spain,46169.0
+2019,Blues,Sweden,391830.0
+2019,Blues,Switzerland,250450.0
+2019,Blues,United States of America,14934745.0
 2019,Britpop,Ireland,56739.0
-2019,Brostep,Australia,31542.0
-2019,Brostep,Austria,22601.0
-2019,Brostep,Belgium,232592.0
-2019,Brostep,Canada,503231.0
-2019,Brostep,Costa Rica,58044.0
-2019,Brostep,Ecuador,30365.0
-2019,Brostep,France,192482.0
-2019,Brostep,Germany,465417.0
-2019,Brostep,Global,15865026.0
-2019,Brostep,Ireland,130740.0
-2019,Brostep,Italy,502874.0
-2019,Brostep,Malaysia,54534.0
-2019,Brostep,Mexico,365929.0
-2019,Brostep,Netherlands,158183.0
-2019,Brostep,New Zealand,6658.0
-2019,Brostep,Norway,257877.0
-2019,Brostep,Peru,24635.0
-2019,Brostep,Portugal,22958.0
-2019,Brostep,Singapore,63946.0
-2019,Brostep,Spain,491296.0
-2019,Brostep,Sweden,322093.0
-2019,Brostep,Switzerland,9869.0
-2019,Brostep,Taiwan,67706.0
-2019,Brostep,United States of America,3748106.0
 2019,C-pop,Singapore,36852.0
-2019,Ccm,Belgium,2801946.0
-2019,Ccm,Canada,693749.0
-2019,Ccm,France,2093320.0
-2019,Ccm,Netherlands,12734201.0
-2019,Ccm,Portugal,78881.0
-2019,Ccm,Switzerland,70766.0
-2019,Ccm,United States of America,1747726.0
-2019,Celtic,Ireland,22932.0
-2019,Christmas Instrumental,Finland,56750.0
-2019,Christmas Instrumental,Sweden,47093.0
-2019,Classic Rock,Australia,239724.0
-2019,Classic Rock,Canada,30096.0
-2019,Classic Rock,Finland,25528.0
-2019,Classic Rock,Ireland,187437.0
-2019,Classic Rock,New Zealand,66816.0
-2019,Classic Rock,Norway,14065.0
-2019,Classic Rock,Sweden,65062.0
 2019,Country,Australia,8507542.0
 2019,Country,Belgium,109243.0
 2019,Country,Canada,86615862.0
@@ -2694,54 +1457,21 @@ chart_year,Genre,region,sum
 2019,Country,Switzerland,37875.0
 2019,Country,Taiwan,251288.0
 2019,Country,United States of America,778818546.0
-2019,Country Rap,Argentina,708196.0
-2019,Country Rap,Australia,78675245.0
-2019,Country Rap,Austria,4138751.0
-2019,Country Rap,Belgium,8289663.0
-2019,Country Rap,Brazil,32825319.0
-2019,Country Rap,Canada,70411470.0
-2019,Country Rap,Colombia,26198.0
-2019,Country Rap,Costa Rica,1025019.0
-2019,Country Rap,Denmark,7071078.0
-2019,Country Rap,Ecuador,64277.0
-2019,Country Rap,Finland,5319345.0
-2019,Country Rap,France,19992636.0
-2019,Country Rap,Germany,66145962.0
-2019,Country Rap,Global,1019871930.0
-2019,Country Rap,Indonesia,3653272.0
-2019,Country Rap,Ireland,6222234.0
-2019,Country Rap,Italy,21350832.0
-2019,Country Rap,Malaysia,2844777.0
-2019,Country Rap,Mexico,4999025.0
-2019,Country Rap,Netherlands,22767311.0
-2019,Country Rap,New Zealand,15154098.0
-2019,Country Rap,Norway,16001888.0
-2019,Country Rap,Philippines,6411061.0
-2019,Country Rap,Poland,7670587.0
-2019,Country Rap,Portugal,3714811.0
-2019,Country Rap,Singapore,2912098.0
-2019,Country Rap,Spain,4524351.0
-2019,Country Rap,Sweden,16281431.0
-2019,Country Rap,Switzerland,5949853.0
-2019,Country Rap,Taiwan,1624997.0
-2019,Country Rap,Turkey,6228716.0
-2019,Country Rap,United States of America,373410112.0
-2019,Dakke Dak,Denmark,5010364.0
 2019,Dance,Australia,295687.0
 2019,Dance,Austria,1123555.0
 2019,Dance,Belgium,310981.0
 2019,Dance,Costa Rica,80078.0
 2019,Dance,Denmark,2102359.0
-2019,Dance,Finland,292322.0
+2019,Dance,Finland,299861.0
 2019,Dance,France,15537714.0
 2019,Dance,Germany,20683927.0
 2019,Dance,Italy,44746.0
 2019,Dance,New Zealand,22939.0
+2019,Dance,Norway,15460.0
 2019,Dance,Poland,665576.0
+2019,Dance,Sweden,28905.0
 2019,Dance,Switzerland,899965.0
-2019,Dance Pop,Finland,3901453.0
-2019,Dance Rock,Ireland,13195.0
-2019,Dancehall,Costa Rica,3729152.0
+2019,Dance,Taiwan,4245.0
 2019,Disco,Australia,1058554.0
 2019,Disco,Belgium,150751.0
 2019,Disco,Canada,209790.0
@@ -2755,192 +1485,91 @@ chart_year,Genre,region,sum
 2019,Disco,Sweden,51099.0
 2019,Disco,Switzerland,11374.0
 2019,Disco,United States of America,1741981.0
-2019,Drill,Australia,10735547.0
-2019,Drill,Austria,1262053.0
-2019,Drill,Canada,1119765.0
-2019,Drill,Germany,19774400.0
-2019,Drill,Ireland,40258.0
-2019,Drill,New Zealand,2319039.0
-2019,Drill,Switzerland,254069.0
-2019,Drill,United States of America,4990451.0
-2019,Edm,Australia,18794424.0
-2019,Edm,Austria,1368487.0
-2019,Edm,Belgium,4004507.0
-2019,Edm,Canada,7421639.0
-2019,Edm,Colombia,7535.0
-2019,Edm,Denmark,5231275.0
-2019,Edm,Ecuador,264486.0
-2019,Edm,Finland,3321900.0
-2019,Edm,France,11217348.0
-2019,Edm,Germany,27647698.0
-2019,Edm,Global,224475222.0
-2019,Edm,Ireland,4984387.0
-2019,Edm,Italy,4789282.0
-2019,Edm,Malaysia,732610.0
-2019,Edm,Mexico,11929276.0
-2019,Edm,Netherlands,10378574.0
-2019,Edm,New Zealand,2634076.0
-2019,Edm,Norway,3317835.0
-2019,Edm,Philippines,825459.0
-2019,Edm,Poland,3599026.0
-2019,Edm,Portugal,715686.0
-2019,Edm,Singapore,920119.0
-2019,Edm,Spain,145861.0
-2019,Edm,Sweden,4276990.0
-2019,Edm,Switzerland,2262150.0
-2019,Edm,Taiwan,532051.0
-2019,Edm,Turkey,2369048.0
-2019,Edm,United States of America,20795938.0
-2019,Electro House,Costa Rica,457866.0
-2019,Electro House,Finland,2347566.0
-2019,Electro House,Indonesia,15704152.0
-2019,Electro House,Malaysia,4943152.0
-2019,Electro House,Mexico,466758.0
-2019,Electro House,Norway,7903646.0
-2019,Electro House,Peru,530504.0
-2019,Electro House,Singapore,5149930.0
-2019,Electro House,Sweden,321980.0
-2019,Electro House,Switzerland,69998.0
-2019,Electro House,Taiwan,2103900.0
-2019,Electronic,Austria,717620.0
-2019,Electronic,Belgium,328722.0
-2019,Electronic,Canada,172284.0
-2019,Electronic,Denmark,2711349.0
-2019,Electronic,Finland,115478.0
-2019,Electronic,France,6749082.0
-2019,Electronic,Germany,29332787.0
-2019,Electronic,Global,26178542.0
-2019,Electronic,Ireland,162079.0
-2019,Electronic,Norway,839603.0
-2019,Electronic,Poland,4103121.0
-2019,Electronic,Sweden,120224.0
-2019,Electronic,Switzerland,637646.0
-2019,Electronica,Australia,4507370.0
-2019,Electronica,New Zealand,235894.0
-2019,Electropop,Australia,1412783.0
-2019,Electropop,Canada,270169.0
-2019,Electropop,Taiwan,616388.0
-2019,Emo,New Zealand,6290.0
-2019,Europop,Denmark,28548.0
-2019,Europop,Finland,45097.0
-2019,Europop,Sweden,22670553.0
-2019,Eurovision,Austria,3770.0
-2019,Eurovision,Belgium,13569.0
-2019,Eurovision,Denmark,9687.0
-2019,Eurovision,Finland,34359.0
-2019,Eurovision,Germany,49720.0
-2019,Eurovision,Netherlands,176016.0
-2019,Eurovision,Norway,3660313.0
-2019,Eurovision,Portugal,3338.0
-2019,Eurovision,Spain,1018175.0
-2019,Eurovision,Sweden,805331.0
-2019,Eurovision,Switzerland,12779.0
-2019,Finnish Trap,Finland,13065.0
+2019,EDM,Australia,27519776.0
+2019,EDM,Austria,2625043.0
+2019,EDM,Belgium,8692240.0
+2019,EDM,Brazil,1063371.0
+2019,EDM,Canada,10876948.0
+2019,EDM,Colombia,72800.0
+2019,EDM,Costa Rica,472480.0
+2019,EDM,Denmark,6487714.0
+2019,EDM,Ecuador,267416.0
+2019,EDM,Finland,7643459.0
+2019,EDM,France,13930025.0
+2019,EDM,Germany,36779689.0
+2019,EDM,Global,330427519.0
+2019,EDM,Indonesia,16402727.0
+2019,EDM,Ireland,8171810.0
+2019,EDM,Italy,11539449.0
+2019,EDM,Malaysia,6160975.0
+2019,EDM,Mexico,12664699.0
+2019,EDM,Netherlands,20451562.0
+2019,EDM,New Zealand,3539193.0
+2019,EDM,Norway,15910697.0
+2019,EDM,Peru,530504.0
+2019,EDM,Philippines,2049220.0
+2019,EDM,Poland,10982623.0
+2019,EDM,Portugal,1123730.0
+2019,EDM,Singapore,6753102.0
+2019,EDM,Spain,669484.0
+2019,EDM,Sweden,27844734.0
+2019,EDM,Switzerland,3726647.0
+2019,EDM,Taiwan,3407356.0
+2019,EDM,Turkey,2369048.0
+2019,EDM,United States of America,35531819.0
+2019,Electronica,Australia,29868282.0
+2019,Electronica,Austria,717620.0
+2019,Electronica,Belgium,772324.0
+2019,Electronica,Canada,203686.0
+2019,Electronica,Denmark,14247417.0
+2019,Electronica,Finland,145896.0
+2019,Electronica,France,6749082.0
+2019,Electronica,Germany,29332787.0
+2019,Electronica,Global,102124843.0
+2019,Electronica,Ireland,29107630.0
+2019,Electronica,Netherlands,899589.0
+2019,Electronica,New Zealand,3910090.0
+2019,Electronica,Norway,1439754.0
+2019,Electronica,Poland,4103121.0
+2019,Electronica,Sweden,571977.0
+2019,Electronica,Switzerland,742399.0
+2019,Electronica,United States of America,269987.0
+2019,Folk,Australia,226620.0
+2019,Folk,Austria,89512.0
+2019,Folk,Belgium,26236.0
+2019,Folk,Canada,886694.0
+2019,Folk,Finland,38642.0
+2019,Folk,Global,697812.0
 2019,Folk,Indonesia,9156564.0
+2019,Folk,Ireland,13147988.0
+2019,Folk,Malaysia,6546.0
 2019,Folk,New Zealand,25185.0
-2019,Folk Rock,Ireland,100131.0
-2019,Folk Rock,Norway,11748.0
-2019,Folk Rock,Sweden,26064.0
-2019,Folk-pop,Australia,37901533.0
-2019,Folk-pop,Austria,3678895.0
-2019,Folk-pop,Belgium,14599795.0
-2019,Folk-pop,Canada,5205874.0
-2019,Folk-pop,Denmark,4565694.0
-2019,Folk-pop,Finland,8292.0
-2019,Folk-pop,France,10341529.0
-2019,Folk-pop,Germany,33314064.0
-2019,Folk-pop,Global,182070642.0
-2019,Folk-pop,Ireland,62608701.0
-2019,Folk-pop,Italy,69193.0
-2019,Folk-pop,Netherlands,32910118.0
-2019,Folk-pop,New Zealand,6994223.0
-2019,Folk-pop,Norway,3129646.0
-2019,Folk-pop,Poland,10564565.0
-2019,Folk-pop,Portugal,63720.0
-2019,Folk-pop,Spain,2454296.0
-2019,Folk-pop,Sweden,1706907.0
-2019,Folk-pop,Switzerland,6716411.0
-2019,Folk-pop,Taiwan,9277.0
-2019,Folk-pop,United States of America,2000377.0
-2019,Francoton,Belgium,642587.0
-2019,Francoton,France,64521008.0
-2019,Francoton,Switzerland,500226.0
+2019,Folk,Norway,197872.0
+2019,Folk,Poland,456841.0
+2019,Folk,Sweden,25038.0
+2019,Folk,United States of America,282598.0
 2019,Funk,Brazil,223639.0
 2019,Funk,Netherlands,19378.0
-2019,Gangster Rap,Australia,1807214.0
-2019,Gangster Rap,Belgium,11765.0
-2019,Gangster Rap,Canada,4939729.0
-2019,Gangster Rap,Denmark,24017.0
-2019,Gangster Rap,Finland,91877.0
-2019,Gangster Rap,Global,29779298.0
-2019,Gangster Rap,Ireland,12364.0
-2019,Gangster Rap,New Zealand,793683.0
-2019,Gangster Rap,Norway,299055.0
-2019,Gangster Rap,Portugal,23054.0
-2019,Gangster Rap,Sweden,27651.0
-2019,Gangster Rap,Switzerland,59702.0
-2019,Gangster Rap,United States of America,39984864.0
-2019,Garage Punk,Australia,101430.0
-2019,Glam Metal,Colombia,377106.0
-2019,Glam Metal,Costa Rica,321798.0
-2019,Glam Metal,Ireland,13713.0
-2019,Glam Metal,Norway,12488.0
-2019,Glam Rock,Australia,8953184.0
-2019,Glam Rock,Austria,264847.0
-2019,Glam Rock,Belgium,59538.0
-2019,Glam Rock,Canada,2216329.0
-2019,Glam Rock,Denmark,496380.0
-2019,Glam Rock,Finland,35475.0
-2019,Glam Rock,France,141871.0
-2019,Glam Rock,Germany,1925463.0
-2019,Glam Rock,Global,20465666.0
-2019,Glam Rock,Ireland,965773.0
-2019,Glam Rock,Italy,148543.0
-2019,Glam Rock,Netherlands,189003.0
-2019,Glam Rock,New Zealand,2898560.0
-2019,Glam Rock,Norway,64581.0
-2019,Glam Rock,Poland,137876.0
-2019,Glam Rock,Portugal,26317.0
-2019,Glam Rock,Singapore,16233.0
-2019,Glam Rock,Sweden,555325.0
-2019,Glam Rock,Switzerland,164779.0
-2019,Glam Rock,United States of America,2488795.0
-2019,Grime,Australia,25330566.0
-2019,Grime,Belgium,443602.0
-2019,Grime,Denmark,11536068.0
-2019,Grime,Finland,30418.0
-2019,Grime,Global,75946301.0
-2019,Grime,Ireland,28945551.0
-2019,Grime,Netherlands,899589.0
-2019,Grime,New Zealand,3674196.0
-2019,Grime,Norway,600151.0
-2019,Grime,Sweden,451753.0
-2019,Grime,Switzerland,104753.0
-2019,Halloween,Canada,148278.0
-2019,Halloween,Global,2265348.0
-2019,Halloween,Ireland,17798.0
-2019,Halloween,Norway,23232.0
-2019,Halloween,United States of America,1948208.0
-2019,Hip Hop,Argentina,1836479.0
-2019,Hip Hop,Australia,98518326.0
-2019,Hip Hop,Austria,2053027.0
+2019,Hip Hop,Argentina,2260445.0
+2019,Hip Hop,Australia,109253873.0
+2019,Hip Hop,Austria,3315080.0
 2019,Hip Hop,Belgium,2791197.0
 2019,Hip Hop,Brazil,395259.0
-2019,Hip Hop,Canada,119204553.0
+2019,Hip Hop,Canada,120324318.0
 2019,Hip Hop,Colombia,60926.0
 2019,Hip Hop,Costa Rica,200121.0
 2019,Hip Hop,Denmark,14834373.0
-2019,Hip Hop,Finland,1653393.0
+2019,Hip Hop,Finland,1666458.0
 2019,Hip Hop,France,26459532.0
-2019,Hip Hop,Germany,45596990.0
+2019,Hip Hop,Germany,65371390.0
 2019,Hip Hop,Global,689561396.0
 2019,Hip Hop,Indonesia,25305068.0
-2019,Hip Hop,Ireland,12482194.0
+2019,Hip Hop,Ireland,12522452.0
 2019,Hip Hop,Italy,77586834.0
 2019,Hip Hop,Malaysia,9567794.0
 2019,Hip Hop,Mexico,3801215.0
 2019,Hip Hop,Netherlands,52724541.0
-2019,Hip Hop,New Zealand,13825673.0
+2019,Hip Hop,New Zealand,16144712.0
 2019,Hip Hop,Norway,3616634.0
 2019,Hip Hop,Peru,7465.0
 2019,Hip Hop,Philippines,32001839.0
@@ -2948,31 +1577,10 @@ chart_year,Genre,region,sum
 2019,Hip Hop,Portugal,9651779.0
 2019,Hip Hop,Singapore,196926.0
 2019,Hip Hop,Sweden,1463042.0
-2019,Hip Hop,Switzerland,2625265.0
+2019,Hip Hop,Switzerland,2879334.0
 2019,Hip Hop,Taiwan,171775.0
 2019,Hip Hop,Turkey,9965232.0
-2019,Hip Hop,United States of America,866710342.0
-2019,Hip Pop,Austria,10944.0
-2019,Hip Pop,Denmark,12847.0
-2019,Hip Pop,Germany,161819.0
-2019,Hip Pop,Philippines,1305447.0
-2019,Hollywood,Denmark,44264.0
-2019,Hollywood,Ireland,418430.0
-2019,Hollywood,Malaysia,127276.0
-2019,Hollywood,Philippines,477947.0
-2019,Hollywood,Singapore,191820.0
-2019,Hollywood,Taiwan,23726.0
-2019,Hollywood,United States of America,462385.0
-2019,House,Australia,2739711.0
-2019,House,Austria,13582.0
-2019,House,Belgium,1590156.0
-2019,House,Germany,291785.0
-2019,House,Ireland,2030606.0
-2019,House,Italy,34637.0
-2019,House,Netherlands,492393.0
-2019,House,New Zealand,343399.0
-2019,House,Norway,577084.0
-2019,House,Switzerland,219649.0
+2019,Hip Hop,United States of America,871700793.0
 2019,Indie,Argentina,1890628.0
 2019,Indie,Australia,8648790.0
 2019,Indie,Belgium,110971.0
@@ -2989,53 +1597,7 @@ chart_year,Genre,region,sum
 2019,Indie,Singapore,58177.0
 2019,Indie,Sweden,6141612.0
 2019,Indie,United States of America,5614655.0
-2019,Indie Anthem-folk,Austria,89512.0
-2019,Indie Anthem-folk,Belgium,6006.0
-2019,Indie Anthem-folk,Finland,38642.0
-2019,Indie Anthem-folk,Ireland,13147988.0
-2019,Indie Anthem-folk,Norway,11792.0
-2019,Indie Anthem-folk,Sweden,25038.0
-2019,Indie Folk,Australia,226620.0
-2019,Indie Folk,Belgium,20230.0
-2019,Indie Folk,Canada,886694.0
-2019,Indie Folk,Global,697812.0
-2019,Indie Folk,Malaysia,6546.0
-2019,Indie Folk,Norway,186080.0
-2019,Indie Folk,Poland,456841.0
-2019,Indie Folk,United States of America,282598.0
-2019,Indie Pop,Austria,3422.0
-2019,Indie Pop,Belgium,60181.0
-2019,Indie Pop,Canada,630613.0
-2019,Indie Pop,France,2186754.0
-2019,Indie Pop,Global,1119832.0
-2019,Indie Pop,Ireland,158745.0
-2019,Indie Pop,Italy,181338.0
-2019,Indie Pop,Malaysia,49884.0
-2019,Indie Pop,Norway,10586.0
-2019,Indie Pop,Poland,89386.0
-2019,Indie Pop,Portugal,41083.0
-2019,Indie Pop,Singapore,32801.0
-2019,Indie Pop,Sweden,175568.0
-2019,Indie Pop,United States of America,1065387.0
-2019,Indie Rock,Australia,537936.0
-2019,Indie Rock,Austria,20116.0
-2019,Indie Rock,Belgium,724228.0
-2019,Indie Rock,Canada,56484.0
-2019,Indie Rock,France,2312549.0
-2019,Indie Rock,Global,1557946.0
-2019,Indie Rock,Ireland,320689.0
-2019,Indie Rock,Netherlands,27031.0
-2019,Indie Rock,New Zealand,359160.0
-2019,Indie Rock,Norway,42934.0
-2019,Indie Rock,Poland,2697593.0
-2019,Indie Rock,Portugal,16412.0
-2019,Indie Rock,Sweden,57877.0
-2019,Indie Rock,Switzerland,118372.0
-2019,Indie Rock,United States of America,276827.0
-2019,Indietronica,Australia,30346.0
 2019,J-pop,Taiwan,12848.0
-2019,Jam Band,Canada,30267.0
-2019,Jawaiian,New Zealand,6466513.0
 2019,Jazz,Netherlands,93342.0
 2019,Jazz,Norway,16030.0
 2019,K-pop,Argentina,1329931.0
@@ -3072,159 +1634,47 @@ chart_year,Genre,region,sum
 2019,K-pop,Taiwan,2785152.0
 2019,K-pop,Turkey,7411958.0
 2019,K-pop,United States of America,20604815.0
-2019,Latin,Argentina,8531770.0
-2019,Latin,Chile,11813661.0
-2019,Latin,Colombia,5821165.0
-2019,Latin,Costa Rica,1949486.0
-2019,Latin,Ecuador,4344935.0
-2019,Latin,Global,42927283.0
-2019,Latin,Mexico,76125452.0
-2019,Latin,Peru,14721860.0
-2019,Latin,Spain,90258233.0
-2019,Latin Alternative,Mexico,4838813.0
-2019,Lilith,Ireland,6810.0
 2019,Mandopop,Singapore,558279.0
 2019,Mandopop,Taiwan,27432800.0
+2019,Metal,Colombia,377106.0
+2019,Metal,Costa Rica,321798.0
 2019,Metal,Finland,40085.0
-2019,Metropopolis,Austria,9546.0
-2019,Metropopolis,Belgium,1696939.0
-2019,Metropopolis,Finland,36996.0
-2019,Metropopolis,Germany,61492.0
-2019,Metropopolis,Global,842922.0
-2019,Metropopolis,Ireland,678570.0
-2019,Metropopolis,Netherlands,4812570.0
-2019,Metropopolis,Norway,686534.0
-2019,Metropopolis,Poland,113114.0
-2019,Metropopolis,Portugal,7260.0
-2019,Metropopolis,Singapore,12320.0
-2019,Metropopolis,Sweden,53913.0
-2019,Metropopolis,Taiwan,161987.0
-2019,Metropopolis,United States of America,272384.0
-2019,Motown,Australia,1444754.0
-2019,Motown,Austria,26773.0
-2019,Motown,Belgium,267731.0
-2019,Motown,Canada,2388106.0
-2019,Motown,Denmark,395209.0
-2019,Motown,Finland,27523.0
-2019,Motown,Germany,309078.0
-2019,Motown,Global,29560467.0
-2019,Motown,Ireland,640071.0
-2019,Motown,Malaysia,13213.0
-2019,Motown,Netherlands,884439.0
-2019,Motown,New Zealand,347815.0
-2019,Motown,Norway,495399.0
-2019,Motown,Philippines,82800.0
-2019,Motown,Poland,131870.0
-2019,Motown,Portugal,88350.0
-2019,Motown,Singapore,37112.0
-2019,Motown,Spain,46169.0
-2019,Motown,Sweden,391830.0
-2019,Motown,Switzerland,250450.0
-2019,Motown,United States of America,14934745.0
-2019,Neo Mellow,Australia,15449802.0
-2019,Neo Mellow,Austria,4017.0
-2019,Neo Mellow,Belgium,178098.0
-2019,Neo Mellow,Brazil,89691.0
-2019,Neo Mellow,Canada,362883.0
-2019,Neo Mellow,Costa Rica,6128.0
-2019,Neo Mellow,Denmark,6978073.0
-2019,Neo Mellow,Global,4571513.0
-2019,Neo Mellow,Indonesia,18441368.0
-2019,Neo Mellow,Ireland,4185429.0
-2019,Neo Mellow,Italy,126652.0
-2019,Neo Mellow,Malaysia,8638846.0
-2019,Neo Mellow,Netherlands,2101379.0
-2019,Neo Mellow,New Zealand,2474828.0
-2019,Neo Mellow,Norway,9867356.0
-2019,Neo Mellow,Philippines,18184416.0
-2019,Neo Mellow,Portugal,19767.0
-2019,Neo Mellow,Singapore,7266925.0
-2019,Neo Mellow,Sweden,1764392.0
-2019,Neo Mellow,Switzerland,80937.0
-2019,Neo Mellow,Taiwan,231589.0
-2019,Neo Mellow,United States of America,3510828.0
-2019,Neo-psychedelic,Sweden,56261.0
-2019,New Wave Pop,Ireland,10027.0
-2019,Norges Stemme,Norway,1978656.0
-2019,Opm,Philippines,47047150.0
-2019,Permanent Wave,Argentina,4723464.0
-2019,Permanent Wave,Australia,4311022.0
-2019,Permanent Wave,Austria,376048.0
-2019,Permanent Wave,Belgium,1935617.0
-2019,Permanent Wave,Brazil,103416.0
-2019,Permanent Wave,Canada,3733473.0
-2019,Permanent Wave,Colombia,1465763.0
-2019,Permanent Wave,Costa Rica,1177055.0
-2019,Permanent Wave,Denmark,591826.0
-2019,Permanent Wave,Ecuador,535612.0
-2019,Permanent Wave,Finland,233501.0
-2019,Permanent Wave,France,220920.0
-2019,Permanent Wave,Germany,2431863.0
-2019,Permanent Wave,Global,97422572.0
-2019,Permanent Wave,Indonesia,167890.0
-2019,Permanent Wave,Ireland,1311805.0
-2019,Permanent Wave,Italy,2563529.0
-2019,Permanent Wave,Malaysia,1651452.0
-2019,Permanent Wave,Mexico,15796098.0
-2019,Permanent Wave,Netherlands,8391272.0
-2019,Permanent Wave,New Zealand,648526.0
-2019,Permanent Wave,Norway,3836746.0
-2019,Permanent Wave,Peru,480840.0
-2019,Permanent Wave,Philippines,2226422.0
-2019,Permanent Wave,Poland,1362951.0
-2019,Permanent Wave,Portugal,441862.0
-2019,Permanent Wave,Singapore,684866.0
-2019,Permanent Wave,Spain,1487546.0
-2019,Permanent Wave,Sweden,2418992.0
-2019,Permanent Wave,Switzerland,877560.0
-2019,Permanent Wave,Taiwan,779626.0
-2019,Permanent Wave,United States of America,4036842.0
+2019,Metal,Ireland,13713.0
+2019,Metal,Norway,12488.0
 2019,Pop,Argentina,43963409.0
-2019,Pop,Australia,900648689.0
-2019,Pop,Austria,61977913.0
-2019,Pop,Belgium,125004296.0
+2019,Pop,Australia,939963005.0
+2019,Pop,Austria,65680720.0
+2019,Pop,Belgium,141361211.0
 2019,Pop,Brazil,171573693.0
-2019,Pop,Canada,587412036.0
+2019,Pop,Canada,593518692.0
 2019,Pop,Chile,26178739.0
 2019,Pop,Colombia,14381027.0
 2019,Pop,Costa Rica,10456845.0
-2019,Pop,Denmark,163846280.0
+2019,Pop,Denmark,168453369.0
 2019,Pop,Ecuador,6132461.0
-2019,Pop,Finland,85051249.0
-2019,Pop,France,181926635.0
-2019,Pop,Germany,612155287.0
-2019,Pop,Global,13885711831.0
+2019,Pop,Finland,89043087.0
+2019,Pop,France,194454918.0
+2019,Pop,Germany,645692662.0
+2019,Pop,Global,14069745227.0
 2019,Pop,Indonesia,431189201.0
-2019,Pop,Ireland,205471119.0
-2019,Pop,Italy,138275910.0
-2019,Pop,Malaysia,205180687.0
+2019,Pop,Ireland,268927162.0
+2019,Pop,Italy,138526441.0
+2019,Pop,Malaysia,205230571.0
 2019,Pop,Mexico,201769683.0
-2019,Pop,Netherlands,491439980.0
-2019,Pop,New Zealand,180216077.0
-2019,Pop,Norway,312826439.0
+2019,Pop,Netherlands,529162668.0
+2019,Pop,New Zealand,187210300.0
+2019,Pop,Norway,316653205.0
 2019,Pop,Peru,12698106.0
-2019,Pop,Philippines,792858110.0
-2019,Pop,Poland,142041480.0
-2019,Pop,Portugal,54713874.0
-2019,Pop,Singapore,205557213.0
-2019,Pop,Spain,110370073.0
-2019,Pop,Sweden,334517274.0
-2019,Pop,Switzerland,95530225.0
-2019,Pop,Taiwan,85110859.0
+2019,Pop,Philippines,841210707.0
+2019,Pop,Poland,152808545.0
+2019,Pop,Portugal,54825937.0
+2019,Pop,Singapore,205602334.0
+2019,Pop,Spain,112824369.0
+2019,Pop,Sweden,359124215.0
+2019,Pop,Switzerland,102246636.0
+2019,Pop,Taiwan,85898511.0
 2019,Pop,Turkey,45873153.0
-2019,Pop,United States of America,3448013346.0
-2019,Pop Dance,Finland,7539.0
-2019,Pop Dance,Norway,15460.0
-2019,Pop Dance,Sweden,28905.0
-2019,Pop Dance,Taiwan,4245.0
-2019,Pop Punk,Australia,61101.0
-2019,Pop Punk,Canada,30762.0
-2019,Pop Punk,United States of America,2084114.0
-2019,Pop R&b,Philippines,12580052.0
-2019,Pop Rap,Philippines,234435.0
-2019,Pop Rap,United States of America,266577.0
-2019,Pop Rock,Ireland,5850.0
-2019,Post-hardcore,Canada,40375.0
+2019,Pop,United States of America,3451351494.0
 2019,Psych,Australia,9145124.0
 2019,Psych,Belgium,9435.0
 2019,Psych,Canada,116186.0
@@ -3241,6 +1691,9 @@ chart_year,Genre,region,sum
 2019,Psych,Portugal,45974.0
 2019,Psych,Sweden,32247.0
 2019,Psych,United States of America,38631602.0
+2019,Punk,Australia,162531.0
+2019,Punk,Canada,30762.0
+2019,Punk,United States of America,2084114.0
 2019,R&b,Australia,9431374.0
 2019,R&b,Austria,806655.0
 2019,R&b,Belgium,2122807.0
@@ -3264,7 +1717,7 @@ chart_year,Genre,region,sum
 2019,R&b,New Zealand,1300719.0
 2019,R&b,Norway,5729349.0
 2019,R&b,Peru,87304.0
-2019,R&b,Philippines,3188937.0
+2019,R&b,Philippines,15768989.0
 2019,R&b,Poland,2647893.0
 2019,R&b,Portugal,812312.0
 2019,R&b,Singapore,2496751.0
@@ -3274,101 +1727,78 @@ chart_year,Genre,region,sum
 2019,R&b,Taiwan,1145167.0
 2019,R&b,Turkey,2454864.0
 2019,R&b,United States of America,98120779.0
-2019,Rap,Argentina,2533782.0
-2019,Rap,Australia,335464540.0
-2019,Rap,Austria,14450718.0
-2019,Rap,Belgium,38449968.0
-2019,Rap,Brazil,81226899.0
-2019,Rap,Canada,497668467.0
+2019,Rap,Argentina,3241978.0
+2019,Rap,Australia,414139785.0
+2019,Rap,Austria,18589469.0
+2019,Rap,Belgium,46739631.0
+2019,Rap,Brazil,114052218.0
+2019,Rap,Canada,568079937.0
 2019,Rap,Chile,3736847.0
-2019,Rap,Colombia,3137971.0
-2019,Rap,Costa Rica,3804782.0
-2019,Rap,Denmark,66084977.0
-2019,Rap,Ecuador,1244611.0
-2019,Rap,Finland,38165996.0
-2019,Rap,France,48170935.0
-2019,Rap,Germany,179872900.0
-2019,Rap,Global,7171917629.0
-2019,Rap,Indonesia,45258095.0
-2019,Rap,Ireland,55392145.0
-2019,Rap,Italy,70268198.0
-2019,Rap,Malaysia,27668131.0
-2019,Rap,Mexico,56690020.0
-2019,Rap,Netherlands,107100306.0
-2019,Rap,New Zealand,65871053.0
-2019,Rap,Norway,92493963.0
+2019,Rap,Colombia,3164169.0
+2019,Rap,Costa Rica,4829801.0
+2019,Rap,Denmark,73156055.0
+2019,Rap,Ecuador,1308888.0
+2019,Rap,Finland,43485341.0
+2019,Rap,France,68163571.0
+2019,Rap,Germany,246018862.0
+2019,Rap,Global,8191789559.0
+2019,Rap,Indonesia,48911367.0
+2019,Rap,Ireland,61614379.0
+2019,Rap,Italy,91619030.0
+2019,Rap,Malaysia,30512908.0
+2019,Rap,Mexico,61689045.0
+2019,Rap,Netherlands,129867617.0
+2019,Rap,New Zealand,81025151.0
+2019,Rap,Norway,108495851.0
 2019,Rap,Peru,73803.0
-2019,Rap,Philippines,56363112.0
-2019,Rap,Poland,26223576.0
-2019,Rap,Portugal,27481966.0
-2019,Rap,Singapore,21471615.0
-2019,Rap,Spain,21911867.0
-2019,Rap,Sweden,119826650.0
-2019,Rap,Switzerland,23016464.0
-2019,Rap,Taiwan,11040342.0
-2019,Rap,Turkey,9411731.0
-2019,Rap,United States of America,5320580153.0
+2019,Rap,Philippines,63008608.0
+2019,Rap,Poland,33894163.0
+2019,Rap,Portugal,31196777.0
+2019,Rap,Singapore,24383713.0
+2019,Rap,Spain,26436218.0
+2019,Rap,Sweden,136108081.0
+2019,Rap,Switzerland,28966317.0
+2019,Rap,Taiwan,12665339.0
+2019,Rap,Turkey,15640447.0
+2019,Rap,United States of America,5694256842.0
+2019,Reggae,Australia,41554068.0
 2019,Reggae,Costa Rica,4800.0
 2019,Reggae,Netherlands,122339.0
-2019,Reggae,New Zealand,82162.0
-2019,Reggae Fusion,Australia,41554068.0
-2019,Reggae Fusion,New Zealand,6851941.0
+2019,Reggae,New Zealand,6934103.0
 2019,Rock,Argentina,15514432.0
-2019,Rock,Australia,55616935.0
-2019,Rock,Austria,4627308.0
-2019,Rock,Belgium,13527734.0
+2019,Rock,Australia,65967659.0
+2019,Rock,Austria,4943174.0
+2019,Rock,Belgium,14487583.0
 2019,Rock,Brazil,107603647.0
-2019,Rock,Canada,54510032.0
+2019,Rock,Canada,59396589.0
 2019,Rock,Chile,5672202.0
 2019,Rock,Colombia,7690031.0
 2019,Rock,Costa Rica,6251868.0
-2019,Rock,Denmark,794936.0
+2019,Rock,Denmark,1481849.0
 2019,Rock,Ecuador,3839540.0
-2019,Rock,Finland,5903172.0
-2019,Rock,France,31241237.0
-2019,Rock,Germany,45519588.0
-2019,Rock,Global,1675872283.0
+2019,Rock,Finland,5980855.0
+2019,Rock,France,33874778.0
+2019,Rock,Germany,47851945.0
+2019,Rock,Global,1723557254.0
 2019,Rock,Indonesia,3293918.0
-2019,Rock,Ireland,2756726.0
-2019,Rock,Italy,28413223.0
-2019,Rock,Malaysia,3037777.0
+2019,Rock,Ireland,4639131.0
+2019,Rock,Italy,28561766.0
+2019,Rock,Malaysia,3051170.0
 2019,Rock,Mexico,127631010.0
-2019,Rock,Netherlands,26566768.0
-2019,Rock,New Zealand,17983231.0
-2019,Rock,Norway,14079869.0
+2019,Rock,Netherlands,27719930.0
+2019,Rock,New Zealand,21496420.0
+2019,Rock,Norway,14731821.0
 2019,Rock,Peru,6029965.0
 2019,Rock,Philippines,9393371.0
-2019,Rock,Poland,20642831.0
-2019,Rock,Portugal,9293478.0
-2019,Rock,Singapore,2575117.0
+2019,Rock,Poland,23478300.0
+2019,Rock,Portugal,9376987.0
+2019,Rock,Singapore,2610501.0
 2019,Rock,Spain,6502586.0
-2019,Rock,Sweden,12646333.0
-2019,Rock,Switzerland,14152890.0
+2019,Rock,Sweden,14450012.0
+2019,Rock,Switzerland,14559794.0
 2019,Rock,Taiwan,562197.0
 2019,Rock,Turkey,14952540.0
-2019,Rock,United States of America,132835819.0
-2019,Rock-and-roll,Australia,619880.0
-2019,Rock-and-roll,Austria,30903.0
-2019,Rock-and-roll,Belgium,176083.0
-2019,Rock-and-roll,Canada,2543273.0
-2019,Rock-and-roll,Denmark,190533.0
-2019,Rock-and-roll,Finland,16680.0
-2019,Rock-and-roll,France,179121.0
-2019,Rock-and-roll,Germany,406894.0
-2019,Rock-and-roll,Global,25661359.0
-2019,Rock-and-roll,Ireland,289330.0
-2019,Rock-and-roll,Malaysia,13393.0
-2019,Rock-and-roll,Netherlands,937128.0
-2019,Rock-and-roll,New Zealand,182363.0
-2019,Rock-and-roll,Norway,518624.0
-2019,Rock-and-roll,Portugal,40780.0
-2019,Rock-and-roll,Singapore,19151.0
-2019,Rock-and-roll,Sweden,1099351.0
-2019,Rock-and-roll,Switzerland,123753.0
-2019,Rock-and-roll,United States of America,13499542.0
-2019,Room,Norway,11776.0
-2019,Room,Taiwan,5042.0
-2019,Room,United States of America,225366.0
+2019,Rock,United States of America,149100983.0
 2019,Soul,Australia,485616.0
 2019,Soul,Austria,172368.0
 2019,Soul,Belgium,166735.0
@@ -3402,9 +1832,6 @@ chart_year,Genre,region,sum
 2019,Swing,Italy,11441744.0
 2019,Swing,Norway,58579.0
 2019,Swing,Switzerland,20282.0
-2019,Synth,Canada,31402.0
-2019,Synth,United States of America,269987.0
-2019,Trap,Argentina,423966.0
 2020,A Cappella,Australia,125302.0
 2020,A Cappella,Austria,707719.0
 2020,A Cappella,Belgium,28812.0
@@ -3418,39 +1845,6 @@ chart_year,Genre,region,sum
 2020,A Cappella,Sweden,1130960.0
 2020,A Cappella,Switzerland,295860.0
 2020,A Cappella,United States of America,719092.0
-2020,Acoustic Chill,Denmark,26004.0
-2020,Acoustic Chill,Indonesia,17561015.0
-2020,Acoustic Chill,Sweden,29214.0
-2020,Adult Standards,Australia,7391713.0
-2020,Adult Standards,Austria,1531216.0
-2020,Adult Standards,Belgium,2028571.0
-2020,Adult Standards,Canada,19645477.0
-2020,Adult Standards,Chile,220015.0
-2020,Adult Standards,Costa Rica,26883.0
-2020,Adult Standards,Denmark,3585470.0
-2020,Adult Standards,Ecuador,36077.0
-2020,Adult Standards,Finland,982189.0
-2020,Adult Standards,France,3257333.0
-2020,Adult Standards,Germany,15878560.0
-2020,Adult Standards,Global,181491550.0
-2020,Adult Standards,Indonesia,61320.0
-2020,Adult Standards,Ireland,3156148.0
-2020,Adult Standards,Italy,2655518.0
-2020,Adult Standards,Malaysia,482251.0
-2020,Adult Standards,Mexico,329525.0
-2020,Adult Standards,Netherlands,8142883.0
-2020,Adult Standards,New Zealand,1724698.0
-2020,Adult Standards,Norway,3823931.0
-2020,Adult Standards,Peru,64339.0
-2020,Adult Standards,Philippines,4971517.0
-2020,Adult Standards,Poland,5461033.0
-2020,Adult Standards,Portugal,781906.0
-2020,Adult Standards,Singapore,1030423.0
-2020,Adult Standards,Spain,1690558.0
-2020,Adult Standards,Sweden,5633510.0
-2020,Adult Standards,Switzerland,2276841.0
-2020,Adult Standards,Taiwan,126913.0
-2020,Adult Standards,United States of America,88004940.0
 2020,Alternative Country,United States of America,241247.0
 2020,Alternative Dance,Australia,156086.0
 2020,Alternative Dance,Ireland,6051.0
@@ -3494,19 +1888,6 @@ chart_year,Genre,region,sum
 2020,Alternative Metal,United States of America,259842.0
 2020,Alternative Pop,Australia,12714116.0
 2020,Alternative Pop,New Zealand,116116.0
-2020,Alternative Pop Rock,Australia,28171230.0
-2020,Alternative Pop Rock,Austria,1063758.0
-2020,Alternative Pop Rock,Belgium,2867816.0
-2020,Alternative Pop Rock,Canada,6292396.0
-2020,Alternative Pop Rock,Denmark,1594138.0
-2020,Alternative Pop Rock,Germany,1067530.0
-2020,Alternative Pop Rock,Global,123310594.0
-2020,Alternative Pop Rock,Ireland,6244958.0
-2020,Alternative Pop Rock,Netherlands,35092884.0
-2020,Alternative Pop Rock,New Zealand,5506422.0
-2020,Alternative Pop Rock,Norway,267344.0
-2020,Alternative Pop Rock,Switzerland,1659200.0
-2020,Alternative Pop Rock,United States of America,273134.0
 2020,Alternative R&b,Argentina,14917050.0
 2020,Alternative R&b,Australia,77782556.0
 2020,Alternative R&b,Austria,7868769.0
@@ -3541,140 +1922,94 @@ chart_year,Genre,region,sum
 2020,Alternative R&b,Taiwan,5205117.0
 2020,Alternative R&b,Turkey,30788136.0
 2020,Alternative R&b,United States of America,490111778.0
-2020,Alternative Rock,Argentina,53242.0
-2020,Alternative Rock,Australia,14478822.0
-2020,Alternative Rock,Austria,376236.0
-2020,Alternative Rock,Belgium,824190.0
+2020,Alternative Rock,Argentina,530205.0
+2020,Alternative Rock,Australia,44526567.0
+2020,Alternative Rock,Austria,1918624.0
+2020,Alternative Rock,Belgium,5969341.0
 2020,Alternative Rock,Brazil,526688.0
-2020,Alternative Rock,Canada,4845509.0
-2020,Alternative Rock,Colombia,6849.0
-2020,Alternative Rock,Finland,821966.0
-2020,Alternative Rock,Global,200052375.0
+2020,Alternative Rock,Canada,12373292.0
+2020,Alternative Rock,Colombia,155770.0
+2020,Alternative Rock,Costa Rica,368146.0
+2020,Alternative Rock,Denmark,2233269.0
+2020,Alternative Rock,Finland,886516.0
+2020,Alternative Rock,France,1861224.0
+2020,Alternative Rock,Germany,5417440.0
+2020,Alternative Rock,Global,344054038.0
 2020,Alternative Rock,Indonesia,29063.0
-2020,Alternative Rock,Ireland,1176982.0
-2020,Alternative Rock,Malaysia,222246.0
-2020,Alternative Rock,Mexico,86599.0
-2020,Alternative Rock,Netherlands,48006.0
-2020,Alternative Rock,New Zealand,353729.0
-2020,Alternative Rock,Norway,215012.0
+2020,Alternative Rock,Ireland,8465870.0
+2020,Alternative Rock,Italy,625926.0
+2020,Alternative Rock,Malaysia,251076.0
+2020,Alternative Rock,Mexico,328598.0
+2020,Alternative Rock,Netherlands,38833373.0
+2020,Alternative Rock,New Zealand,6278026.0
+2020,Alternative Rock,Norway,3212554.0
 2020,Alternative Rock,Peru,29079.0
-2020,Alternative Rock,Philippines,1896739.0
-2020,Alternative Rock,Poland,4474117.0
-2020,Alternative Rock,Portugal,763581.0
-2020,Alternative Rock,Switzerland,272326.0
+2020,Alternative Rock,Philippines,2321662.0
+2020,Alternative Rock,Poland,5406983.0
+2020,Alternative Rock,Portugal,836546.0
+2020,Alternative Rock,Singapore,248379.0
+2020,Alternative Rock,Spain,171925.0
+2020,Alternative Rock,Sweden,1076109.0
+2020,Alternative Rock,Switzerland,2291969.0
+2020,Alternative Rock,Taiwan,8435.0
 2020,Alternative Rock,Turkey,3843594.0
-2020,Alternative Rock,United States of America,75032576.0
-2020,Ambigious / Unknown,Argentina,241826.0
-2020,Ambigious / Unknown,Australia,19598637.0
-2020,Ambigious / Unknown,Austria,5423807.0
-2020,Ambigious / Unknown,Belgium,7260963.0
-2020,Ambigious / Unknown,Brazil,1022605.0
-2020,Ambigious / Unknown,Canada,34827740.0
-2020,Ambigious / Unknown,Chile,691488.0
-2020,Ambigious / Unknown,Colombia,95378.0
-2020,Ambigious / Unknown,Costa Rica,518834.0
-2020,Ambigious / Unknown,Denmark,12592304.0
-2020,Ambigious / Unknown,Ecuador,229629.0
-2020,Ambigious / Unknown,Finland,2539955.0
-2020,Ambigious / Unknown,France,15404660.0
-2020,Ambigious / Unknown,Germany,69106861.0
-2020,Ambigious / Unknown,Global,675559796.0
-2020,Ambigious / Unknown,Indonesia,25980288.0
-2020,Ambigious / Unknown,Ireland,8184047.0
-2020,Ambigious / Unknown,Italy,18309702.0
-2020,Ambigious / Unknown,Malaysia,5798644.0
-2020,Ambigious / Unknown,Mexico,2207619.0
-2020,Ambigious / Unknown,Netherlands,19016941.0
-2020,Ambigious / Unknown,New Zealand,5641610.0
-2020,Ambigious / Unknown,Norway,16035112.0
-2020,Ambigious / Unknown,Peru,281895.0
-2020,Ambigious / Unknown,Philippines,7389818.0
-2020,Ambigious / Unknown,Poland,12161050.0
-2020,Ambigious / Unknown,Portugal,2676565.0
-2020,Ambigious / Unknown,Singapore,2762624.0
-2020,Ambigious / Unknown,Spain,5958910.0
-2020,Ambigious / Unknown,Sweden,28043875.0
-2020,Ambigious / Unknown,Switzerland,8083301.0
-2020,Ambigious / Unknown,Taiwan,368937.0
-2020,Ambigious / Unknown,Turkey,5355643.0
-2020,Ambigious / Unknown,United States of America,194073007.0
-2020,Anthem Worship,Belgium,44925.0
-2020,Anthem Worship,Canada,146822.0
-2020,Anthem Worship,Denmark,193402.0
-2020,Anthem Worship,Ireland,12290.0
-2020,Anthem Worship,Portugal,19010.0
-2020,Anthem Worship,Switzerland,38691.0
-2020,Anthem Worship,United States of America,335599.0
-2020,Bass,Norway,17888.0
-2020,Big Room,Australia,3882433.0
-2020,Big Room,Austria,54386.0
-2020,Big Room,Belgium,1059811.0
-2020,Big Room,Canada,44651.0
-2020,Big Room,Denmark,90052.0
-2020,Big Room,Finland,116513.0
-2020,Big Room,Global,27743920.0
-2020,Big Room,Ireland,1354901.0
-2020,Big Room,Netherlands,645958.0
-2020,Big Room,New Zealand,23607.0
-2020,Big Room,Norway,82033.0
-2020,Big Room,Poland,53286.0
-2020,Big Room,Portugal,5753.0
-2020,Big Room,Singapore,6623.0
-2020,Big Room,Sweden,7814077.0
-2020,Big Room,Switzerland,273696.0
-2020,Big Room,United States of America,264771.0
-2020,Blues Rock,Austria,90401.0
-2020,Blues Rock,Finland,39185.0
-2020,Blues Rock,Germany,1350615.0
-2020,Blues Rock,Norway,411632.0
-2020,Blues Rock,Switzerland,125122.0
-2020,Boy Band,Argentina,987981.0
-2020,Boy Band,Australia,98308445.0
-2020,Boy Band,Austria,2089488.0
-2020,Boy Band,Belgium,8288642.0
-2020,Boy Band,Brazil,816560.0
-2020,Boy Band,Canada,53729671.0
-2020,Boy Band,Chile,253836.0
-2020,Boy Band,Colombia,155102.0
-2020,Boy Band,Costa Rica,113076.0
-2020,Boy Band,Denmark,2756368.0
-2020,Boy Band,Ecuador,23634.0
-2020,Boy Band,Finland,848647.0
-2020,Boy Band,France,8668310.0
-2020,Boy Band,Germany,9636930.0
-2020,Boy Band,Global,879365841.0
-2020,Boy Band,Indonesia,2934299.0
-2020,Boy Band,Ireland,9582754.0
-2020,Boy Band,Italy,674238.0
-2020,Boy Band,Malaysia,12496614.0
-2020,Boy Band,Mexico,1251286.0
-2020,Boy Band,Netherlands,25114431.0
-2020,Boy Band,New Zealand,11711585.0
-2020,Boy Band,Norway,2383897.0
-2020,Boy Band,Peru,110291.0
-2020,Boy Band,Philippines,16591661.0
-2020,Boy Band,Poland,14194607.0
-2020,Boy Band,Portugal,2048586.0
-2020,Boy Band,Singapore,15755687.0
-2020,Boy Band,Spain,2173670.0
-2020,Boy Band,Sweden,1329098.0
-2020,Boy Band,Switzerland,2906390.0
-2020,Boy Band,Taiwan,3441147.0
-2020,Boy Band,United States of America,126689467.0
+2020,Alternative Rock,United States of America,76101821.0
+2020,Ambigious / Others,Argentina,1229807.0
+2020,Ambigious / Others,Australia,152558409.0
+2020,Ambigious / Others,Austria,9044511.0
+2020,Ambigious / Others,Belgium,18182943.0
+2020,Ambigious / Others,Brazil,1839165.0
+2020,Ambigious / Others,Canada,109300789.0
+2020,Ambigious / Others,Chile,1191970.0
+2020,Ambigious / Others,Colombia,250480.0
+2020,Ambigious / Others,Costa Rica,2350493.0
+2020,Ambigious / Others,Denmark,26461664.0
+2020,Ambigious / Others,Ecuador,905078.0
+2020,Ambigious / Others,Finland,4423599.0
+2020,Ambigious / Others,France,50897064.0
+2020,Ambigious / Others,Germany,94622351.0
+2020,Ambigious / Others,Global,1739301627.0
+2020,Ambigious / Others,Indonesia,60405397.0
+2020,Ambigious / Others,Ireland,25612886.0
+2020,Ambigious / Others,Italy,21845270.0
+2020,Ambigious / Others,Malaysia,25674697.0
+2020,Ambigious / Others,Mexico,9942233.0
+2020,Ambigious / Others,Netherlands,64574237.0
+2020,Ambigious / Others,New Zealand,29191388.0
+2020,Ambigious / Others,Norway,30973755.0
+2020,Ambigious / Others,Peru,2376497.0
+2020,Ambigious / Others,Philippines,40164849.0
+2020,Ambigious / Others,Poland,31816690.0
+2020,Ambigious / Others,Portugal,5563468.0
+2020,Ambigious / Others,Singapore,25653472.0
+2020,Ambigious / Others,Spain,18224505.0
+2020,Ambigious / Others,Sweden,46650429.0
+2020,Ambigious / Others,Switzerland,13578218.0
+2020,Ambigious / Others,Taiwan,3936997.0
+2020,Ambigious / Others,Turkey,5355643.0
+2020,Ambigious / Others,United States of America,412703912.0
+2020,Blues,Australia,1857753.0
+2020,Blues,Austria,97825.0
+2020,Blues,Belgium,277682.0
+2020,Blues,Canada,4331299.0
+2020,Blues,Denmark,674677.0
+2020,Blues,Finland,16015.0
+2020,Blues,Germany,716273.0
+2020,Blues,Global,44053864.0
+2020,Blues,Ireland,820971.0
+2020,Blues,Italy,37679.0
+2020,Blues,Malaysia,19567.0
+2020,Blues,Netherlands,894111.0
+2020,Blues,New Zealand,488531.0
+2020,Blues,Norway,495960.0
+2020,Blues,Philippines,199076.0
+2020,Blues,Poland,33510.0
+2020,Blues,Portugal,80017.0
+2020,Blues,Singapore,58125.0
+2020,Blues,Sweden,481192.0
+2020,Blues,Switzerland,244591.0
+2020,Blues,United States of America,28265156.0
 2020,C-pop,Singapore,49492.0
-2020,Ccm,Belgium,461623.0
-2020,Ccm,Netherlands,3089622.0
-2020,Ccm,Switzerland,87665.0
-2020,Celtic,Ireland,35724.0
-2020,Chanson,France,78610.0
-2020,Christmas Instrumental,Finland,45444.0
-2020,Classic Rock,Australia,259261.0
-2020,Classic Rock,Finland,7093.0
-2020,Classic Rock,Ireland,417597.0
-2020,Classic Rock,Netherlands,27285.0
-2020,Classic Rock,New Zealand,63932.0
-2020,Classic Rock,Norway,38699.0
-2020,Classic Rock,Sweden,840161.0
 2020,Country,Australia,4370332.0
 2020,Country,Belgium,16647.0
 2020,Country,Canada,89117809.0
@@ -3686,16 +2021,6 @@ chart_year,Genre,region,sum
 2020,Country,Portugal,8924.0
 2020,Country,Switzerland,13791.0
 2020,Country,United States of America,883272454.0
-2020,Country Rap,Australia,6330870.0
-2020,Country Rap,Belgium,341814.0
-2020,Country Rap,Canada,5569764.0
-2020,Country Rap,Global,23973197.0
-2020,Country Rap,Ireland,39702.0
-2020,Country Rap,New Zealand,1065471.0
-2020,Country Rap,Portugal,273066.0
-2020,Country Rap,Switzerland,138189.0
-2020,Country Rap,United States of America,15361605.0
-2020,Dakke Dak,Denmark,1090163.0
 2020,Dance,Australia,11500430.0
 2020,Dance,Austria,1146615.0
 2020,Dance,Belgium,1804605.0
@@ -3716,8 +2041,6 @@ chart_year,Genre,region,sum
 2020,Dance,Switzerland,1579858.0
 2020,Dance,Taiwan,284408.0
 2020,Dance,United States of America,549543.0
-2020,Dance Pop,Finland,11610809.0
-2020,Dancehall,Costa Rica,1691700.0
 2020,Disco,Australia,352732.0
 2020,Disco,Austria,9226.0
 2020,Disco,Belgium,25549.0
@@ -3735,91 +2058,54 @@ chart_year,Genre,region,sum
 2020,Disco,Sweden,116418.0
 2020,Disco,Switzerland,26966.0
 2020,Disco,United States of America,2820420.0
-2020,Double Drumming,Canada,29270.0
-2020,Double Drumming,Ireland,526078.0
-2020,Drill,Australia,33635306.0
-2020,Drill,Austria,2716735.0
-2020,Drill,Belgium,5131390.0
-2020,Drill,Canada,38731544.0
-2020,Drill,Denmark,10267566.0
-2020,Drill,Finland,2898277.0
-2020,Drill,France,15965521.0
-2020,Drill,Germany,31248083.0
-2020,Drill,Global,423762498.0
-2020,Drill,Ireland,3729650.0
-2020,Drill,Italy,4334342.0
-2020,Drill,Netherlands,16408283.0
-2020,Drill,New Zealand,8413266.0
-2020,Drill,Norway,9886890.0
-2020,Drill,Portugal,2249521.0
-2020,Drill,Spain,11644938.0
-2020,Drill,Sweden,12217400.0
-2020,Drill,Switzerland,5966695.0
-2020,Drill,United States of America,180150922.0
-2020,Dutch Americana,Netherlands,8913904.0
-2020,Edm,Argentina,934461.0
-2020,Edm,Australia,27758768.0
-2020,Edm,Austria,3080177.0
-2020,Edm,Belgium,7983868.0
-2020,Edm,Brazil,11001837.0
-2020,Edm,Canada,15458936.0
-2020,Edm,Chile,428088.0
-2020,Edm,Colombia,1436986.0
-2020,Edm,Costa Rica,129742.0
-2020,Edm,Denmark,5255836.0
-2020,Edm,Ecuador,1779764.0
-2020,Edm,Finland,2624230.0
-2020,Edm,France,25096576.0
-2020,Edm,Germany,41980873.0
-2020,Edm,Global,449226281.0
-2020,Edm,Ireland,3822700.0
-2020,Edm,Italy,20149857.0
-2020,Edm,Malaysia,78787.0
-2020,Edm,Mexico,53324462.0
-2020,Edm,Netherlands,21866841.0
-2020,Edm,New Zealand,4644896.0
-2020,Edm,Norway,3824276.0
-2020,Edm,Peru,867912.0
-2020,Edm,Poland,8712604.0
-2020,Edm,Portugal,2112892.0
-2020,Edm,Singapore,96559.0
-2020,Edm,Spain,2302692.0
-2020,Edm,Sweden,3263759.0
-2020,Edm,Switzerland,5043521.0
-2020,Edm,Taiwan,48376.0
-2020,Edm,Turkey,7660147.0
-2020,Electro House,Finland,88690.0
-2020,Electro House,Malaysia,511742.0
-2020,Electro House,Norway,1252786.0
-2020,Electro House,Singapore,978826.0
-2020,Electro House,Taiwan,106456.0
-2020,Electronic,Australia,54688.0
-2020,Electronic,Germany,769330.0
-2020,Europop,Denmark,20084.0
-2020,Europop,Finland,31202.0
-2020,Europop,Sweden,34268.0
-2020,Eurovision,Sweden,10424925.0
-2020,Finnish Trap,Finland,8157.0
+2020,EDM,Argentina,934461.0
+2020,EDM,Australia,57066892.0
+2020,EDM,Austria,7171147.0
+2020,EDM,Belgium,9388505.0
+2020,EDM,Brazil,11001837.0
+2020,EDM,Canada,15503587.0
+2020,EDM,Chile,428088.0
+2020,EDM,Colombia,1436986.0
+2020,EDM,Costa Rica,129742.0
+2020,EDM,Denmark,5345888.0
+2020,EDM,Ecuador,1779764.0
+2020,EDM,Finland,6386755.0
+2020,EDM,France,35788198.0
+2020,EDM,Germany,107090416.0
+2020,EDM,Global,485316102.0
+2020,EDM,Ireland,7682185.0
+2020,EDM,Italy,20149857.0
+2020,EDM,Malaysia,590529.0
+2020,EDM,Mexico,53324462.0
+2020,EDM,Netherlands,22803920.0
+2020,EDM,New Zealand,7860097.0
+2020,EDM,Norway,6123157.0
+2020,EDM,Peru,867912.0
+2020,EDM,Poland,14351639.0
+2020,EDM,Portugal,2118645.0
+2020,EDM,Singapore,1082008.0
+2020,EDM,Spain,2302692.0
+2020,EDM,Sweden,12294735.0
+2020,EDM,Switzerland,8371393.0
+2020,EDM,Taiwan,165694.0
+2020,EDM,Turkey,7660147.0
+2020,EDM,United States of America,1371471.0
+2020,Electronica,Australia,5177142.0
+2020,Electronica,Belgium,23454.0
+2020,Electronica,Canada,47078.0
+2020,Electronica,Denmark,1785258.0
+2020,Electronica,Germany,769330.0
+2020,Electronica,Ireland,11470271.0
+2020,Electronica,New Zealand,368730.0
+2020,Electronica,United States of America,317907.0
+2020,Folk,Australia,143130.0
 2020,Folk,Austria,87127.0
+2020,Folk,Finland,28498.0
 2020,Folk,Indonesia,2742372.0
+2020,Folk,Ireland,3223018.0
+2020,Folk,Norway,1249297.0
+2020,Folk,Sweden,105897.0
 2020,Folk,Turkey,9170924.0
-2020,Folk-pop,Australia,25862092.0
-2020,Folk-pop,Austria,1581777.0
-2020,Folk-pop,Belgium,4239941.0
-2020,Folk-pop,Canada,2503951.0
-2020,Folk-pop,Denmark,201512.0
-2020,Folk-pop,Finland,7839.0
-2020,Folk-pop,Germany,14879982.0
-2020,Folk-pop,Global,55859924.0
-2020,Folk-pop,Ireland,48216382.0
-2020,Folk-pop,Netherlands,356887.0
-2020,Folk-pop,New Zealand,4183816.0
-2020,Folk-pop,Norway,108626.0
-2020,Folk-pop,Portugal,19254.0
-2020,Folk-pop,Sweden,1858006.0
-2020,Folk-pop,Switzerland,2995424.0
-2020,Folk-pop,United States of America,271651.0
-2020,Francoton,France,23488151.0
 2020,Funk,Australia,87043.0
 2020,Funk,Austria,4035.0
 2020,Funk,Belgium,198975.0
@@ -3832,92 +2118,40 @@ chart_year,Genre,region,sum
 2020,Funk,Portugal,4884.0
 2020,Funk,Switzerland,12772.0
 2020,Funk,United States of America,1329818.0
-2020,Garage Punk,Australia,76331.0
-2020,Glam Metal,Costa Rica,9385.0
-2020,Glam Rock,Australia,4957066.0
-2020,Glam Rock,Austria,345307.0
-2020,Glam Rock,Belgium,87315.0
-2020,Glam Rock,Canada,1821628.0
-2020,Glam Rock,Denmark,617588.0
-2020,Glam Rock,Finland,15509.0
-2020,Glam Rock,Germany,2901038.0
-2020,Glam Rock,Global,22700025.0
-2020,Glam Rock,Ireland,929324.0
-2020,Glam Rock,Italy,142179.0
-2020,Glam Rock,Netherlands,573452.0
-2020,Glam Rock,New Zealand,2653143.0
-2020,Glam Rock,Norway,20722.0
-2020,Glam Rock,Poland,57849.0
-2020,Glam Rock,Portugal,30914.0
-2020,Glam Rock,Singapore,24232.0
-2020,Glam Rock,Sweden,162275.0
-2020,Glam Rock,Switzerland,249107.0
-2020,Glam Rock,United States of America,2693769.0
-2020,Grime,Australia,5122454.0
-2020,Grime,Belgium,23454.0
-2020,Grime,Denmark,1785258.0
-2020,Grime,Ireland,11470271.0
-2020,Grime,New Zealand,368730.0
-2020,Halloween,Canada,503142.0
-2020,Halloween,Finland,7364.0
-2020,Halloween,Global,2884440.0
-2020,Halloween,Ireland,32628.0
-2020,Halloween,Norway,37200.0
-2020,Halloween,Sweden,27220.0
-2020,Halloween,Switzerland,8531.0
-2020,Halloween,United States of America,2955840.0
-2020,Hip Hop,Argentina,14938499.0
-2020,Hip Hop,Australia,81375729.0
-2020,Hip Hop,Austria,11190287.0
-2020,Hip Hop,Belgium,19036897.0
+2020,Hip Hop,Argentina,18233987.0
+2020,Hip Hop,Australia,115011035.0
+2020,Hip Hop,Austria,13907022.0
+2020,Hip Hop,Belgium,24168287.0
 2020,Hip Hop,Brazil,60401566.0
-2020,Hip Hop,Canada,136831667.0
-2020,Hip Hop,Chile,9477395.0
-2020,Hip Hop,Colombia,4032946.0
-2020,Hip Hop,Costa Rica,4254320.0
-2020,Hip Hop,Denmark,21176303.0
-2020,Hip Hop,Ecuador,1650881.0
-2020,Hip Hop,Finland,8363362.0
-2020,Hip Hop,France,76568651.0
-2020,Hip Hop,Germany,211028422.0
-2020,Hip Hop,Global,1922970206.0
+2020,Hip Hop,Canada,175563211.0
+2020,Hip Hop,Chile,37505700.0
+2020,Hip Hop,Colombia,11108569.0
+2020,Hip Hop,Costa Rica,5889931.0
+2020,Hip Hop,Denmark,31443869.0
+2020,Hip Hop,Ecuador,4654284.0
+2020,Hip Hop,Finland,11269796.0
+2020,Hip Hop,France,92534172.0
+2020,Hip Hop,Germany,242276505.0
+2020,Hip Hop,Global,2388249210.0
 2020,Hip Hop,Indonesia,27650886.0
-2020,Hip Hop,Ireland,15595052.0
-2020,Hip Hop,Italy,37815390.0
+2020,Hip Hop,Ireland,19339986.0
+2020,Hip Hop,Italy,42149732.0
 2020,Hip Hop,Malaysia,14072244.0
-2020,Hip Hop,Mexico,35519021.0
-2020,Hip Hop,Netherlands,62644657.0
-2020,Hip Hop,New Zealand,14083525.0
-2020,Hip Hop,Norway,21632192.0
-2020,Hip Hop,Peru,2653875.0
+2020,Hip Hop,Mexico,41293957.0
+2020,Hip Hop,Netherlands,79052940.0
+2020,Hip Hop,New Zealand,22496791.0
+2020,Hip Hop,Norway,31519082.0
+2020,Hip Hop,Peru,12208683.0
 2020,Hip Hop,Philippines,29919979.0
 2020,Hip Hop,Poland,32519483.0
-2020,Hip Hop,Portugal,19104531.0
+2020,Hip Hop,Portugal,21789593.0
 2020,Hip Hop,Singapore,7191745.0
-2020,Hip Hop,Spain,14303266.0
-2020,Hip Hop,Sweden,28160851.0
-2020,Hip Hop,Switzerland,17243773.0
+2020,Hip Hop,Spain,35689753.0
+2020,Hip Hop,Sweden,40574679.0
+2020,Hip Hop,Switzerland,23210468.0
 2020,Hip Hop,Taiwan,4836091.0
 2020,Hip Hop,Turkey,10076451.0
-2020,Hip Hop,United States of America,957077175.0
-2020,Hip Pop,Austria,2304365.0
-2020,Hip Pop,Belgium,1871476.0
-2020,Hip Pop,Germany,14368730.0
-2020,Hip Pop,Netherlands,9941838.0
-2020,Hip Pop,Norway,11523.0
-2020,Hip Pop,Switzerland,2808360.0
-2020,Hip Pop,Taiwan,89156.0
-2020,Hollywood,Denmark,46684.0
-2020,Hollywood,Italy,39968.0
-2020,House,Australia,25425691.0
-2020,House,Austria,1284252.0
-2020,House,Belgium,83948.0
-2020,House,Germany,23857059.0
-2020,House,Ireland,2504584.0
-2020,House,Netherlands,291121.0
-2020,House,New Zealand,3191594.0
-2020,House,Norway,395676.0
-2020,House,Switzerland,295642.0
+2020,Hip Hop,United States of America,1141852503.0
 2020,Indie,Argentina,7643332.0
 2020,Indie,Australia,62505015.0
 2020,Indie,Austria,2727816.0
@@ -3952,47 +2186,7 @@ chart_year,Genre,region,sum
 2020,Indie,Taiwan,2813132.0
 2020,Indie,Turkey,12020589.0
 2020,Indie,United States of America,202283569.0
-2020,Indie Anthem-folk,Finland,28498.0
-2020,Indie Anthem-folk,Ireland,2897982.0
-2020,Indie Folk,Australia,143130.0
-2020,Indie Folk,Ireland,325036.0
-2020,Indie Folk,Norway,1249297.0
-2020,Indie Folk,Sweden,105897.0
-2020,Indie Pop,Australia,1897814.0
-2020,Indie Pop,Austria,603347.0
-2020,Indie Pop,Belgium,6680010.0
-2020,Indie Pop,Canada,29637.0
-2020,Indie Pop,Finland,82961.0
-2020,Indie Pop,Germany,2549204.0
-2020,Indie Pop,Global,81999276.0
-2020,Indie Pop,Indonesia,1607916.0
-2020,Indie Pop,Ireland,2842296.0
-2020,Indie Pop,Italy,1580672.0
-2020,Indie Pop,Malaysia,1461154.0
-2020,Indie Pop,Netherlands,26821668.0
-2020,Indie Pop,New Zealand,53415.0
-2020,Indie Pop,Norway,1047141.0
-2020,Indie Pop,Philippines,26872.0
-2020,Indie Pop,Portugal,70383.0
-2020,Indie Pop,Singapore,1416614.0
-2020,Indie Pop,Sweden,587068.0
-2020,Indie Pop,Switzerland,1041932.0
-2020,Indie Pop,United States of America,69092339.0
-2020,Indie Rock,Australia,201829.0
-2020,Indie Rock,Belgium,18715.0
-2020,Indie Rock,Canada,35147.0
-2020,Indie Rock,Denmark,22099.0
-2020,Indie Rock,France,192905.0
-2020,Indie Rock,Global,601606.0
-2020,Indie Rock,Norway,16846.0
-2020,Indie Rock,Philippines,33966.0
-2020,Indie Rock,Poland,26690.0
-2020,Indie Rock,Portugal,6316.0
-2020,Indie Rock,Sweden,39567.0
-2020,Indie Rock,Switzerland,11453.0
-2020,Indie Rock,United States of America,271775.0
 2020,J-pop,Taiwan,12230.0
-2020,Jawaiian,New Zealand,5959565.0
 2020,Jazz,Netherlands,244164.0
 2020,K-pop,Argentina,9090962.0
 2020,K-pop,Australia,15268533.0
@@ -4028,191 +2222,55 @@ chart_year,Genre,region,sum
 2020,K-pop,Taiwan,12826078.0
 2020,K-pop,Turkey,5553114.0
 2020,K-pop,United States of America,92475492.0
-2020,K-rap,Argentina,62119.0
-2020,K-rap,Brazil,176092.0
-2020,K-rap,Chile,50407.0
-2020,K-rap,Colombia,20503.0
-2020,K-rap,Ecuador,4528.0
-2020,K-rap,Finland,8353.0
-2020,K-rap,Global,3766534.0
-2020,K-rap,Indonesia,171018.0
-2020,K-rap,Malaysia,167264.0
-2020,K-rap,Peru,31054.0
-2020,K-rap,Philippines,202448.0
-2020,K-rap,Poland,70740.0
-2020,K-rap,Portugal,13319.0
-2020,K-rap,Singapore,93033.0
-2020,K-rap,Taiwan,98645.0
-2020,K-rap,Turkey,50579.0
-2020,K-rap,United States of America,597796.0
-2020,Latin,Chile,26631.0
-2020,Latin,Ecuador,615738.0
-2020,Latin,Mexico,5905554.0
-2020,Latin,Peru,1919972.0
-2020,Latin,Spain,8362484.0
-2020,Latin Alternative,Mexico,248249.0
 2020,Mandopop,Malaysia,19141.0
 2020,Mandopop,Singapore,2839564.0
 2020,Mandopop,Taiwan,35847647.0
-2020,Metal,Finland,20820.0
-2020,Metalcore,Australia,391633.0
-2020,Metalcore,Austria,56290.0
-2020,Metalcore,Belgium,13526.0
-2020,Metalcore,Finland,197767.0
-2020,Metalcore,Germany,1058943.0
-2020,Metalcore,Global,5992647.0
-2020,Metalcore,Indonesia,68229.0
-2020,Metalcore,Poland,18212.0
-2020,Metalcore,Portugal,10556.0
-2020,Metalcore,Switzerland,13163.0
-2020,Metalcore,United States of America,511540.0
-2020,Motown,Australia,1857753.0
-2020,Motown,Austria,97825.0
-2020,Motown,Belgium,277682.0
-2020,Motown,Canada,4331299.0
-2020,Motown,Denmark,674677.0
-2020,Motown,Finland,16015.0
-2020,Motown,Germany,716273.0
-2020,Motown,Global,44053864.0
-2020,Motown,Ireland,820971.0
-2020,Motown,Italy,37679.0
-2020,Motown,Malaysia,19567.0
-2020,Motown,Netherlands,894111.0
-2020,Motown,New Zealand,488531.0
-2020,Motown,Norway,495960.0
-2020,Motown,Philippines,199076.0
-2020,Motown,Poland,33510.0
-2020,Motown,Portugal,80017.0
-2020,Motown,Singapore,58125.0
-2020,Motown,Sweden,481192.0
-2020,Motown,Switzerland,244591.0
-2020,Motown,United States of America,28265156.0
-2020,Musica Catalana,Spain,38883.0
-2020,Neo Mellow,Australia,27259614.0
-2020,Neo Mellow,Belgium,98219.0
-2020,Neo Mellow,Canada,418667.0
-2020,Neo Mellow,Denmark,6171269.0
-2020,Neo Mellow,Indonesia,13868475.0
-2020,Neo Mellow,Ireland,4083217.0
-2020,Neo Mellow,Italy,165844.0
-2020,Neo Mellow,Malaysia,6897188.0
-2020,Neo Mellow,Netherlands,296456.0
-2020,Neo Mellow,New Zealand,4153930.0
-2020,Neo Mellow,Norway,8129279.0
-2020,Neo Mellow,Philippines,11211853.0
-2020,Neo Mellow,Portugal,37401.0
-2020,Neo Mellow,Singapore,6104738.0
-2020,Neo Mellow,Sweden,1162587.0
-2020,Neo Mellow,Switzerland,176799.0
-2020,Neo Mellow,United States of America,645059.0
-2020,New Wave Pop,Australia,913898.0
-2020,New Wave Pop,Austria,140166.0
-2020,New Wave Pop,Belgium,894450.0
-2020,New Wave Pop,Canada,1202444.0
-2020,New Wave Pop,Denmark,548194.0
-2020,New Wave Pop,Finland,988755.0
-2020,New Wave Pop,Germany,737891.0
-2020,New Wave Pop,Global,17533694.0
-2020,New Wave Pop,Ireland,507465.0
-2020,New Wave Pop,Netherlands,2921132.0
-2020,New Wave Pop,Norway,1859095.0
-2020,New Wave Pop,Poland,330310.0
-2020,New Wave Pop,Sweden,2019227.0
-2020,New Wave Pop,Switzerland,201007.0
-2020,New Wave Pop,United States of America,4127339.0
-2020,Norges Stemme,Norway,546448.0
-2020,Opm,Philippines,16820627.0
-2020,Permanent Wave,Argentina,476963.0
-2020,Permanent Wave,Australia,1876515.0
-2020,Permanent Wave,Austria,478630.0
-2020,Permanent Wave,Belgium,2277335.0
-2020,Permanent Wave,Canada,1235387.0
-2020,Permanent Wave,Colombia,148921.0
-2020,Permanent Wave,Costa Rica,368146.0
-2020,Permanent Wave,Denmark,639131.0
-2020,Permanent Wave,Finland,64550.0
-2020,Permanent Wave,France,1861224.0
-2020,Permanent Wave,Germany,4349910.0
-2020,Permanent Wave,Global,20691069.0
-2020,Permanent Wave,Ireland,1043930.0
-2020,Permanent Wave,Italy,625926.0
-2020,Permanent Wave,Malaysia,28830.0
-2020,Permanent Wave,Mexico,241999.0
-2020,Permanent Wave,Netherlands,3692483.0
-2020,Permanent Wave,New Zealand,417875.0
-2020,Permanent Wave,Norway,2730198.0
-2020,Permanent Wave,Philippines,424923.0
-2020,Permanent Wave,Poland,932866.0
-2020,Permanent Wave,Portugal,72965.0
-2020,Permanent Wave,Singapore,248379.0
-2020,Permanent Wave,Spain,171925.0
-2020,Permanent Wave,Sweden,1076109.0
-2020,Permanent Wave,Switzerland,360443.0
-2020,Permanent Wave,Taiwan,8435.0
-2020,Permanent Wave,United States of America,796111.0
+2020,Metal,Australia,391633.0
+2020,Metal,Austria,56290.0
+2020,Metal,Belgium,13526.0
+2020,Metal,Costa Rica,9385.0
+2020,Metal,Finland,218587.0
+2020,Metal,Germany,1058943.0
+2020,Metal,Global,5992647.0
+2020,Metal,Indonesia,68229.0
+2020,Metal,Poland,18212.0
+2020,Metal,Portugal,10556.0
+2020,Metal,Switzerland,13163.0
+2020,Metal,United States of America,511540.0
 2020,Pop,Argentina,197988433.0
-2020,Pop,Australia,930804172.0
-2020,Pop,Austria,69194161.0
-2020,Pop,Belgium,165900568.0
+2020,Pop,Australia,959477976.0
+2020,Pop,Austria,73823816.0
+2020,Pop,Belgium,179586445.0
 2020,Pop,Brazil,511692572.0
-2020,Pop,Canada,644353269.0
+2020,Pop,Canada,648089301.0
 2020,Pop,Chile,117088884.0
 2020,Pop,Colombia,42891962.0
 2020,Pop,Costa Rica,23642900.0
-2020,Pop,Denmark,169479848.0
+2020,Pop,Denmark,170249638.0
 2020,Pop,Ecuador,18691080.0
-2020,Pop,Finland,104923966.0
+2020,Pop,Finland,117645532.0
 2020,Pop,France,235407484.0
-2020,Pop,Germany,647355190.0
-2020,Pop,Global,15593877339.0
-2020,Pop,Indonesia,435426546.0
-2020,Pop,Ireland,216498435.0
-2020,Pop,Italy,252941921.0
-2020,Pop,Malaysia,195597144.0
+2020,Pop,Germany,679890997.0
+2020,Pop,Global,15749270233.0
+2020,Pop,Indonesia,437034462.0
+2020,Pop,Ireland,268064578.0
+2020,Pop,Italy,254522593.0
+2020,Pop,Malaysia,197058298.0
 2020,Pop,Mexico,512156032.0
-2020,Pop,Netherlands,493993054.0
-2020,Pop,New Zealand,193762031.0
-2020,Pop,Norway,348549790.0
+2020,Pop,Netherlands,534778286.0
+2020,Pop,New Zealand,197999262.0
+2020,Pop,Norway,351576175.0
 2020,Pop,Peru,45994696.0
-2020,Pop,Philippines,588527932.0
-2020,Pop,Poland,213340050.0
-2020,Pop,Portugal,65868161.0
-2020,Pop,Singapore,173960729.0
+2020,Pop,Philippines,605375431.0
+2020,Pop,Poland,213670360.0
+2020,Pop,Portugal,65957798.0
+2020,Pop,Singapore,175377343.0
 2020,Pop,Spain,218610926.0
-2020,Pop,Sweden,318984956.0
-2020,Pop,Switzerland,110080704.0
-2020,Pop,Taiwan,71548243.0
+2020,Pop,Sweden,323483525.0
+2020,Pop,Switzerland,117127427.0
+2020,Pop,Taiwan,71637399.0
 2020,Pop,Turkey,69102829.0
-2020,Pop,United States of America,3083899952.0
-2020,Pop Edm,Austria,2752332.0
-2020,Pop Edm,Belgium,260878.0
-2020,Pop Edm,Finland,3557322.0
-2020,Pop Edm,France,10691622.0
-2020,Pop Edm,Germany,41252484.0
-2020,Pop Edm,Global,8345901.0
-2020,Pop Edm,Norway,568386.0
-2020,Pop Edm,Poland,5585749.0
-2020,Pop Edm,Sweden,1216899.0
-2020,Pop Edm,Switzerland,2758534.0
-2020,Pop Edm,Taiwan,10862.0
-2020,Pop R&b,Australia,2955016.0
-2020,Pop R&b,Brazil,2317090.0
-2020,Pop R&b,Canada,2643734.0
-2020,Pop R&b,Denmark,163727.0
-2020,Pop R&b,Global,67267487.0
-2020,Pop R&b,Indonesia,7950321.0
-2020,Pop R&b,Ireland,175299.0
-2020,Pop R&b,Malaysia,1055090.0
-2020,Pop R&b,Netherlands,732672.0
-2020,Pop R&b,New Zealand,1332003.0
-2020,Pop R&b,Norway,234455.0
-2020,Pop R&b,Philippines,14806987.0
-2020,Pop R&b,Portugal,389052.0
-2020,Pop R&b,Singapore,636282.0
-2020,Pop R&b,United States of America,14510021.0
-2020,Pop Rap,Philippines,22742.0
-2020,Pop Soul,Norway,15054.0
-2020,Pop Soul,Sweden,53642.0
+2020,Pop,United States of America,3157391281.0
 2020,Psych,Australia,23311065.0
 2020,Psych,Belgium,143401.0
 2020,Psych,Canada,838059.0
@@ -4229,136 +2287,113 @@ chart_year,Genre,region,sum
 2020,Psych,Switzerland,7045.0
 2020,Psych,Turkey,24222.0
 2020,Psych,United States of America,108971955.0
+2020,Punk,Australia,76331.0
 2020,R&b,Argentina,58004862.0
-2020,R&b,Australia,160598910.0
+2020,R&b,Australia,163553926.0
 2020,R&b,Austria,18227015.0
 2020,R&b,Belgium,42586186.0
-2020,R&b,Brazil,170082662.0
-2020,R&b,Canada,143393924.0
+2020,R&b,Brazil,172399752.0
+2020,R&b,Canada,146037658.0
 2020,R&b,Chile,59103247.0
 2020,R&b,Colombia,26906514.0
 2020,R&b,Costa Rica,10597602.0
-2020,R&b,Denmark,51576216.0
+2020,R&b,Denmark,51739943.0
 2020,R&b,Ecuador,14159956.0
 2020,R&b,Finland,34958009.0
 2020,R&b,France,156805986.0
 2020,R&b,Germany,265893494.0
-2020,R&b,Global,4072883052.0
-2020,R&b,Indonesia,29565784.0
-2020,R&b,Ireland,33054696.0
+2020,R&b,Global,4140150539.0
+2020,R&b,Indonesia,37516105.0
+2020,R&b,Ireland,33229995.0
 2020,R&b,Italy,105136522.0
-2020,R&b,Malaysia,25066588.0
+2020,R&b,Malaysia,26121678.0
 2020,R&b,Mexico,331011837.0
-2020,R&b,Netherlands,141238432.0
-2020,R&b,New Zealand,26106763.0
-2020,R&b,Norway,78108459.0
+2020,R&b,Netherlands,141971104.0
+2020,R&b,New Zealand,27438766.0
+2020,R&b,Norway,78342914.0
 2020,R&b,Peru,32247032.0
-2020,R&b,Philippines,50929396.0
+2020,R&b,Philippines,65736383.0
 2020,R&b,Poland,60121217.0
-2020,R&b,Portugal,24576495.0
-2020,R&b,Singapore,22849396.0
+2020,R&b,Portugal,24965547.0
+2020,R&b,Singapore,23485678.0
 2020,R&b,Spain,89998877.0
 2020,R&b,Sweden,134000233.0
 2020,R&b,Switzerland,28941821.0
 2020,R&b,Taiwan,14909932.0
 2020,R&b,Turkey,44708678.0
-2020,R&b,United States of America,867209851.0
-2020,Rap,Argentina,12085554.0
-2020,Rap,Australia,428270189.0
+2020,R&b,United States of America,881719872.0
+2020,Rap,Argentina,12147673.0
+2020,Rap,Australia,434601059.0
 2020,Rap,Austria,33628837.0
-2020,Rap,Belgium,67444485.0
-2020,Rap,Brazil,105275850.0
-2020,Rap,Canada,538470430.0
-2020,Rap,Chile,10059230.0
-2020,Rap,Colombia,6333500.0
+2020,Rap,Belgium,67786299.0
+2020,Rap,Brazil,105451942.0
+2020,Rap,Canada,544040194.0
+2020,Rap,Chile,10109637.0
+2020,Rap,Colombia,6354003.0
 2020,Rap,Costa Rica,5948418.0
 2020,Rap,Denmark,65581313.0
-2020,Rap,Ecuador,2696154.0
-2020,Rap,Finland,46768988.0
+2020,Rap,Ecuador,2700682.0
+2020,Rap,Finland,46777341.0
 2020,Rap,France,70449825.0
 2020,Rap,Germany,340647179.0
-2020,Rap,Global,9450394825.0
-2020,Rap,Indonesia,43717925.0
-2020,Rap,Ireland,78156222.0
+2020,Rap,Global,9478134556.0
+2020,Rap,Indonesia,43888943.0
+2020,Rap,Ireland,78195924.0
 2020,Rap,Italy,53874676.0
-2020,Rap,Malaysia,35687696.0
+2020,Rap,Malaysia,35854960.0
 2020,Rap,Mexico,102560688.0
 2020,Rap,Netherlands,162227118.0
-2020,Rap,New Zealand,80497317.0
+2020,Rap,New Zealand,81562788.0
 2020,Rap,Norway,94986367.0
-2020,Rap,Peru,2407802.0
-2020,Rap,Philippines,83504996.0
-2020,Rap,Poland,28276473.0
-2020,Rap,Portugal,48431051.0
-2020,Rap,Singapore,30505317.0
+2020,Rap,Peru,2438856.0
+2020,Rap,Philippines,83730186.0
+2020,Rap,Poland,28347213.0
+2020,Rap,Portugal,48717436.0
+2020,Rap,Singapore,30598350.0
 2020,Rap,Spain,20207313.0
 2020,Rap,Sweden,107279671.0
-2020,Rap,Switzerland,41164518.0
-2020,Rap,Taiwan,15410921.0
-2020,Rap,Turkey,16606605.0
-2020,Rap,United States of America,5141103188.0
-2020,Rap Pop,Netherlands,743707.0
-2020,Reggae,Ireland,42658.0
+2020,Rap,Switzerland,41302707.0
+2020,Rap,Taiwan,15509566.0
+2020,Rap,Turkey,16657184.0
+2020,Rap,United States of America,5157062589.0
+2020,Reggae,Australia,29673561.0
+2020,Reggae,Chile,20470.0
+2020,Reggae,Ireland,67697.0
+2020,Reggae,Mexico,80011.0
 2020,Reggae,Netherlands,152597.0
-2020,Reggae,New Zealand,2343488.0
-2020,Reggae Fusion,Australia,29673561.0
-2020,Reggae Fusion,Ireland,25039.0
-2020,Reggae Fusion,New Zealand,4262817.0
-2020,Reggaeton,Chile,20470.0
-2020,Reggaeton,Mexico,80011.0
+2020,Reggae,New Zealand,6606305.0
 2020,Rock,Argentina,2059686.0
-2020,Rock,Australia,22384608.0
-2020,Rock,Austria,366520.0
-2020,Rock,Belgium,6069011.0
+2020,Rock,Australia,28565695.0
+2020,Rock,Austria,874488.0
+2020,Rock,Belgium,6396340.0
 2020,Rock,Brazil,59726420.0
-2020,Rock,Canada,11317481.0
+2020,Rock,Canada,16405567.0
 2020,Rock,Colombia,4911142.0
 2020,Rock,Costa Rica,2904018.0
+2020,Rock,Denmark,818465.0
 2020,Rock,Ecuador,3369720.0
-2020,Rock,Finland,2280464.0
-2020,Rock,France,4172250.0
-2020,Rock,Germany,3038190.0
-2020,Rock,Global,740485083.0
+2020,Rock,Finland,2501955.0
+2020,Rock,France,4433366.0
+2020,Rock,Germany,7828891.0
+2020,Rock,Global,792949242.0
 2020,Rock,Indonesia,24715966.0
-2020,Rock,Ireland,4056420.0
-2020,Rock,Malaysia,2980518.0
+2020,Rock,Ireland,5757330.0
+2020,Rock,Italy,142179.0
+2020,Rock,Malaysia,2987944.0
 2020,Rock,Mexico,64748228.0
-2020,Rock,Netherlands,11842397.0
-2020,Rock,New Zealand,4578364.0
-2020,Rock,Norway,384014.0
+2020,Rock,Netherlands,13696324.0
+2020,Rock,New Zealand,7496926.0
+2020,Rock,Norway,1221904.0
 2020,Rock,Peru,639334.0
-2020,Rock,Philippines,919907.0
-2020,Rock,Poland,140619.0
-2020,Rock,Portugal,734572.0
-2020,Rock,Singapore,536878.0
-2020,Rock,Spain,91270.0
-2020,Rock,Sweden,1042477.0
-2020,Rock,Switzerland,2516132.0
+2020,Rock,Philippines,992457.0
+2020,Rock,Poland,317919.0
+2020,Rock,Portugal,820736.0
+2020,Rock,Singapore,586250.0
+2020,Rock,Spain,194300.0
+2020,Rock,Sweden,3443134.0
+2020,Rock,Switzerland,3024901.0
 2020,Rock,Turkey,1410186.0
-2020,Rock,United States of America,34448277.0
-2020,Rock-and-roll,Australia,762931.0
-2020,Rock-and-roll,Austria,72260.0
-2020,Rock-and-roll,Belgium,221299.0
-2020,Rock-and-roll,Canada,3231311.0
-2020,Rock-and-roll,Denmark,178778.0
-2020,Rock-and-roll,Finland,159704.0
-2020,Rock-and-roll,France,68211.0
-2020,Rock-and-roll,Germany,539048.0
-2020,Rock-and-roll,Global,29162528.0
-2020,Rock-and-roll,Ireland,353989.0
-2020,Rock-and-roll,Malaysia,7426.0
-2020,Rock-and-roll,Netherlands,1253190.0
-2020,Rock-and-roll,New Zealand,201487.0
-2020,Rock-and-roll,Norway,349991.0
-2020,Rock-and-roll,Philippines,38584.0
-2020,Rock-and-roll,Poland,92761.0
-2020,Rock-and-roll,Portugal,48934.0
-2020,Rock-and-roll,Singapore,25140.0
-2020,Rock-and-roll,Spain,103030.0
-2020,Rock-and-roll,Sweden,1358654.0
-2020,Rock-and-roll,Switzerland,123087.0
-2020,Rock-and-roll,United States of America,16753722.0
-2020,Room,United States of America,1106700.0
+2020,Rock,United States of America,54167543.0
 2020,Soul,Argentina,430106.0
 2020,Soul,Australia,29875007.0
 2020,Soul,Austria,1609995.0
@@ -4381,60 +2416,25 @@ chart_year,Genre,region,sum
 2020,Soul,Mexico,821846.0
 2020,Soul,Netherlands,12257564.0
 2020,Soul,New Zealand,6186262.0
-2020,Soul,Norway,5872737.0
+2020,Soul,Norway,5887791.0
 2020,Soul,Peru,8706.0
 2020,Soul,Philippines,26860927.0
 2020,Soul,Poland,4959379.0
 2020,Soul,Portugal,2767197.0
 2020,Soul,Singapore,2946636.0
 2020,Soul,Spain,1313202.0
-2020,Soul,Sweden,5949102.0
+2020,Soul,Sweden,6002744.0
 2020,Soul,Switzerland,3047635.0
 2020,Soul,Taiwan,1144641.0
 2020,Soul,United States of America,159569495.0
 2020,Swing,Belgium,626170.0
 2020,Swing,Ireland,530232.0
 2020,Swing,Netherlands,314143.0
-2020,Synth,Canada,47078.0
-2020,Synth,United States of America,317907.0
-2020,Trap,Argentina,3295488.0
-2020,Trap,Chile,28028305.0
-2020,Trap,Colombia,7075623.0
-2020,Trap,Costa Rica,1635611.0
-2020,Trap,Ecuador,3003403.0
-2020,Trap,Global,41516506.0
-2020,Trap,Ireland,15284.0
-2020,Trap,Mexico,5774936.0
-2020,Trap,Peru,9554808.0
-2020,Trap,Portugal,435541.0
-2020,Trap,Spain,9741549.0
-2020,Trap,United States of America,4624406.0
-2020,Trap Pop,Sweden,196428.0
 2021,A Cappella,Austria,599950.0
 2021,A Cappella,Germany,709241.0
 2021,A Cappella,Sweden,176979.0
 2021,A Cappella,Switzerland,16311.0
 2021,A Cappella,United States of America,972045.0
-2021,Acoustic Chill,Indonesia,1503621.0
-2021,Adult Standards,Australia,2583977.0
-2021,Adult Standards,Austria,1909580.0
-2021,Adult Standards,Belgium,44070.0
-2021,Adult Standards,Canada,8856945.0
-2021,Adult Standards,Denmark,594360.0
-2021,Adult Standards,Finland,97147.0
-2021,Adult Standards,France,52299.0
-2021,Adult Standards,Germany,2473841.0
-2021,Adult Standards,Global,85006468.0
-2021,Adult Standards,Ireland,252593.0
-2021,Adult Standards,Netherlands,215411.0
-2021,Adult Standards,New Zealand,466243.0
-2021,Adult Standards,Norway,388378.0
-2021,Adult Standards,Poland,272047.0
-2021,Adult Standards,Portugal,40364.0
-2021,Adult Standards,Singapore,20701.0
-2021,Adult Standards,Sweden,431921.0
-2021,Adult Standards,Switzerland,435915.0
-2021,Adult Standards,United States of America,80130659.0
 2021,Alternative Dance,Australia,4116840.0
 2021,Alternative Dance,Ireland,5369.0
 2021,Alternative Dance,New Zealand,6006.0
@@ -4448,8 +2448,6 @@ chart_year,Genre,region,sum
 2021,Alternative Metal,Germany,745542.0
 2021,Alternative Metal,Philippines,8493952.0
 2021,Alternative Metal,United States of America,592393.0
-2021,Alternative Pop Rock,Australia,1052534.0
-2021,Alternative Pop Rock,Ireland,1133092.0
 2021,Alternative R&b,Australia,4201382.0
 2021,Alternative R&b,Austria,797462.0
 2021,Alternative R&b,Belgium,1404038.0
@@ -4466,116 +2464,87 @@ chart_year,Genre,region,sum
 2021,Alternative R&b,Singapore,268844.0
 2021,Alternative R&b,Switzerland,451188.0
 2021,Alternative R&b,United States of America,54674282.0
-2021,Alternative Rock,Australia,47836979.0
-2021,Alternative Rock,Austria,4024808.0
-2021,Alternative Rock,Belgium,5455417.0
+2021,Alternative Rock,Argentina,379332.0
+2021,Alternative Rock,Australia,60184914.0
+2021,Alternative Rock,Austria,4575595.0
+2021,Alternative Rock,Belgium,6313674.0
 2021,Alternative Rock,Brazil,4041221.0
-2021,Alternative Rock,Canada,22139036.0
-2021,Alternative Rock,Costa Rica,9457.0
+2021,Alternative Rock,Canada,25156281.0
+2021,Alternative Rock,Costa Rica,967710.0
+2021,Alternative Rock,Denmark,60502.0
 2021,Alternative Rock,Finland,3823828.0
 2021,Alternative Rock,France,41965.0
-2021,Alternative Rock,Global,777256877.0
-2021,Alternative Rock,Ireland,5288235.0
-2021,Alternative Rock,Malaysia,2555183.0
-2021,Alternative Rock,Netherlands,47860.0
-2021,Alternative Rock,New Zealand,4312058.0
-2021,Alternative Rock,Norway,371523.0
-2021,Alternative Rock,Philippines,4746289.0
+2021,Alternative Rock,Germany,425672.0
+2021,Alternative Rock,Global,784108742.0
+2021,Alternative Rock,Indonesia,2359809.0
+2021,Alternative Rock,Ireland,9105586.0
+2021,Alternative Rock,Malaysia,4522925.0
+2021,Alternative Rock,Mexico,1924897.0
+2021,Alternative Rock,Netherlands,312483.0
+2021,Alternative Rock,New Zealand,6166062.0
+2021,Alternative Rock,Norway,774865.0
+2021,Alternative Rock,Peru,31101.0
+2021,Alternative Rock,Philippines,18687703.0
 2021,Alternative Rock,Poland,19731275.0
 2021,Alternative Rock,Portugal,4189133.0
-2021,Alternative Rock,Switzerland,2291044.0
+2021,Alternative Rock,Singapore,2332276.0
+2021,Alternative Rock,Sweden,119386.0
+2021,Alternative Rock,Switzerland,2337160.0
+2021,Alternative Rock,Taiwan,6111.0
 2021,Alternative Rock,Turkey,14114872.0
-2021,Alternative Rock,United States of America,257275118.0
-2021,Ambigious / Unknown,Argentina,126402.0
-2021,Ambigious / Unknown,Australia,18683894.0
-2021,Ambigious / Unknown,Austria,7521193.0
-2021,Ambigious / Unknown,Belgium,11277031.0
-2021,Ambigious / Unknown,Brazil,913624.0
-2021,Ambigious / Unknown,Canada,33709384.0
-2021,Ambigious / Unknown,Colombia,37910.0
-2021,Ambigious / Unknown,Costa Rica,565981.0
-2021,Ambigious / Unknown,Denmark,10855820.0
-2021,Ambigious / Unknown,Finland,2283558.0
-2021,Ambigious / Unknown,France,3920978.0
-2021,Ambigious / Unknown,Germany,63396952.0
-2021,Ambigious / Unknown,Global,985332294.0
-2021,Ambigious / Unknown,Indonesia,173426.0
-2021,Ambigious / Unknown,Ireland,9557814.0
-2021,Ambigious / Unknown,Italy,10149232.0
-2021,Ambigious / Unknown,Malaysia,372313.0
-2021,Ambigious / Unknown,Netherlands,10481230.0
-2021,Ambigious / Unknown,New Zealand,3922021.0
-2021,Ambigious / Unknown,Norway,9610792.0
-2021,Ambigious / Unknown,Philippines,96435.0
-2021,Ambigious / Unknown,Poland,2653798.0
-2021,Ambigious / Unknown,Portugal,256927.0
-2021,Ambigious / Unknown,Singapore,92098.0
-2021,Ambigious / Unknown,Sweden,15152580.0
-2021,Ambigious / Unknown,Switzerland,8375728.0
-2021,Ambigious / Unknown,Turkey,3830309.0
-2021,Ambigious / Unknown,United States of America,227531455.0
-2021,Anthem Worship,Denmark,10716.0
-2021,Anthem Worship,Switzerland,13822.0
-2021,Australian Indigenous,Australia,284280.0
-2021,Big Room,Australia,10390860.0
-2021,Big Room,Austria,2039937.0
-2021,Big Room,Belgium,4479309.0
-2021,Big Room,Canada,4207703.0
-2021,Big Room,Chile,582660.0
-2021,Big Room,Colombia,715354.0
-2021,Big Room,Costa Rica,446113.0
-2021,Big Room,Denmark,3348241.0
-2021,Big Room,Ecuador,393082.0
-2021,Big Room,Finland,2210323.0
-2021,Big Room,Germany,164210.0
-2021,Big Room,Global,382953037.0
-2021,Big Room,Ireland,3757545.0
-2021,Big Room,Italy,263083.0
-2021,Big Room,Malaysia,92146.0
-2021,Big Room,Netherlands,8697776.0
-2021,Big Room,New Zealand,12271.0
-2021,Big Room,Norway,4092685.0
-2021,Big Room,Peru,23871.0
-2021,Big Room,Portugal,1739612.0
-2021,Big Room,Singapore,927084.0
-2021,Big Room,Sweden,11048012.0
-2021,Big Room,Switzerland,3394170.0
-2021,Big Room,United States of America,235386.0
-2021,Boy Band,Australia,36960035.0
-2021,Boy Band,Austria,31492.0
-2021,Boy Band,Belgium,13803.0
-2021,Boy Band,Canada,1374929.0
-2021,Boy Band,Denmark,755528.0
-2021,Boy Band,Finland,5848.0
-2021,Boy Band,Germany,120941.0
-2021,Boy Band,Indonesia,15401570.0
-2021,Boy Band,Ireland,59482.0
-2021,Boy Band,Malaysia,3431989.0
-2021,Boy Band,Netherlands,21070.0
-2021,Boy Band,New Zealand,541464.0
-2021,Boy Band,Philippines,6947342.0
-2021,Boy Band,Singapore,3742850.0
-2021,Boy Band,Switzerland,31460.0
+2021,Alternative Rock,United States of America,258016567.0
+2021,Ambigious / Others,Argentina,126402.0
+2021,Ambigious / Others,Australia,85831758.0
+2021,Ambigious / Others,Austria,9462265.0
+2021,Ambigious / Others,Belgium,11334904.0
+2021,Ambigious / Others,Brazil,913624.0
+2021,Ambigious / Others,Canada,44035975.0
+2021,Ambigious / Others,Colombia,37910.0
+2021,Ambigious / Others,Costa Rica,706759.0
+2021,Ambigious / Others,Denmark,18749662.0
+2021,Ambigious / Others,Finland,2386553.0
+2021,Ambigious / Others,France,3973277.0
+2021,Ambigious / Others,Germany,65991734.0
+2021,Ambigious / Others,Global,1070338762.0
+2021,Ambigious / Others,Indonesia,19423411.0
+2021,Ambigious / Others,Ireland,12649816.0
+2021,Ambigious / Others,Italy,10149232.0
+2021,Ambigious / Others,Malaysia,9182502.0
+2021,Ambigious / Others,Mexico,1222707.0
+2021,Ambigious / Others,Netherlands,11020934.0
+2021,Ambigious / Others,New Zealand,11178130.0
+2021,Ambigious / Others,Norway,13091098.0
+2021,Ambigious / Others,Peru,241320.0
+2021,Ambigious / Others,Philippines,10386946.0
+2021,Ambigious / Others,Poland,2925845.0
+2021,Ambigious / Others,Portugal,297291.0
+2021,Ambigious / Others,Singapore,9156085.0
+2021,Ambigious / Others,Sweden,15882225.0
+2021,Ambigious / Others,Switzerland,8883179.0
+2021,Ambigious / Others,Turkey,3830309.0
+2021,Ambigious / Others,United States of America,309514935.0
+2021,Blues,Australia,730747.0
+2021,Blues,Austria,99505.0
+2021,Blues,Canada,2324228.0
+2021,Blues,Denmark,52137.0
+2021,Blues,Global,22149070.0
+2021,Blues,Ireland,54731.0
+2021,Blues,New Zealand,6565.0
+2021,Blues,Norway,58688.0
+2021,Blues,Sweden,24842.0
+2021,Blues,Switzerland,24544.0
+2021,Blues,United States of America,27545163.0
 2021,C-pop,Singapore,42205.0
-2021,Celtic,Ireland,37542.0
-2021,Classic Rock,Ireland,714898.0
 2021,Country,Australia,4459008.0
 2021,Country,Canada,63912149.0
 2021,Country,Global,3063747.0
 2021,Country,New Zealand,2782260.0
 2021,Country,United States of America,607575173.0
-2021,Dakke Dak,Denmark,480176.0
 2021,Dance,Australia,1942703.0
 2021,Dance,Austria,212501.0
 2021,Dance,Denmark,3489689.0
 2021,Dance,Finland,26088.0
 2021,Dance,Switzerland,369935.0
-2021,Dance Pop,Finland,4758672.0
-2021,Dance Rock,Australia,218315.0
-2021,Dance Rock,Belgium,33920.0
-2021,Dance Rock,Ireland,318543.0
-2021,Dance Rock,New Zealand,12035.0
-2021,Dancehall,Costa Rica,140778.0
 2021,Disco,Australia,732691.0
 2021,Disco,Austria,17017.0
 2021,Disco,Belgium,294290.0
@@ -4593,123 +2562,82 @@ chart_year,Genre,region,sum
 2021,Disco,Sweden,101804.0
 2021,Disco,Switzerland,193078.0
 2021,Disco,United States of America,3701795.0
-2021,Double Drumming,Canada,57047.0
-2021,Double Drumming,Ireland,95243.0
-2021,Drill,Australia,12331513.0
-2021,Drill,Austria,1546713.0
-2021,Drill,Belgium,3353763.0
-2021,Drill,Canada,18377566.0
-2021,Drill,Denmark,3903201.0
-2021,Drill,Finland,1242092.0
-2021,Drill,France,15343200.0
-2021,Drill,Germany,10901116.0
-2021,Drill,Global,144009889.0
-2021,Drill,Ireland,707454.0
-2021,Drill,Italy,2755173.0
-2021,Drill,Netherlands,3343416.0
-2021,Drill,New Zealand,3833149.0
-2021,Drill,Norway,2157017.0
-2021,Drill,Portugal,1240640.0
-2021,Drill,Spain,2050070.0
-2021,Drill,Sweden,1687694.0
-2021,Drill,Switzerland,3085783.0
-2021,Drill,United States of America,56452625.0
-2021,Edm,Australia,5649807.0
-2021,Edm,Austria,1084099.0
-2021,Edm,Belgium,3504824.0
-2021,Edm,Canada,5918864.0
-2021,Edm,Denmark,2225702.0
-2021,Edm,Ecuador,206958.0
-2021,Edm,Finland,34824.0
-2021,Edm,France,4299346.0
-2021,Edm,Germany,14924488.0
-2021,Edm,Global,160701965.0
-2021,Edm,Ireland,1111053.0
-2021,Edm,Italy,8052027.0
-2021,Edm,Mexico,10750592.0
-2021,Edm,Netherlands,6683082.0
-2021,Edm,New Zealand,749559.0
-2021,Edm,Norway,25300.0
-2021,Edm,Poland,1978543.0
-2021,Edm,Portugal,708658.0
-2021,Edm,Switzerland,3240907.0
-2021,Electro House,Singapore,11578.0
-2021,Electronic,Australia,199031.0
-2021,Electronic,Ireland,51954.0
-2021,Electronic,New Zealand,6731.0
-2021,Emo,Ireland,26336.0
-2021,Emo,New Zealand,22648.0
-2021,Europop,Finland,36007.0
-2021,Eurovision,Sweden,177194.0
-2021,Folk,Australia,96979.0
+2021,EDM,Australia,18274247.0
+2021,EDM,Austria,5019617.0
+2021,EDM,Belgium,8117318.0
+2021,EDM,Canada,10126567.0
+2021,EDM,Chile,582660.0
+2021,EDM,Colombia,715354.0
+2021,EDM,Costa Rica,446113.0
+2021,EDM,Denmark,5573943.0
+2021,EDM,Ecuador,600040.0
+2021,EDM,Finland,2397658.0
+2021,EDM,France,6076541.0
+2021,EDM,Germany,36524838.0
+2021,EDM,Global,543655002.0
+2021,EDM,Ireland,4934816.0
+2021,EDM,Italy,8315110.0
+2021,EDM,Malaysia,92146.0
+2021,EDM,Mexico,10750592.0
+2021,EDM,Netherlands,15427595.0
+2021,EDM,New Zealand,768110.0
+2021,EDM,Norway,4117985.0
+2021,EDM,Peru,23871.0
+2021,EDM,Poland,3926309.0
+2021,EDM,Portugal,2448270.0
+2021,EDM,Singapore,938662.0
+2021,EDM,Sweden,11048012.0
+2021,EDM,Switzerland,8813276.0
+2021,EDM,United States of America,235386.0
+2021,Electronica,Australia,199031.0
+2021,Electronica,Ireland,58467.0
+2021,Electronica,New Zealand,6731.0
+2021,Folk,Australia,2462856.0
+2021,Folk,Austria,222169.0
+2021,Folk,Belgium,782058.0
+2021,Folk,Canada,1178241.0
+2021,Folk,Finland,157157.0
+2021,Folk,Global,14387207.0
 2021,Folk,Indonesia,2769834.0
-2021,Folk,Ireland,13842.0
-2021,Folk,New Zealand,42465.0
+2021,Folk,Ireland,2039057.0
+2021,Folk,New Zealand,388960.0
+2021,Folk,Norway,3440968.0
+2021,Folk,Poland,1874211.0
+2021,Folk,Sweden,912619.0
+2021,Folk,Switzerland,115201.0
 2021,Folk,Turkey,5246717.0
-2021,Folk-pop,Australia,20622606.0
-2021,Folk-pop,Austria,2813327.0
-2021,Folk-pop,Belgium,3266843.0
-2021,Folk-pop,Canada,9599315.0
-2021,Folk-pop,Denmark,173758.0
-2021,Folk-pop,Finland,5285.0
-2021,Folk-pop,Germany,3836213.0
-2021,Folk-pop,Global,222752115.0
-2021,Folk-pop,Ireland,31809258.0
-2021,Folk-pop,Netherlands,38502.0
-2021,Folk-pop,New Zealand,3160593.0
-2021,Folk-pop,Norway,2704261.0
-2021,Folk-pop,Poland,1394359.0
-2021,Folk-pop,Portugal,625074.0
-2021,Folk-pop,Sweden,3516282.0
-2021,Folk-pop,Switzerland,3543927.0
-2021,Folk-pop,United States of America,10335932.0
+2021,Folk,United States of America,8276209.0
 2021,Funk,Belgium,43359.0
 2021,Funk,Ireland,86017.0
 2021,Funk,Netherlands,262750.0
 2021,Funk,United States of America,298076.0
-2021,Garage Punk,Australia,18199574.0
-2021,Glam Rock,Australia,3361507.0
-2021,Glam Rock,Austria,697791.0
-2021,Glam Rock,Belgium,107440.0
-2021,Glam Rock,Canada,1421506.0
-2021,Glam Rock,Denmark,106628.0
-2021,Glam Rock,Finland,12878.0
-2021,Glam Rock,Germany,1065489.0
-2021,Glam Rock,Global,28356899.0
-2021,Glam Rock,Ireland,437972.0
-2021,Glam Rock,New Zealand,1992947.0
-2021,Glam Rock,Sweden,48811.0
-2021,Glam Rock,Switzerland,102837.0
-2021,Glam Rock,United States of America,9639695.0
-2021,Grime,Ireland,6513.0
-2021,Hip Hop,Australia,20275314.0
-2021,Hip Hop,Austria,1811926.0
-2021,Hip Hop,Belgium,1767018.0
-2021,Hip Hop,Canada,12024358.0
-2021,Hip Hop,Costa Rica,30902.0
-2021,Hip Hop,Denmark,114887.0
-2021,Hip Hop,Finland,3718725.0
-2021,Hip Hop,France,19744449.0
-2021,Hip Hop,Germany,7386595.0
-2021,Hip Hop,Global,205874954.0
+2021,Hip Hop,Australia,32606827.0
+2021,Hip Hop,Austria,3358639.0
+2021,Hip Hop,Belgium,5120781.0
+2021,Hip Hop,Canada,30401924.0
+2021,Hip Hop,Chile,2721079.0
+2021,Hip Hop,Colombia,276936.0
+2021,Hip Hop,Costa Rica,311472.0
+2021,Hip Hop,Denmark,4018088.0
+2021,Hip Hop,Ecuador,248079.0
+2021,Hip Hop,Finland,4960817.0
+2021,Hip Hop,France,35087649.0
+2021,Hip Hop,Germany,18287711.0
+2021,Hip Hop,Global,349884843.0
 2021,Hip Hop,Indonesia,490491.0
-2021,Hip Hop,Ireland,1320035.0
-2021,Hip Hop,Italy,4242362.0
-2021,Hip Hop,Netherlands,111502.0
-2021,Hip Hop,New Zealand,4013120.0
-2021,Hip Hop,Norway,814673.0
+2021,Hip Hop,Ireland,2027489.0
+2021,Hip Hop,Italy,6997535.0
+2021,Hip Hop,Netherlands,3454918.0
+2021,Hip Hop,New Zealand,7846269.0
+2021,Hip Hop,Norway,2971690.0
+2021,Hip Hop,Peru,705162.0
 2021,Hip Hop,Poland,5390844.0
-2021,Hip Hop,Portugal,2145348.0
-2021,Hip Hop,Sweden,735264.0
-2021,Hip Hop,Switzerland,1139809.0
+2021,Hip Hop,Portugal,4199600.0
+2021,Hip Hop,Spain,2050070.0
+2021,Hip Hop,Sweden,2422958.0
+2021,Hip Hop,Switzerland,4225592.0
 2021,Hip Hop,Turkey,148783.0
-2021,Hip Hop,United States of America,73999062.0
-2021,Hollywood,Denmark,9629.0
-2021,House,Australia,2233580.0
-2021,House,Germany,66493.0
-2021,House,Ireland,66218.0
-2021,House,Netherlands,46737.0
-2021,House,New Zealand,6280.0
+2021,Hip Hop,United States of America,130451687.0
 2021,Indie,Australia,2524061.0
 2021,Indie,Belgium,6163.0
 2021,Indie,Canada,153395.0
@@ -4725,38 +2653,6 @@ chart_year,Genre,region,sum
 2021,Indie,Portugal,12940.0
 2021,Indie,Singapore,28369.0
 2021,Indie,United States of America,1890622.0
-2021,Indie Anthem-folk,Ireland,471854.0
-2021,Indie Folk,Australia,2365877.0
-2021,Indie Folk,Austria,222169.0
-2021,Indie Folk,Belgium,782058.0
-2021,Indie Folk,Canada,1178241.0
-2021,Indie Folk,Finland,157157.0
-2021,Indie Folk,Global,14387207.0
-2021,Indie Folk,Ireland,1553361.0
-2021,Indie Folk,New Zealand,346495.0
-2021,Indie Folk,Norway,3440968.0
-2021,Indie Folk,Poland,1874211.0
-2021,Indie Folk,Sweden,912619.0
-2021,Indie Folk,Switzerland,115201.0
-2021,Indie Folk,United States of America,8276209.0
-2021,Indie Pop,Australia,7359845.0
-2021,Indie Pop,Austria,1397048.0
-2021,Indie Pop,Belgium,5895806.0
-2021,Indie Pop,Finland,25935.0
-2021,Indie Pop,Germany,7072299.0
-2021,Indie Pop,Global,53719832.0
-2021,Indie Pop,Ireland,5297217.0
-2021,Indie Pop,Italy,821040.0
-2021,Indie Pop,Malaysia,83039.0
-2021,Indie Pop,Netherlands,17700084.0
-2021,Indie Pop,Norway,102836.0
-2021,Indie Pop,Portugal,13702.0
-2021,Indie Pop,Sweden,1983647.0
-2021,Indie Pop,Switzerland,1336613.0
-2021,Indie Pop,United States of America,91070579.0
-2021,Indie Rock,Canada,43856.0
-2021,Indie Rock,United States of America,276722.0
-2021,Jawaiian,New Zealand,2269376.0
 2021,K-pop,Argentina,7425530.0
 2021,K-pop,Australia,10436494.0
 2021,K-pop,Austria,764293.0
@@ -4791,113 +2687,49 @@ chart_year,Genre,region,sum
 2021,K-pop,Taiwan,7147227.0
 2021,K-pop,Turkey,787830.0
 2021,K-pop,United States of America,53149613.0
-2021,Latin,Mexico,1222707.0
-2021,Latin,Peru,241320.0
 2021,Mandopop,Singapore,437026.0
 2021,Mandopop,Taiwan,14559603.0
-2021,Metropopolis,Belgium,690182.0
-2021,Metropopolis,Ireland,566811.0
-2021,Motown,Australia,730747.0
-2021,Motown,Austria,99505.0
-2021,Motown,Canada,2324228.0
-2021,Motown,Denmark,52137.0
-2021,Motown,Global,22149070.0
-2021,Motown,Ireland,54731.0
-2021,Motown,New Zealand,6565.0
-2021,Motown,Norway,58688.0
-2021,Motown,Sweden,24842.0
-2021,Motown,Switzerland,24544.0
-2021,Motown,United States of America,27545163.0
-2021,Neo Mellow,Australia,27319572.0
-2021,Neo Mellow,Canada,37670.0
-2021,Neo Mellow,Denmark,6043433.0
-2021,Neo Mellow,Indonesia,2344794.0
-2021,Neo Mellow,Ireland,2647142.0
-2021,Neo Mellow,Malaysia,5378200.0
-2021,Neo Mellow,Netherlands,303223.0
-2021,Neo Mellow,New Zealand,3979026.0
-2021,Neo Mellow,Norway,3091928.0
-2021,Neo Mellow,Philippines,3343169.0
-2021,Neo Mellow,Singapore,5300436.0
-2021,Neo Mellow,Sweden,120530.0
-2021,Neo Mellow,Switzerland,26254.0
-2021,Neo Mellow,United States of America,1852821.0
-2021,Opm,Philippines,4561301.0
-2021,Permanent Wave,Argentina,379332.0
-2021,Permanent Wave,Australia,11295401.0
-2021,Permanent Wave,Austria,550787.0
-2021,Permanent Wave,Belgium,858257.0
-2021,Permanent Wave,Canada,3017245.0
-2021,Permanent Wave,Costa Rica,958253.0
-2021,Permanent Wave,Denmark,60502.0
-2021,Permanent Wave,Germany,425672.0
-2021,Permanent Wave,Global,6851865.0
-2021,Permanent Wave,Indonesia,2359809.0
-2021,Permanent Wave,Ireland,2684259.0
-2021,Permanent Wave,Malaysia,1967742.0
-2021,Permanent Wave,Mexico,1924897.0
-2021,Permanent Wave,Netherlands,264623.0
-2021,Permanent Wave,New Zealand,1854004.0
-2021,Permanent Wave,Norway,403342.0
-2021,Permanent Wave,Peru,31101.0
-2021,Permanent Wave,Philippines,13941414.0
-2021,Permanent Wave,Singapore,2332276.0
-2021,Permanent Wave,Sweden,119386.0
-2021,Permanent Wave,Switzerland,46116.0
-2021,Permanent Wave,Taiwan,6111.0
-2021,Permanent Wave,United States of America,741449.0
 2021,Pop,Argentina,77717472.0
-2021,Pop,Australia,499619477.0
-2021,Pop,Austria,25276583.0
-2021,Pop,Belgium,57204018.0
+2021,Pop,Australia,527601928.0
+2021,Pop,Austria,29486958.0
+2021,Pop,Belgium,67056849.0
 2021,Pop,Brazil,149474409.0
-2021,Pop,Canada,227143890.0
+2021,Pop,Canada,236743205.0
 2021,Pop,Chile,60030878.0
 2021,Pop,Colombia,18098353.0
 2021,Pop,Costa Rica,10016150.0
-2021,Pop,Denmark,47433454.0
+2021,Pop,Denmark,47607212.0
 2021,Pop,Ecuador,7676799.0
-2021,Pop,Finland,20160021.0
+2021,Pop,Finland,24985920.0
 2021,Pop,France,61889256.0
-2021,Pop,Germany,152098872.0
-2021,Pop,Global,6729587191.0
+2021,Pop,Germany,163007384.0
+2021,Pop,Global,7006059138.0
 2021,Pop,Indonesia,209151555.0
-2021,Pop,Ireland,70067228.0
-2021,Pop,Italy,39570370.0
-2021,Pop,Malaysia,88816592.0
+2021,Pop,Ireland,107740514.0
+2021,Pop,Italy,40391410.0
+2021,Pop,Malaysia,88899631.0
 2021,Pop,Mexico,204704312.0
-2021,Pop,Netherlands,114670456.0
-2021,Pop,New Zealand,66750118.0
-2021,Pop,Norway,118678449.0
+2021,Pop,Netherlands,132409042.0
+2021,Pop,New Zealand,69910711.0
+2021,Pop,Norway,121485546.0
 2021,Pop,Peru,19992146.0
-2021,Pop,Philippines,317617505.0
-2021,Pop,Poland,48829121.0
-2021,Pop,Portugal,29434582.0
+2021,Pop,Philippines,322178806.0
+2021,Pop,Poland,50223480.0
+2021,Pop,Portugal,30073358.0
 2021,Pop,Singapore,79147293.0
 2021,Pop,Spain,60039164.0
-2021,Pop,Sweden,71641249.0
-2021,Pop,Switzerland,43087615.0
+2021,Pop,Sweden,77141178.0
+2021,Pop,Switzerland,47968155.0
 2021,Pop,Taiwan,12651877.0
 2021,Pop,Turkey,14202040.0
-2021,Pop,United States of America,1610904133.0
-2021,Pop Edm,Austria,1895581.0
-2021,Pop Edm,Belgium,133185.0
-2021,Pop Edm,Finland,152511.0
-2021,Pop Edm,France,1777195.0
-2021,Pop Edm,Germany,21369647.0
-2021,Pop Edm,Poland,1947766.0
-2021,Pop Edm,Switzerland,2178199.0
-2021,Pop Punk,Australia,34472.0
-2021,Pop R&b,Indonesia,4603192.0
-2021,Pop R&b,Malaysia,293835.0
-2021,Pop R&b,New Zealand,212189.0
-2021,Pop R&b,Philippines,14701143.0
+2021,Pop,United States of America,1712310644.0
 2021,Psych,Australia,11766658.0
 2021,Psych,Finland,19181.0
 2021,Psych,Global,36925593.0
 2021,Psych,Ireland,532112.0
 2021,Psych,New Zealand,24027.0
 2021,Psych,United States of America,66834957.0
+2021,Punk,Australia,18234046.0
 2021,R&b,Argentina,36369290.0
 2021,R&b,Australia,79869595.0
 2021,R&b,Austria,12195980.0
@@ -4913,16 +2745,16 @@ chart_year,Genre,region,sum
 2021,R&b,France,82196507.0
 2021,R&b,Germany,132620251.0
 2021,R&b,Global,2709283062.0
-2021,R&b,Indonesia,8333938.0
+2021,R&b,Indonesia,12937130.0
 2021,R&b,Ireland,14818042.0
 2021,R&b,Italy,55873174.0
-2021,R&b,Malaysia,13427665.0
+2021,R&b,Malaysia,13721500.0
 2021,R&b,Mexico,219582578.0
 2021,R&b,Netherlands,46405839.0
-2021,R&b,New Zealand,11381192.0
+2021,R&b,New Zealand,11593381.0
 2021,R&b,Norway,30259104.0
 2021,R&b,Peru,19979901.0
-2021,R&b,Philippines,33096003.0
+2021,R&b,Philippines,47797146.0
 2021,R&b,Poland,35674936.0
 2021,R&b,Portugal,16140569.0
 2021,R&b,Singapore,13386342.0
@@ -4957,48 +2789,39 @@ chart_year,Genre,region,sum
 2021,Rap,Switzerland,4575885.0
 2021,Rap,Taiwan,38350.0
 2021,Rap,United States of America,1621373530.0
+2021,Reggae,Australia,9966368.0
 2021,Reggae,Costa Rica,9619.0
 2021,Reggae,Ireland,40728.0
 2021,Reggae,Netherlands,80869.0
-2021,Reggae,New Zealand,1524299.0
-2021,Reggae Fusion,Australia,9966368.0
-2021,Reggae Fusion,New Zealand,1377689.0
-2021,Rock,Australia,29602359.0
-2021,Rock,Austria,406734.0
-2021,Rock,Belgium,11418776.0
+2021,Reggae,New Zealand,2901988.0
+2021,Rock,Australia,33258912.0
+2021,Rock,Austria,1175017.0
+2021,Rock,Belgium,11560136.0
 2021,Rock,Brazil,8638668.0
-2021,Rock,Canada,19708151.0
+2021,Rock,Canada,22802178.0
 2021,Rock,Colombia,3663857.0
 2021,Rock,Costa Rica,2605961.0
+2021,Rock,Denmark,118013.0
 2021,Rock,Ecuador,1640458.0
-2021,Rock,Finland,4701801.0
+2021,Rock,Finland,4714679.0
 2021,Rock,France,7497367.0
-2021,Rock,Germany,96696.0
-2021,Rock,Global,725922785.0
+2021,Rock,Germany,1162185.0
+2021,Rock,Global,770526502.0
 2021,Rock,Indonesia,3696787.0
-2021,Rock,Ireland,7488964.0
+2021,Rock,Ireland,8992675.0
 2021,Rock,Italy,18814890.0
 2021,Rock,Malaysia,366269.0
 2021,Rock,Mexico,29869174.0
 2021,Rock,Netherlands,19818180.0
-2021,Rock,New Zealand,4729688.0
+2021,Rock,New Zealand,6757318.0
 2021,Rock,Norway,263330.0
 2021,Rock,Peru,40474.0
 2021,Rock,Philippines,2225149.0
 2021,Rock,Poland,8199666.0
 2021,Rock,Singapore,92260.0
-2021,Rock,Sweden,180730.0
-2021,Rock,Switzerland,7509190.0
-2021,Rock,United States of America,60707520.0
-2021,Rock-and-roll,Australia,76731.0
-2021,Rock-and-roll,Austria,70492.0
-2021,Rock-and-roll,Canada,1628665.0
-2021,Rock-and-roll,Denmark,11385.0
-2021,Rock-and-roll,Global,16246818.0
-2021,Rock-and-roll,Ireland,5962.0
-2021,Rock-and-roll,Sweden,100452.0
-2021,Rock-and-roll,Switzerland,13138.0
-2021,Rock-and-roll,United States of America,16053893.0
+2021,Rock,Sweden,329993.0
+2021,Rock,Switzerland,7625165.0
+2021,Rock,United States of America,86677830.0
 2021,Soul,Australia,9805227.0
 2021,Soul,Austria,257331.0
 2021,Soul,Belgium,1840890.0
@@ -5026,9 +2849,3 @@ chart_year,Genre,region,sum
 2021,Soul,Switzerland,805982.0
 2021,Soul,Taiwan,142725.0
 2021,Soul,United States of America,22091536.0
-2021,Trap,Chile,2721079.0
-2021,Trap,Colombia,276936.0
-2021,Trap,Costa Rica,280570.0
-2021,Trap,Ecuador,248079.0
-2021,Trap,Peru,705162.0
-2021,Trap,Portugal,813612.0
