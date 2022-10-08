@@ -1,4 +1,4 @@
-Title,Artist,danceability,energy,key,loudness,mode,speechiness,acoustics,instrumentalness,liveliness,valence,tempo,duration_ms,time_signature,Explicit_false,Explicit_true,anger,anticipation,disgust,fear,joy,sadness,surprise,trust,negative,positive,n_words,sum
+Title,Artist,danceability,energy,key,loudness,mode,speechiness,acoustics,instrumentalness,liveliness,valence,tempo,duration_ms,time_signature,Explicit_false,Explicit_true,anger,anticipation,disgust,fear,joy,sadness,surprise,trust,negative,positive,n_words,streams
 1.5,21 Savage,0.885,0.52,1,-8.353,1,0.359,0.000244,1.16e-06,0.454,0.306,84.022,148656,4,0,1,8.0,6.0,5.0,8.0,6.0,4.0,5.0,6.0,11.0,8.0,340.0,12276266.0
 1.5,Lil Kleine,0.852,0.469,5,-8.562000000000001,0,0.232,0.112,0.0,0.0936,0.184,101.021,187926,4,0,1,8.0,6.0,5.0,8.0,6.0,4.0,5.0,6.0,11.0,8.0,340.0,742621.0
 10 Feet,Juice WRLD,0.6779999999999999,0.6809999999999999,6,-7.697999999999999,0,0.183,0.466,0.000657,0.263,0.525,104.014,212312,4,0,1,8.0,2.0,5.0,8.0,1.0,7.0,1.0,1.0,10.0,4.0,234.0,2657413.0
