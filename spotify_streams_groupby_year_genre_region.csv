@@ -109,6 +109,11 @@ chart_year,Genre,region,sum
 2017,Alternative Metal,Turkey,327891.0
 2017,Alternative Metal,United States of America,15718646.0
 2017,Alternative Pop,Denmark,8883.0
+2017,Alternative Pop,Indonesia,368381.0
+2017,Alternative Pop,Ireland,195904.0
+2017,Alternative Pop,Malaysia,116690.0
+2017,Alternative Pop,Singapore,177930.0
+2017,Alternative Pop,Taiwan,1147368.0
 2017,Alternative R&b,Australia,43870703.0
 2017,Alternative R&b,Austria,970254.0
 2017,Alternative R&b,Belgium,2319054.0
@@ -170,11 +175,11 @@ chart_year,Genre,region,sum
 2017,Alternative Rock,Spain,424822.0
 2017,Alternative Rock,Sweden,16213363.0
 2017,Alternative Rock,Switzerland,475108.0
-2017,Alternative Rock,Taiwan,1996101.0
+2017,Alternative Rock,Taiwan,1999129.0
 2017,Alternative Rock,Turkey,42220.0
 2017,Alternative Rock,United States of America,3620764.0
 2017,Ambigious / Others,Argentina,10503.0
-2017,Ambigious / Others,Australia,26387227.0
+2017,Ambigious / Others,Australia,26428742.0
 2017,Ambigious / Others,Austria,3938799.0
 2017,Ambigious / Others,Belgium,8910630.0
 2017,Ambigious / Others,Brazil,1138893.0
@@ -189,19 +194,19 @@ chart_year,Genre,region,sum
 2017,Ambigious / Others,Germany,32277965.0
 2017,Ambigious / Others,Global,543326108.0
 2017,Ambigious / Others,Indonesia,5841153.0
-2017,Ambigious / Others,Ireland,15762978.0
+2017,Ambigious / Others,Ireland,15766644.0
 2017,Ambigious / Others,Italy,23646960.0
 2017,Ambigious / Others,Malaysia,3460060.0
-2017,Ambigious / Others,Mexico,772735.0
+2017,Ambigious / Others,Mexico,1096786.0
 2017,Ambigious / Others,Netherlands,51427181.0
 2017,Ambigious / Others,New Zealand,7746472.0
 2017,Ambigious / Others,Norway,27726069.0
 2017,Ambigious / Others,Peru,56360.0
 2017,Ambigious / Others,Philippines,16998176.0
-2017,Ambigious / Others,Poland,7760892.0
-2017,Ambigious / Others,Portugal,3693413.0
+2017,Ambigious / Others,Poland,7824840.0
+2017,Ambigious / Others,Portugal,3696105.0
 2017,Ambigious / Others,Singapore,7089332.0
-2017,Ambigious / Others,Spain,5064063.0
+2017,Ambigious / Others,Spain,5095382.0
 2017,Ambigious / Others,Sweden,41288872.0
 2017,Ambigious / Others,Switzerland,6485162.0
 2017,Ambigious / Others,Taiwan,1276748.0
@@ -225,9 +230,6 @@ chart_year,Genre,region,sum
 2017,Blues,Sweden,95755.0
 2017,Blues,Taiwan,8299.0
 2017,Blues,United States of America,1283367.0
-2017,Britpop,Ireland,195904.0
-2017,C-pop,Singapore,16910.0
-2017,C-pop,Taiwan,172857.0
 2017,Country,Australia,17428846.0
 2017,Country,Belgium,441188.0
 2017,Country,Canada,59251346.0
@@ -248,54 +250,39 @@ chart_year,Genre,region,sum
 2017,Country,Turkey,122180.0
 2017,Country,United States of America,760276078.0
 2017,Dance,Argentina,184691.0
-2017,Dance,Australia,3402719.0
-2017,Dance,Austria,85694.0
-2017,Dance,Belgium,84644.0
+2017,Dance,Australia,5276286.0
+2017,Dance,Austria,90117.0
+2017,Dance,Belgium,480775.0
 2017,Dance,Brazil,1230945.0
-2017,Dance,Canada,1297665.0
+2017,Dance,Canada,1343426.0
 2017,Dance,Chile,917838.0
 2017,Dance,Colombia,313122.0
 2017,Dance,Costa Rica,566182.0
-2017,Dance,Denmark,105314.0
+2017,Dance,Denmark,209418.0
 2017,Dance,Ecuador,52388.0
 2017,Dance,Finland,441331.0
-2017,Dance,France,61440.0
-2017,Dance,Germany,1476186.0
-2017,Dance,Global,13056039.0
+2017,Dance,France,218481.0
+2017,Dance,Germany,1550536.0
+2017,Dance,Global,15120658.0
 2017,Dance,Indonesia,65187.0
-2017,Dance,Ireland,308995.0
+2017,Dance,Ireland,763305.0
 2017,Dance,Italy,540273.0
 2017,Dance,Malaysia,32675.0
 2017,Dance,Mexico,241482.0
-2017,Dance,Netherlands,595761.0
-2017,Dance,New Zealand,187728.0
+2017,Dance,Netherlands,716139.0
+2017,Dance,New Zealand,450460.0
 2017,Dance,Norway,185469.0
 2017,Dance,Peru,340881.0
 2017,Dance,Philippines,37428.0
-2017,Dance,Poland,419870.0
+2017,Dance,Poland,502905.0
 2017,Dance,Portugal,126294.0
 2017,Dance,Singapore,43129.0
 2017,Dance,Spain,1024513.0
-2017,Dance,Sweden,136319.0
-2017,Dance,Switzerland,93071.0
+2017,Dance,Sweden,190226.0
+2017,Dance,Switzerland,140285.0
 2017,Dance,Taiwan,73978.0
 2017,Dance,Turkey,753967.0
-2017,Dance,United States of America,1215733.0
-2017,Disco,Australia,1873567.0
-2017,Disco,Austria,4423.0
-2017,Disco,Belgium,396131.0
-2017,Disco,Canada,45761.0
-2017,Disco,Denmark,104104.0
-2017,Disco,France,157041.0
-2017,Disco,Germany,74350.0
-2017,Disco,Global,2064619.0
-2017,Disco,Ireland,454310.0
-2017,Disco,Netherlands,120378.0
-2017,Disco,New Zealand,262732.0
-2017,Disco,Poland,83035.0
-2017,Disco,Sweden,53907.0
-2017,Disco,Switzerland,47214.0
-2017,Disco,United States of America,745118.0
+2017,Dance,United States of America,1960851.0
 2017,EDM,Argentina,5262037.0
 2017,EDM,Australia,39231122.0
 2017,EDM,Austria,15868654.0
@@ -442,11 +429,8 @@ chart_year,Genre,region,sum
 2017,Indie,Taiwan,619725.0
 2017,Indie,Turkey,180007.0
 2017,Indie,United States of America,8042753.0
-2017,J-pop,Indonesia,368381.0
-2017,J-pop,Malaysia,116690.0
-2017,J-pop,Singapore,161020.0
-2017,J-pop,Taiwan,214975.0
-2017,J-rock,Taiwan,3028.0
+2017,Jazz,Global,862954.0
+2017,Jazz,Ireland,1671524.0
 2017,Jazz,Netherlands,238426.0
 2017,Jazz,Norway,85550.0
 2017,K-pop,Argentina,17202.0
@@ -471,7 +455,6 @@ chart_year,Genre,region,sum
 2017,K-pop,Taiwan,1389943.0
 2017,K-pop,Turkey,99477.0
 2017,K-pop,United States of America,1356962.0
-2017,Mandopop,Taiwan,759536.0
 2017,Metal,Australia,221125.0
 2017,Metal,Austria,3348.0
 2017,Metal,Brazil,97843.0
@@ -518,12 +501,6 @@ chart_year,Genre,region,sum
 2017,Pop,Taiwan,69479676.0
 2017,Pop,Turkey,88629713.0
 2017,Pop,United States of America,3871721872.0
-2017,Psych,Australia,41515.0
-2017,Psych,Ireland,3666.0
-2017,Psych,Mexico,324051.0
-2017,Psych,Poland,63948.0
-2017,Psych,Portugal,2692.0
-2017,Psych,Spain,31319.0
 2017,Punk,Australia,174846.0
 2017,Punk,Austria,4415.0
 2017,Punk,Ireland,8886.0
@@ -670,8 +647,6 @@ chart_year,Genre,region,sum
 2017,Soul,Taiwan,171867.0
 2017,Soul,Turkey,7178199.0
 2017,Soul,United States of America,2322341.0
-2017,Swing,Global,862954.0
-2017,Swing,Ireland,1671524.0
 2018,A Cappella,Australia,197650.0
 2018,A Cappella,Austria,470287.0
 2018,A Cappella,Belgium,41702.0
@@ -754,7 +729,8 @@ chart_year,Genre,region,sum
 2018,Alternative Metal,United States of America,392688.0
 2018,Alternative Pop,Australia,16333524.0
 2018,Alternative Pop,New Zealand,738318.0
-2018,Alternative Pop,Taiwan,5376.0
+2018,Alternative Pop,Singapore,25390.0
+2018,Alternative Pop,Taiwan,643039.0
 2018,Alternative R&b,Australia,70000274.0
 2018,Alternative R&b,Austria,1786035.0
 2018,Alternative R&b,Belgium,3619621.0
@@ -828,7 +804,7 @@ chart_year,Genre,region,sum
 2018,Ambigious / Others,Colombia,9851409.0
 2018,Ambigious / Others,Costa Rica,2684878.0
 2018,Ambigious / Others,Denmark,46582689.0
-2018,Ambigious / Others,Ecuador,4799391.0
+2018,Ambigious / Others,Ecuador,4815020.0
 2018,Ambigious / Others,Finland,13519372.0
 2018,Ambigious / Others,France,53782674.0
 2018,Ambigious / Others,Germany,68289634.0
@@ -837,14 +813,14 @@ chart_year,Genre,region,sum
 2018,Ambigious / Others,Ireland,27340516.0
 2018,Ambigious / Others,Italy,31948676.0
 2018,Ambigious / Others,Malaysia,34662764.0
-2018,Ambigious / Others,Mexico,25250767.0
+2018,Ambigious / Others,Mexico,26636070.0
 2018,Ambigious / Others,Netherlands,65060713.0
 2018,Ambigious / Others,New Zealand,29320375.0
 2018,Ambigious / Others,Norway,57840878.0
 2018,Ambigious / Others,Peru,15220153.0
 2018,Ambigious / Others,Philippines,100609221.0
-2018,Ambigious / Others,Poland,24628674.0
-2018,Ambigious / Others,Portugal,8091830.0
+2018,Ambigious / Others,Poland,24805616.0
+2018,Ambigious / Others,Portugal,8103673.0
 2018,Ambigious / Others,Singapore,33946722.0
 2018,Ambigious / Others,Spain,27701690.0
 2018,Ambigious / Others,Sweden,80231700.0
@@ -873,8 +849,6 @@ chart_year,Genre,region,sum
 2018,Blues,Sweden,555373.0
 2018,Blues,Switzerland,152123.0
 2018,Blues,United States of America,3842405.0
-2018,C-pop,Singapore,25390.0
-2018,C-pop,Taiwan,12427.0
 2018,Country,Australia,9788086.0
 2018,Country,Belgium,28162.0
 2018,Country,Canada,79675246.0
@@ -891,37 +865,28 @@ chart_year,Genre,region,sum
 2018,Country,Switzerland,29643.0
 2018,Country,Taiwan,21705.0
 2018,Country,United States of America,938761848.0
-2018,Dance,Australia,847008.0
-2018,Dance,Austria,8675.0
-2018,Dance,Belgium,148911.0
+2018,Dance,Australia,3291145.0
+2018,Dance,Austria,16234.0
+2018,Dance,Belgium,616315.0
+2018,Dance,Canada,215151.0
 2018,Dance,Costa Rica,75573.0
-2018,Dance,Denmark,532073.0
+2018,Dance,Denmark,657732.0
 2018,Dance,Finland,196105.0
-2018,Dance,France,78182.0
+2018,Dance,France,1288464.0
 2018,Dance,Germany,182798.0
-2018,Dance,Ireland,188410.0
+2018,Dance,Global,10191773.0
+2018,Dance,Ireland,1085332.0
 2018,Dance,Malaysia,8871.0
-2018,Dance,Norway,62800.0
-2018,Dance,Poland,830657.0
-2018,Dance,Sweden,580365.0
+2018,Dance,Mexico,52279.0
+2018,Dance,Netherlands,259485.0
+2018,Dance,New Zealand,653965.0
+2018,Dance,Norway,112282.0
+2018,Dance,Poland,871053.0
+2018,Dance,Sweden,969037.0
+2018,Dance,Switzerland,13923.0
 2018,Dance,Taiwan,54012.0
 2018,Dance,Turkey,29255.0
-2018,Disco,Australia,2444137.0
-2018,Disco,Austria,7559.0
-2018,Disco,Belgium,467404.0
-2018,Disco,Canada,215151.0
-2018,Disco,Denmark,125659.0
-2018,Disco,France,1210282.0
-2018,Disco,Global,10191773.0
-2018,Disco,Ireland,896922.0
-2018,Disco,Mexico,52279.0
-2018,Disco,Netherlands,259485.0
-2018,Disco,New Zealand,653965.0
-2018,Disco,Norway,49482.0
-2018,Disco,Poland,40396.0
-2018,Disco,Sweden,388672.0
-2018,Disco,Switzerland,13923.0
-2018,Disco,United States of America,3005332.0
+2018,Dance,United States of America,3005332.0
 2018,EDM,Argentina,498824.0
 2018,EDM,Australia,5671170.0
 2018,EDM,Austria,6543072.0
@@ -1032,9 +997,17 @@ chart_year,Genre,region,sum
 2018,Indie,Sweden,136857.0
 2018,Indie,Taiwan,4020.0
 2018,Indie,Turkey,88346.0
-2018,J-pop,Taiwan,26066.0
+2018,Jazz,Austria,1052394.0
+2018,Jazz,Denmark,3885350.0
+2018,Jazz,Germany,43187708.0
+2018,Jazz,Global,69139364.0
+2018,Jazz,Ireland,3201754.0
 2018,Jazz,Netherlands,153250.0
-2018,Jazz,Norway,20242.0
+2018,Jazz,Norway,49948.0
+2018,Jazz,Portugal,1352238.0
+2018,Jazz,Sweden,2088099.0
+2018,Jazz,Switzerland,3044108.0
+2018,Jazz,Taiwan,2887.0
 2018,K-pop,Argentina,60619.0
 2018,K-pop,Australia,212981.0
 2018,K-pop,Austria,5917.0
@@ -1056,7 +1029,6 @@ chart_year,Genre,region,sum
 2018,K-pop,Taiwan,1673473.0
 2018,K-pop,Turkey,133087.0
 2018,K-pop,United States of America,2767565.0
-2018,Mandopop,Taiwan,599170.0
 2018,Metal,Australia,266746.0
 2018,Metal,Canada,39225.0
 2018,Metal,Colombia,58264.0
@@ -1102,10 +1074,6 @@ chart_year,Genre,region,sum
 2018,Pop,Taiwan,67291670.0
 2018,Pop,Turkey,49666007.0
 2018,Pop,United States of America,2986497437.0
-2018,Psych,Ecuador,15629.0
-2018,Psych,Mexico,1385303.0
-2018,Psych,Poland,176942.0
-2018,Psych,Portugal,11843.0
 2018,Punk,Australia,483363.0
 2018,Punk,Ireland,5225.0
 2018,R&b,Argentina,1167043.0
@@ -1248,16 +1216,6 @@ chart_year,Genre,region,sum
 2018,Soul,Taiwan,34552.0
 2018,Soul,Turkey,1536454.0
 2018,Soul,United States of America,3951910.0
-2018,Swing,Austria,1052394.0
-2018,Swing,Denmark,3885350.0
-2018,Swing,Germany,43187708.0
-2018,Swing,Global,69139364.0
-2018,Swing,Ireland,3201754.0
-2018,Swing,Norway,29706.0
-2018,Swing,Portugal,1352238.0
-2018,Swing,Sweden,2088099.0
-2018,Swing,Switzerland,3044108.0
-2018,Swing,Taiwan,2887.0
 2019,A Cappella,Australia,121583.0
 2019,A Cappella,Austria,564816.0
 2019,A Cappella,Canada,1207928.0
@@ -1314,10 +1272,11 @@ chart_year,Genre,region,sum
 2019,Alternative Metal,Sweden,417152.0
 2019,Alternative Metal,United States of America,13415104.0
 2019,Alternative Pop,Australia,57941542.0
+2019,Alternative Pop,Ireland,56739.0
 2019,Alternative Pop,Malaysia,45532.0
 2019,Alternative Pop,New Zealand,3380406.0
-2019,Alternative Pop,Singapore,12995.0
-2019,Alternative Pop,Taiwan,6017.0
+2019,Alternative Pop,Singapore,608126.0
+2019,Alternative Pop,Taiwan,27451665.0
 2019,Alternative R&b,Argentina,1530156.0
 2019,Alternative R&b,Australia,125732651.0
 2019,Alternative R&b,Austria,2818221.0
@@ -1385,39 +1344,39 @@ chart_year,Genre,region,sum
 2019,Alternative Rock,Taiwan,956377.0
 2019,Alternative Rock,United States of America,34228474.0
 2019,Ambigious / Others,Argentina,18240632.0
-2019,Ambigious / Others,Australia,207428895.0
+2019,Ambigious / Others,Australia,216574019.0
 2019,Ambigious / Others,Austria,10257644.0
-2019,Ambigious / Others,Belgium,30581740.0
+2019,Ambigious / Others,Belgium,30591175.0
 2019,Ambigious / Others,Brazil,28523550.0
-2019,Ambigious / Others,Canada,156407554.0
+2019,Ambigious / Others,Canada,156523740.0
 2019,Ambigious / Others,Chile,13580497.0
 2019,Ambigious / Others,Colombia,9736014.0
 2019,Ambigious / Others,Costa Rica,8173549.0
-2019,Ambigious / Others,Denmark,44941880.0
+2019,Ambigious / Others,Denmark,44952812.0
 2019,Ambigious / Others,Ecuador,6558298.0
-2019,Ambigious / Others,Finland,10888249.0
+2019,Ambigious / Others,Finland,10909570.0
 2019,Ambigious / Others,France,99757911.0
 2019,Ambigious / Others,Germany,95611014.0
-2019,Ambigious / Others,Global,2865862346.0
+2019,Ambigious / Others,Global,2892837933.0
 2019,Ambigious / Others,Indonesia,55048328.0
-2019,Ambigious / Others,Ireland,42365271.0
+2019,Ambigious / Others,Ireland,42996999.0
 2019,Ambigious / Others,Italy,27281112.0
-2019,Ambigious / Others,Malaysia,46435292.0
-2019,Ambigious / Others,Mexico,133374097.0
-2019,Ambigious / Others,Netherlands,111100895.0
-2019,Ambigious / Others,New Zealand,39792725.0
-2019,Ambigious / Others,Norway,48966263.0
+2019,Ambigious / Others,Malaysia,46441255.0
+2019,Ambigious / Others,Mexico,133873662.0
+2019,Ambigious / Others,Netherlands,111138733.0
+2019,Ambigious / Others,New Zealand,40512188.0
+2019,Ambigious / Others,Norway,48979786.0
 2019,Ambigious / Others,Peru,19531887.0
 2019,Ambigious / Others,Philippines,93325052.0
-2019,Ambigious / Others,Poland,47405279.0
-2019,Ambigious / Others,Portugal,12623985.0
+2019,Ambigious / Others,Poland,47417942.0
+2019,Ambigious / Others,Portugal,12669959.0
 2019,Ambigious / Others,Singapore,50112828.0
 2019,Ambigious / Others,Spain,122760418.0
-2019,Ambigious / Others,Sweden,56391556.0
+2019,Ambigious / Others,Sweden,56423803.0
 2019,Ambigious / Others,Switzerland,13098048.0
 2019,Ambigious / Others,Taiwan,14466771.0
 2019,Ambigious / Others,Turkey,5574896.0
-2019,Ambigious / Others,United States of America,919027079.0
+2019,Ambigious / Others,United States of America,957658681.0
 2019,Blues,Australia,1444754.0
 2019,Blues,Austria,26773.0
 2019,Blues,Belgium,267731.0
@@ -1439,8 +1398,6 @@ chart_year,Genre,region,sum
 2019,Blues,Sweden,391830.0
 2019,Blues,Switzerland,250450.0
 2019,Blues,United States of America,14934745.0
-2019,Britpop,Ireland,56739.0
-2019,C-pop,Singapore,36852.0
 2019,Country,Australia,8507542.0
 2019,Country,Belgium,109243.0
 2019,Country,Canada,86615862.0
@@ -1457,34 +1414,26 @@ chart_year,Genre,region,sum
 2019,Country,Switzerland,37875.0
 2019,Country,Taiwan,251288.0
 2019,Country,United States of America,778818546.0
-2019,Dance,Australia,295687.0
+2019,Dance,Australia,1354241.0
 2019,Dance,Austria,1123555.0
-2019,Dance,Belgium,310981.0
+2019,Dance,Belgium,461732.0
+2019,Dance,Canada,209790.0
 2019,Dance,Costa Rica,80078.0
-2019,Dance,Denmark,2102359.0
+2019,Dance,Denmark,2197879.0
 2019,Dance,Finland,299861.0
-2019,Dance,France,15537714.0
+2019,Dance,France,15694140.0
 2019,Dance,Germany,20683927.0
+2019,Dance,Global,4013545.0
+2019,Dance,Ireland,395339.0
 2019,Dance,Italy,44746.0
-2019,Dance,New Zealand,22939.0
-2019,Dance,Norway,15460.0
+2019,Dance,Netherlands,101547.0
+2019,Dance,New Zealand,744972.0
+2019,Dance,Norway,26190.0
 2019,Dance,Poland,665576.0
-2019,Dance,Sweden,28905.0
-2019,Dance,Switzerland,899965.0
+2019,Dance,Sweden,80004.0
+2019,Dance,Switzerland,911339.0
 2019,Dance,Taiwan,4245.0
-2019,Disco,Australia,1058554.0
-2019,Disco,Belgium,150751.0
-2019,Disco,Canada,209790.0
-2019,Disco,Denmark,95520.0
-2019,Disco,France,156426.0
-2019,Disco,Global,4013545.0
-2019,Disco,Ireland,395339.0
-2019,Disco,Netherlands,101547.0
-2019,Disco,New Zealand,722033.0
-2019,Disco,Norway,10730.0
-2019,Disco,Sweden,51099.0
-2019,Disco,Switzerland,11374.0
-2019,Disco,United States of America,1741981.0
+2019,Dance,United States of America,1741981.0
 2019,EDM,Australia,27519776.0
 2019,EDM,Austria,2625043.0
 2019,EDM,Belgium,8692240.0
@@ -1597,9 +1546,14 @@ chart_year,Genre,region,sum
 2019,Indie,Singapore,58177.0
 2019,Indie,Sweden,6141612.0
 2019,Indie,United States of America,5614655.0
-2019,J-pop,Taiwan,12848.0
+2019,Jazz,Austria,3028.0
+2019,Jazz,Belgium,448680.0
+2019,Jazz,Germany,2064654.0
+2019,Jazz,Ireland,782973.0
+2019,Jazz,Italy,11441744.0
 2019,Jazz,Netherlands,93342.0
-2019,Jazz,Norway,16030.0
+2019,Jazz,Norway,74609.0
+2019,Jazz,Switzerland,20282.0
 2019,K-pop,Argentina,1329931.0
 2019,K-pop,Australia,4348191.0
 2019,K-pop,Austria,303162.0
@@ -1634,8 +1588,6 @@ chart_year,Genre,region,sum
 2019,K-pop,Taiwan,2785152.0
 2019,K-pop,Turkey,7411958.0
 2019,K-pop,United States of America,20604815.0
-2019,Mandopop,Singapore,558279.0
-2019,Mandopop,Taiwan,27432800.0
 2019,Metal,Colombia,377106.0
 2019,Metal,Costa Rica,321798.0
 2019,Metal,Finland,40085.0
@@ -1675,22 +1627,6 @@ chart_year,Genre,region,sum
 2019,Pop,Taiwan,85898511.0
 2019,Pop,Turkey,45873153.0
 2019,Pop,United States of America,3451351494.0
-2019,Psych,Australia,9145124.0
-2019,Psych,Belgium,9435.0
-2019,Psych,Canada,116186.0
-2019,Psych,Denmark,10932.0
-2019,Psych,Finland,21321.0
-2019,Psych,Global,26975587.0
-2019,Psych,Ireland,631728.0
-2019,Psych,Malaysia,5963.0
-2019,Psych,Mexico,499565.0
-2019,Psych,Netherlands,37838.0
-2019,Psych,New Zealand,719463.0
-2019,Psych,Norway,13523.0
-2019,Psych,Poland,12663.0
-2019,Psych,Portugal,45974.0
-2019,Psych,Sweden,32247.0
-2019,Psych,United States of America,38631602.0
 2019,Punk,Australia,162531.0
 2019,Punk,Canada,30762.0
 2019,Punk,United States of America,2084114.0
@@ -1825,13 +1761,6 @@ chart_year,Genre,region,sum
 2019,Soul,Taiwan,11226.0
 2019,Soul,Turkey,13308.0
 2019,Soul,United States of America,1454015.0
-2019,Swing,Austria,3028.0
-2019,Swing,Belgium,448680.0
-2019,Swing,Germany,2064654.0
-2019,Swing,Ireland,782973.0
-2019,Swing,Italy,11441744.0
-2019,Swing,Norway,58579.0
-2019,Swing,Switzerland,20282.0
 2020,A Cappella,Australia,125302.0
 2020,A Cappella,Austria,707719.0
 2020,A Cappella,Belgium,28812.0
@@ -1887,7 +1816,10 @@ chart_year,Genre,region,sum
 2020,Alternative Metal,Philippines,10308044.0
 2020,Alternative Metal,United States of America,259842.0
 2020,Alternative Pop,Australia,12714116.0
+2020,Alternative Pop,Malaysia,19141.0
 2020,Alternative Pop,New Zealand,116116.0
+2020,Alternative Pop,Singapore,2889056.0
+2020,Alternative Pop,Taiwan,35859877.0
 2020,Alternative R&b,Argentina,14917050.0
 2020,Alternative R&b,Australia,77782556.0
 2020,Alternative R&b,Austria,7868769.0
@@ -1955,39 +1887,39 @@ chart_year,Genre,region,sum
 2020,Alternative Rock,Turkey,3843594.0
 2020,Alternative Rock,United States of America,76101821.0
 2020,Ambigious / Others,Argentina,1229807.0
-2020,Ambigious / Others,Australia,152558409.0
+2020,Ambigious / Others,Australia,175869474.0
 2020,Ambigious / Others,Austria,9044511.0
-2020,Ambigious / Others,Belgium,18182943.0
+2020,Ambigious / Others,Belgium,18326344.0
 2020,Ambigious / Others,Brazil,1839165.0
-2020,Ambigious / Others,Canada,109300789.0
+2020,Ambigious / Others,Canada,110138848.0
 2020,Ambigious / Others,Chile,1191970.0
 2020,Ambigious / Others,Colombia,250480.0
 2020,Ambigious / Others,Costa Rica,2350493.0
-2020,Ambigious / Others,Denmark,26461664.0
+2020,Ambigious / Others,Denmark,26485491.0
 2020,Ambigious / Others,Ecuador,905078.0
-2020,Ambigious / Others,Finland,4423599.0
+2020,Ambigious / Others,Finland,4448829.0
 2020,Ambigious / Others,France,50897064.0
 2020,Ambigious / Others,Germany,94622351.0
-2020,Ambigious / Others,Global,1739301627.0
+2020,Ambigious / Others,Global,1941997419.0
 2020,Ambigious / Others,Indonesia,60405397.0
-2020,Ambigious / Others,Ireland,25612886.0
+2020,Ambigious / Others,Ireland,27725231.0
 2020,Ambigious / Others,Italy,21845270.0
 2020,Ambigious / Others,Malaysia,25674697.0
 2020,Ambigious / Others,Mexico,9942233.0
-2020,Ambigious / Others,Netherlands,64574237.0
-2020,Ambigious / Others,New Zealand,29191388.0
-2020,Ambigious / Others,Norway,30973755.0
+2020,Ambigious / Others,Netherlands,64950161.0
+2020,Ambigious / Others,New Zealand,31421171.0
+2020,Ambigious / Others,Norway,31019650.0
 2020,Ambigious / Others,Peru,2376497.0
 2020,Ambigious / Others,Philippines,40164849.0
-2020,Ambigious / Others,Poland,31816690.0
-2020,Ambigious / Others,Portugal,5563468.0
+2020,Ambigious / Others,Poland,31834933.0
+2020,Ambigious / Others,Portugal,5956645.0
 2020,Ambigious / Others,Singapore,25653472.0
 2020,Ambigious / Others,Spain,18224505.0
-2020,Ambigious / Others,Sweden,46650429.0
-2020,Ambigious / Others,Switzerland,13578218.0
+2020,Ambigious / Others,Sweden,46703120.0
+2020,Ambigious / Others,Switzerland,13585263.0
 2020,Ambigious / Others,Taiwan,3936997.0
-2020,Ambigious / Others,Turkey,5355643.0
-2020,Ambigious / Others,United States of America,412703912.0
+2020,Ambigious / Others,Turkey,5379865.0
+2020,Ambigious / Others,United States of America,521675867.0
 2020,Blues,Australia,1857753.0
 2020,Blues,Austria,97825.0
 2020,Blues,Belgium,277682.0
@@ -2009,7 +1941,6 @@ chart_year,Genre,region,sum
 2020,Blues,Sweden,481192.0
 2020,Blues,Switzerland,244591.0
 2020,Blues,United States of America,28265156.0
-2020,C-pop,Singapore,49492.0
 2020,Country,Australia,4370332.0
 2020,Country,Belgium,16647.0
 2020,Country,Canada,89117809.0
@@ -2021,43 +1952,26 @@ chart_year,Genre,region,sum
 2020,Country,Portugal,8924.0
 2020,Country,Switzerland,13791.0
 2020,Country,United States of America,883272454.0
-2020,Dance,Australia,11500430.0
-2020,Dance,Austria,1146615.0
-2020,Dance,Belgium,1804605.0
-2020,Dance,Canada,444837.0
-2020,Dance,Denmark,3538073.0
-2020,Dance,Finland,464611.0
-2020,Dance,France,6706967.0
-2020,Dance,Germany,4057973.0
-2020,Dance,Global,2402527.0
-2020,Dance,Ireland,6152.0
+2020,Dance,Australia,11853162.0
+2020,Dance,Austria,1155841.0
+2020,Dance,Belgium,1830154.0
+2020,Dance,Canada,805982.0
+2020,Dance,Denmark,3628461.0
+2020,Dance,Finland,477301.0
+2020,Dance,France,6909713.0
+2020,Dance,Germany,4179366.0
+2020,Dance,Global,8681079.0
+2020,Dance,Ireland,104330.0
 2020,Dance,Italy,105992.0
-2020,Dance,Netherlands,29235.0
-2020,Dance,New Zealand,139821.0
-2020,Dance,Norway,113387.0
+2020,Dance,Netherlands,116756.0
+2020,Dance,New Zealand,357891.0
+2020,Dance,Norway,154003.0
 2020,Dance,Poland,185320.0
-2020,Dance,Singapore,20668.0
-2020,Dance,Sweden,76462.0
-2020,Dance,Switzerland,1579858.0
+2020,Dance,Singapore,27529.0
+2020,Dance,Sweden,192880.0
+2020,Dance,Switzerland,1606824.0
 2020,Dance,Taiwan,284408.0
-2020,Dance,United States of America,549543.0
-2020,Disco,Australia,352732.0
-2020,Disco,Austria,9226.0
-2020,Disco,Belgium,25549.0
-2020,Disco,Canada,361145.0
-2020,Disco,Denmark,90388.0
-2020,Disco,Finland,12690.0
-2020,Disco,France,202746.0
-2020,Disco,Germany,121393.0
-2020,Disco,Global,6278552.0
-2020,Disco,Ireland,98178.0
-2020,Disco,Netherlands,87521.0
-2020,Disco,New Zealand,218070.0
-2020,Disco,Norway,40616.0
-2020,Disco,Singapore,6861.0
-2020,Disco,Sweden,116418.0
-2020,Disco,Switzerland,26966.0
-2020,Disco,United States of America,2820420.0
+2020,Dance,United States of America,3369963.0
 2020,EDM,Argentina,934461.0
 2020,EDM,Australia,57066892.0
 2020,EDM,Austria,7171147.0
@@ -2186,8 +2100,9 @@ chart_year,Genre,region,sum
 2020,Indie,Taiwan,2813132.0
 2020,Indie,Turkey,12020589.0
 2020,Indie,United States of America,202283569.0
-2020,J-pop,Taiwan,12230.0
-2020,Jazz,Netherlands,244164.0
+2020,Jazz,Belgium,626170.0
+2020,Jazz,Ireland,530232.0
+2020,Jazz,Netherlands,558307.0
 2020,K-pop,Argentina,9090962.0
 2020,K-pop,Australia,15268533.0
 2020,K-pop,Austria,1372855.0
@@ -2222,9 +2137,6 @@ chart_year,Genre,region,sum
 2020,K-pop,Taiwan,12826078.0
 2020,K-pop,Turkey,5553114.0
 2020,K-pop,United States of America,92475492.0
-2020,Mandopop,Malaysia,19141.0
-2020,Mandopop,Singapore,2839564.0
-2020,Mandopop,Taiwan,35847647.0
 2020,Metal,Australia,391633.0
 2020,Metal,Austria,56290.0
 2020,Metal,Belgium,13526.0
@@ -2271,22 +2183,6 @@ chart_year,Genre,region,sum
 2020,Pop,Taiwan,71637399.0
 2020,Pop,Turkey,69102829.0
 2020,Pop,United States of America,3157391281.0
-2020,Psych,Australia,23311065.0
-2020,Psych,Belgium,143401.0
-2020,Psych,Canada,838059.0
-2020,Psych,Denmark,23827.0
-2020,Psych,Finland,25230.0
-2020,Psych,Global,202695792.0
-2020,Psych,Ireland,2112345.0
-2020,Psych,Netherlands,375924.0
-2020,Psych,New Zealand,2229783.0
-2020,Psych,Norway,45895.0
-2020,Psych,Poland,18243.0
-2020,Psych,Portugal,393177.0
-2020,Psych,Sweden,52691.0
-2020,Psych,Switzerland,7045.0
-2020,Psych,Turkey,24222.0
-2020,Psych,United States of America,108971955.0
 2020,Punk,Australia,76331.0
 2020,R&b,Argentina,58004862.0
 2020,R&b,Australia,163553926.0
@@ -2427,9 +2323,6 @@ chart_year,Genre,region,sum
 2020,Soul,Switzerland,3047635.0
 2020,Soul,Taiwan,1144641.0
 2020,Soul,United States of America,159569495.0
-2020,Swing,Belgium,626170.0
-2020,Swing,Ireland,530232.0
-2020,Swing,Netherlands,314143.0
 2021,A Cappella,Austria,599950.0
 2021,A Cappella,Germany,709241.0
 2021,A Cappella,Sweden,176979.0
@@ -2448,6 +2341,8 @@ chart_year,Genre,region,sum
 2021,Alternative Metal,Germany,745542.0
 2021,Alternative Metal,Philippines,8493952.0
 2021,Alternative Metal,United States of America,592393.0
+2021,Alternative Pop,Singapore,479231.0
+2021,Alternative Pop,Taiwan,14559603.0
 2021,Alternative R&b,Australia,4201382.0
 2021,Alternative R&b,Austria,797462.0
 2021,Alternative R&b,Belgium,1404038.0
@@ -2494,7 +2389,7 @@ chart_year,Genre,region,sum
 2021,Alternative Rock,Turkey,14114872.0
 2021,Alternative Rock,United States of America,258016567.0
 2021,Ambigious / Others,Argentina,126402.0
-2021,Ambigious / Others,Australia,85831758.0
+2021,Ambigious / Others,Australia,97598416.0
 2021,Ambigious / Others,Austria,9462265.0
 2021,Ambigious / Others,Belgium,11334904.0
 2021,Ambigious / Others,Brazil,913624.0
@@ -2502,17 +2397,17 @@ chart_year,Genre,region,sum
 2021,Ambigious / Others,Colombia,37910.0
 2021,Ambigious / Others,Costa Rica,706759.0
 2021,Ambigious / Others,Denmark,18749662.0
-2021,Ambigious / Others,Finland,2386553.0
+2021,Ambigious / Others,Finland,2405734.0
 2021,Ambigious / Others,France,3973277.0
 2021,Ambigious / Others,Germany,65991734.0
-2021,Ambigious / Others,Global,1070338762.0
+2021,Ambigious / Others,Global,1107264355.0
 2021,Ambigious / Others,Indonesia,19423411.0
-2021,Ambigious / Others,Ireland,12649816.0
+2021,Ambigious / Others,Ireland,13181928.0
 2021,Ambigious / Others,Italy,10149232.0
 2021,Ambigious / Others,Malaysia,9182502.0
 2021,Ambigious / Others,Mexico,1222707.0
 2021,Ambigious / Others,Netherlands,11020934.0
-2021,Ambigious / Others,New Zealand,11178130.0
+2021,Ambigious / Others,New Zealand,11202157.0
 2021,Ambigious / Others,Norway,13091098.0
 2021,Ambigious / Others,Peru,241320.0
 2021,Ambigious / Others,Philippines,10386946.0
@@ -2522,7 +2417,7 @@ chart_year,Genre,region,sum
 2021,Ambigious / Others,Sweden,15882225.0
 2021,Ambigious / Others,Switzerland,8883179.0
 2021,Ambigious / Others,Turkey,3830309.0
-2021,Ambigious / Others,United States of America,309514935.0
+2021,Ambigious / Others,United States of America,376349892.0
 2021,Blues,Australia,730747.0
 2021,Blues,Austria,99505.0
 2021,Blues,Canada,2324228.0
@@ -2534,34 +2429,28 @@ chart_year,Genre,region,sum
 2021,Blues,Sweden,24842.0
 2021,Blues,Switzerland,24544.0
 2021,Blues,United States of America,27545163.0
-2021,C-pop,Singapore,42205.0
 2021,Country,Australia,4459008.0
 2021,Country,Canada,63912149.0
 2021,Country,Global,3063747.0
 2021,Country,New Zealand,2782260.0
 2021,Country,United States of America,607575173.0
-2021,Dance,Australia,1942703.0
-2021,Dance,Austria,212501.0
-2021,Dance,Denmark,3489689.0
-2021,Dance,Finland,26088.0
-2021,Dance,Switzerland,369935.0
-2021,Disco,Australia,732691.0
-2021,Disco,Austria,17017.0
-2021,Disco,Belgium,294290.0
-2021,Disco,Canada,931141.0
-2021,Disco,Denmark,203477.0
-2021,Disco,Finland,8632.0
-2021,Disco,France,1314629.0
-2021,Disco,Germany,50319.0
-2021,Disco,Global,7550721.0
-2021,Disco,Ireland,345620.0
-2021,Disco,Netherlands,892100.0
-2021,Disco,New Zealand,378877.0
-2021,Disco,Norway,35545.0
-2021,Disco,Singapore,7113.0
-2021,Disco,Sweden,101804.0
-2021,Disco,Switzerland,193078.0
-2021,Disco,United States of America,3701795.0
+2021,Dance,Australia,2675394.0
+2021,Dance,Austria,229518.0
+2021,Dance,Belgium,294290.0
+2021,Dance,Canada,931141.0
+2021,Dance,Denmark,3693166.0
+2021,Dance,Finland,34720.0
+2021,Dance,France,1314629.0
+2021,Dance,Germany,50319.0
+2021,Dance,Global,7550721.0
+2021,Dance,Ireland,345620.0
+2021,Dance,Netherlands,892100.0
+2021,Dance,New Zealand,378877.0
+2021,Dance,Norway,35545.0
+2021,Dance,Singapore,7113.0
+2021,Dance,Sweden,101804.0
+2021,Dance,Switzerland,563013.0
+2021,Dance,United States of America,3701795.0
 2021,EDM,Australia,18274247.0
 2021,EDM,Austria,5019617.0
 2021,EDM,Belgium,8117318.0
@@ -2687,8 +2576,6 @@ chart_year,Genre,region,sum
 2021,K-pop,Taiwan,7147227.0
 2021,K-pop,Turkey,787830.0
 2021,K-pop,United States of America,53149613.0
-2021,Mandopop,Singapore,437026.0
-2021,Mandopop,Taiwan,14559603.0
 2021,Pop,Argentina,77717472.0
 2021,Pop,Australia,527601928.0
 2021,Pop,Austria,29486958.0
@@ -2723,12 +2610,6 @@ chart_year,Genre,region,sum
 2021,Pop,Taiwan,12651877.0
 2021,Pop,Turkey,14202040.0
 2021,Pop,United States of America,1712310644.0
-2021,Psych,Australia,11766658.0
-2021,Psych,Finland,19181.0
-2021,Psych,Global,36925593.0
-2021,Psych,Ireland,532112.0
-2021,Psych,New Zealand,24027.0
-2021,Psych,United States of America,66834957.0
 2021,Punk,Australia,18234046.0
 2021,R&b,Argentina,36369290.0
 2021,R&b,Australia,79869595.0
