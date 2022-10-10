@@ -1,0 +1,140 @@
+key,genre,lda_topic,streams
+"{'genre': 'A Cappella', 'lda_topic': 'Celebrate'}",A Cappella,Celebrate,25343.0
+"{'genre': 'A Cappella', 'lda_topic': 'Explore'}",A Cappella,Explore,54557471.0
+"{'genre': 'A Cappella', 'lda_topic': 'Love'}",A Cappella,Love,7693.0
+"{'genre': 'A Cappella', 'lda_topic': 'Thug'}",A Cappella,Thug,3509.0
+"{'genre': 'Ambigious / Others', 'lda_topic': 'Celebrate'}",Ambigious / Others,Celebrate,932079911.0
+"{'genre': 'Ambigious / Others', 'lda_topic': 'Desire'}",Ambigious / Others,Desire,1211223734.0
+"{'genre': 'Ambigious / Others', 'lda_topic': 'Explore'}",Ambigious / Others,Explore,491604382.0
+"{'genre': 'Ambigious / Others', 'lda_topic': 'Fun'}",Ambigious / Others,Fun,73158634.0
+"{'genre': 'Ambigious / Others', 'lda_topic': 'Hope'}",Ambigious / Others,Hope,1259476458.0
+"{'genre': 'Ambigious / Others', 'lda_topic': 'Love'}",Ambigious / Others,Love,2071066103.0
+"{'genre': 'Ambigious / Others', 'lda_topic': 'Nostalgia'}",Ambigious / Others,Nostalgia,524234782.0
+"{'genre': 'Ambigious / Others', 'lda_topic': 'Thug'}",Ambigious / Others,Thug,331740336.0
+"{'genre': 'Blues', 'lda_topic': 'Celebrate'}",Blues,Celebrate,108741490.0
+"{'genre': 'Blues', 'lda_topic': 'Love'}",Blues,Love,14058.0
+"{'genre': 'Country', 'lda_topic': 'Celebrate'}",Country,Celebrate,8436737.0
+"{'genre': 'Country', 'lda_topic': 'Desire'}",Country,Desire,811171229.0
+"{'genre': 'Country', 'lda_topic': 'Explore'}",Country,Explore,1054003142.0
+"{'genre': 'Country', 'lda_topic': 'Fun'}",Country,Fun,2056323.0
+"{'genre': 'Country', 'lda_topic': 'Hope'}",Country,Hope,1054678485.0
+"{'genre': 'Country', 'lda_topic': 'Love'}",Country,Love,898423361.0
+"{'genre': 'Country', 'lda_topic': 'Nostalgia'}",Country,Nostalgia,573223239.0
+"{'genre': 'Country', 'lda_topic': 'Thug'}",Country,Thug,11840388.0
+"{'genre': 'Dance', 'lda_topic': 'Celebrate'}",Dance,Celebrate,34324603.0
+"{'genre': 'Dance', 'lda_topic': 'Desire'}",Dance,Desire,1673755.0
+"{'genre': 'Dance', 'lda_topic': 'Explore'}",Dance,Explore,43923800.0
+"{'genre': 'Dance', 'lda_topic': 'Fun'}",Dance,Fun,7972.0
+"{'genre': 'Dance', 'lda_topic': 'Hope'}",Dance,Hope,27921267.0
+"{'genre': 'Dance', 'lda_topic': 'Love'}",Dance,Love,42605850.0
+"{'genre': 'Dance', 'lda_topic': 'Nostalgia'}",Dance,Nostalgia,2998572.0
+"{'genre': 'Dance', 'lda_topic': 'Thug'}",Dance,Thug,1990490.0
+"{'genre': 'Electronic / EDM', 'lda_topic': 'Celebrate'}",Electronic / EDM,Celebrate,1071675591.0
+"{'genre': 'Electronic / EDM', 'lda_topic': 'Desire'}",Electronic / EDM,Desire,67761063.0
+"{'genre': 'Electronic / EDM', 'lda_topic': 'Explore'}",Electronic / EDM,Explore,542300714.0
+"{'genre': 'Electronic / EDM', 'lda_topic': 'Fun'}",Electronic / EDM,Fun,551300467.0
+"{'genre': 'Electronic / EDM', 'lda_topic': 'Hope'}",Electronic / EDM,Hope,195696793.0
+"{'genre': 'Electronic / EDM', 'lda_topic': 'Love'}",Electronic / EDM,Love,216249830.0
+"{'genre': 'Electronic / EDM', 'lda_topic': 'Nostalgia'}",Electronic / EDM,Nostalgia,96431808.0
+"{'genre': 'Electronic / EDM', 'lda_topic': 'Thug'}",Electronic / EDM,Thug,49099873.0
+"{'genre': 'Folk', 'lda_topic': 'Celebrate'}",Folk,Celebrate,775167.0
+"{'genre': 'Folk', 'lda_topic': 'Desire'}",Folk,Desire,180304123.0
+"{'genre': 'Folk', 'lda_topic': 'Explore'}",Folk,Explore,3939697.0
+"{'genre': 'Folk', 'lda_topic': 'Fun'}",Folk,Fun,1884909.0
+"{'genre': 'Folk', 'lda_topic': 'Hope'}",Folk,Hope,16608779.0
+"{'genre': 'Folk', 'lda_topic': 'Love'}",Folk,Love,24291335.0
+"{'genre': 'Folk', 'lda_topic': 'Nostalgia'}",Folk,Nostalgia,21453201.0
+"{'genre': 'Folk', 'lda_topic': 'Thug'}",Folk,Thug,3010.0
+"{'genre': 'Funk', 'lda_topic': 'Celebrate'}",Funk,Celebrate,223639.0
+"{'genre': 'Funk', 'lda_topic': 'Desire'}",Funk,Desire,133947.0
+"{'genre': 'Funk', 'lda_topic': 'Hope'}",Funk,Hope,389474.0
+"{'genre': 'Funk', 'lda_topic': 'Love'}",Funk,Love,3117499.0
+"{'genre': 'Funk', 'lda_topic': 'Thug'}",Funk,Thug,438159.0
+"{'genre': 'Hip Hop', 'lda_topic': 'Celebrate'}",Hip Hop,Celebrate,177769633.0
+"{'genre': 'Hip Hop', 'lda_topic': 'Desire'}",Hip Hop,Desire,1811332854.0
+"{'genre': 'Hip Hop', 'lda_topic': 'Explore'}",Hip Hop,Explore,702499251.0
+"{'genre': 'Hip Hop', 'lda_topic': 'Fun'}",Hip Hop,Fun,769616537.0
+"{'genre': 'Hip Hop', 'lda_topic': 'Hope'}",Hip Hop,Hope,3017388389.0
+"{'genre': 'Hip Hop', 'lda_topic': 'Love'}",Hip Hop,Love,619763510.0
+"{'genre': 'Hip Hop', 'lda_topic': 'Nostalgia'}",Hip Hop,Nostalgia,733364249.0
+"{'genre': 'Hip Hop', 'lda_topic': 'Thug'}",Hip Hop,Thug,5746657097.0
+"{'genre': 'Indie', 'lda_topic': 'Celebrate'}",Indie,Celebrate,3287919.0
+"{'genre': 'Indie', 'lda_topic': 'Desire'}",Indie,Desire,2288130.0
+"{'genre': 'Indie', 'lda_topic': 'Explore'}",Indie,Explore,33298969.0
+"{'genre': 'Indie', 'lda_topic': 'Fun'}",Indie,Fun,17489304.0
+"{'genre': 'Indie', 'lda_topic': 'Hope'}",Indie,Hope,540280002.0
+"{'genre': 'Indie', 'lda_topic': 'Love'}",Indie,Love,41311339.0
+"{'genre': 'Indie', 'lda_topic': 'Nostalgia'}",Indie,Nostalgia,6839306.0
+"{'genre': 'Indie', 'lda_topic': 'Thug'}",Indie,Thug,170713516.0
+"{'genre': 'Jazz', 'lda_topic': 'Celebrate'}",Jazz,Celebrate,835146.0
+"{'genre': 'Jazz', 'lda_topic': 'Explore'}",Jazz,Explore,34268.0
+"{'genre': 'Jazz', 'lda_topic': 'Fun'}",Jazz,Fun,74487496.0
+"{'genre': 'Jazz', 'lda_topic': 'Hope'}",Jazz,Hope,1282944.0
+"{'genre': 'Jazz', 'lda_topic': 'Love'}",Jazz,Love,9573.0
+"{'genre': 'Jazz', 'lda_topic': 'Thug'}",Jazz,Thug,7830.0
+"{'genre': 'K-pop', 'lda_topic': 'Celebrate'}",K-pop,Celebrate,2037836.0
+"{'genre': 'K-pop', 'lda_topic': 'Desire'}",K-pop,Desire,11792665.0
+"{'genre': 'K-pop', 'lda_topic': 'Explore'}",K-pop,Explore,680162045.0
+"{'genre': 'K-pop', 'lda_topic': 'Fun'}",K-pop,Fun,8201788.0
+"{'genre': 'K-pop', 'lda_topic': 'Hope'}",K-pop,Hope,115617946.0
+"{'genre': 'K-pop', 'lda_topic': 'Love'}",K-pop,Love,329933520.0
+"{'genre': 'K-pop', 'lda_topic': 'Nostalgia'}",K-pop,Nostalgia,4889697.0
+"{'genre': 'K-pop', 'lda_topic': 'Thug'}",K-pop,Thug,360278.0
+"{'genre': 'Metal', 'lda_topic': 'Celebrate'}",Metal,Celebrate,4052876.0
+"{'genre': 'Metal', 'lda_topic': 'Desire'}",Metal,Desire,320215.0
+"{'genre': 'Metal', 'lda_topic': 'Explore'}",Metal,Explore,107135826.0
+"{'genre': 'Metal', 'lda_topic': 'Hope'}",Metal,Hope,9279095.0
+"{'genre': 'Metal', 'lda_topic': 'Love'}",Metal,Love,17362882.0
+"{'genre': 'Metal', 'lda_topic': 'Nostalgia'}",Metal,Nostalgia,9157740.0
+"{'genre': 'Metal', 'lda_topic': 'Thug'}",Metal,Thug,29672.0
+"{'genre': 'Pop', 'lda_topic': 'Celebrate'}",Pop,Celebrate,5592659286.0
+"{'genre': 'Pop', 'lda_topic': 'Desire'}",Pop,Desire,6396958291.0
+"{'genre': 'Pop', 'lda_topic': 'Explore'}",Pop,Explore,5967847070.0
+"{'genre': 'Pop', 'lda_topic': 'Fun'}",Pop,Fun,891380240.0
+"{'genre': 'Pop', 'lda_topic': 'Hope'}",Pop,Hope,16126792885.0
+"{'genre': 'Pop', 'lda_topic': 'Love'}",Pop,Love,8983485814.0
+"{'genre': 'Pop', 'lda_topic': 'Nostalgia'}",Pop,Nostalgia,3252899776.0
+"{'genre': 'Pop', 'lda_topic': 'Thug'}",Pop,Thug,1368309521.0
+"{'genre': 'Punk', 'lda_topic': 'Explore'}",Punk,Explore,19472551.0
+"{'genre': 'Punk', 'lda_topic': 'Fun'}",Punk,Fun,524632.0
+"{'genre': 'Punk', 'lda_topic': 'Hope'}",Punk,Hope,1041253.0
+"{'genre': 'Punk', 'lda_topic': 'Love'}",Punk,Love,226083.0
+"{'genre': 'R&b', 'lda_topic': 'Celebrate'}",R&b,Celebrate,9798964.0
+"{'genre': 'R&b', 'lda_topic': 'Desire'}",R&b,Desire,826025377.0
+"{'genre': 'R&b', 'lda_topic': 'Explore'}",R&b,Explore,4861000544.0
+"{'genre': 'R&b', 'lda_topic': 'Fun'}",R&b,Fun,42820242.0
+"{'genre': 'R&b', 'lda_topic': 'Hope'}",R&b,Hope,2625733686.0
+"{'genre': 'R&b', 'lda_topic': 'Love'}",R&b,Love,1955756802.0
+"{'genre': 'R&b', 'lda_topic': 'Nostalgia'}",R&b,Nostalgia,594932677.0
+"{'genre': 'R&b', 'lda_topic': 'Thug'}",R&b,Thug,12244975.0
+"{'genre': 'Rap', 'lda_topic': 'Celebrate'}",Rap,Celebrate,641727048.0
+"{'genre': 'Rap', 'lda_topic': 'Desire'}",Rap,Desire,1600052389.0
+"{'genre': 'Rap', 'lda_topic': 'Explore'}",Rap,Explore,1087169031.0
+"{'genre': 'Rap', 'lda_topic': 'Fun'}",Rap,Fun,2363658717.0
+"{'genre': 'Rap', 'lda_topic': 'Hope'}",Rap,Hope,5358773986.0
+"{'genre': 'Rap', 'lda_topic': 'Love'}",Rap,Love,6359131304.0
+"{'genre': 'Rap', 'lda_topic': 'Nostalgia'}",Rap,Nostalgia,160278783.0
+"{'genre': 'Rap', 'lda_topic': 'Thug'}",Rap,Thug,10805486938.0
+"{'genre': 'Reggae', 'lda_topic': 'Celebrate'}",Reggae,Celebrate,81896495.0
+"{'genre': 'Reggae', 'lda_topic': 'Desire'}",Reggae,Desire,3086222.0
+"{'genre': 'Reggae', 'lda_topic': 'Explore'}",Reggae,Explore,25663728.0
+"{'genre': 'Reggae', 'lda_topic': 'Fun'}",Reggae,Fun,325570.0
+"{'genre': 'Reggae', 'lda_topic': 'Hope'}",Reggae,Hope,369584.0
+"{'genre': 'Reggae', 'lda_topic': 'Love'}",Reggae,Love,3961185.0
+"{'genre': 'Reggae', 'lda_topic': 'Nostalgia'}",Reggae,Nostalgia,104474.0
+"{'genre': 'Reggae', 'lda_topic': 'Thug'}",Reggae,Thug,112144.0
+"{'genre': 'Rock', 'lda_topic': 'Celebrate'}",Rock,Celebrate,95606111.0
+"{'genre': 'Rock', 'lda_topic': 'Desire'}",Rock,Desire,585979601.0
+"{'genre': 'Rock', 'lda_topic': 'Explore'}",Rock,Explore,5163281529.0
+"{'genre': 'Rock', 'lda_topic': 'Fun'}",Rock,Fun,92036810.0
+"{'genre': 'Rock', 'lda_topic': 'Hope'}",Rock,Hope,618681738.0
+"{'genre': 'Rock', 'lda_topic': 'Love'}",Rock,Love,1160344046.0
+"{'genre': 'Rock', 'lda_topic': 'Nostalgia'}",Rock,Nostalgia,412334292.0
+"{'genre': 'Rock', 'lda_topic': 'Thug'}",Rock,Thug,2197037.0
+"{'genre': 'Soul', 'lda_topic': 'Celebrate'}",Soul,Celebrate,73102889.0
+"{'genre': 'Soul', 'lda_topic': 'Desire'}",Soul,Desire,1125568.0
+"{'genre': 'Soul', 'lda_topic': 'Explore'}",Soul,Explore,15725785.0
+"{'genre': 'Soul', 'lda_topic': 'Fun'}",Soul,Fun,45034.0
+"{'genre': 'Soul', 'lda_topic': 'Hope'}",Soul,Hope,526992704.0
+"{'genre': 'Soul', 'lda_topic': 'Love'}",Soul,Love,59491845.0
+"{'genre': 'Soul', 'lda_topic': 'Nostalgia'}",Soul,Nostalgia,13694875.0

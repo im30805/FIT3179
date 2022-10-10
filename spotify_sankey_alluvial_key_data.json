@@ -1,0 +1,836 @@
+[
+    {
+        "key": "{'genre': 'A Cappella', 'lda_topic': 'Celebrate'}",
+        "genre": "A Cappella",
+        "lda_topic": "Celebrate",
+        "streams": "25343.0"
+    },
+    {
+        "key": "{'genre': 'A Cappella', 'lda_topic': 'Explore'}",
+        "genre": "A Cappella",
+        "lda_topic": "Explore",
+        "streams": "54557471.0"
+    },
+    {
+        "key": "{'genre': 'A Cappella', 'lda_topic': 'Love'}",
+        "genre": "A Cappella",
+        "lda_topic": "Love",
+        "streams": "7693.0"
+    },
+    {
+        "key": "{'genre': 'A Cappella', 'lda_topic': 'Thug'}",
+        "genre": "A Cappella",
+        "lda_topic": "Thug",
+        "streams": "3509.0"
+    },
+    {
+        "key": "{'genre': 'Ambigious / Others', 'lda_topic': 'Celebrate'}",
+        "genre": "Ambigious / Others",
+        "lda_topic": "Celebrate",
+        "streams": "932079911.0"
+    },
+    {
+        "key": "{'genre': 'Ambigious / Others', 'lda_topic': 'Desire'}",
+        "genre": "Ambigious / Others",
+        "lda_topic": "Desire",
+        "streams": "1211223734.0"
+    },
+    {
+        "key": "{'genre': 'Ambigious / Others', 'lda_topic': 'Explore'}",
+        "genre": "Ambigious / Others",
+        "lda_topic": "Explore",
+        "streams": "491604382.0"
+    },
+    {
+        "key": "{'genre': 'Ambigious / Others', 'lda_topic': 'Fun'}",
+        "genre": "Ambigious / Others",
+        "lda_topic": "Fun",
+        "streams": "73158634.0"
+    },
+    {
+        "key": "{'genre': 'Ambigious / Others', 'lda_topic': 'Hope'}",
+        "genre": "Ambigious / Others",
+        "lda_topic": "Hope",
+        "streams": "1259476458.0"
+    },
+    {
+        "key": "{'genre': 'Ambigious / Others', 'lda_topic': 'Love'}",
+        "genre": "Ambigious / Others",
+        "lda_topic": "Love",
+        "streams": "2071066103.0"
+    },
+    {
+        "key": "{'genre': 'Ambigious / Others', 'lda_topic': 'Nostalgia'}",
+        "genre": "Ambigious / Others",
+        "lda_topic": "Nostalgia",
+        "streams": "524234782.0"
+    },
+    {
+        "key": "{'genre': 'Ambigious / Others', 'lda_topic': 'Thug'}",
+        "genre": "Ambigious / Others",
+        "lda_topic": "Thug",
+        "streams": "331740336.0"
+    },
+    {
+        "key": "{'genre': 'Blues', 'lda_topic': 'Celebrate'}",
+        "genre": "Blues",
+        "lda_topic": "Celebrate",
+        "streams": "108741490.0"
+    },
+    {
+        "key": "{'genre': 'Blues', 'lda_topic': 'Love'}",
+        "genre": "Blues",
+        "lda_topic": "Love",
+        "streams": "14058.0"
+    },
+    {
+        "key": "{'genre': 'Country', 'lda_topic': 'Celebrate'}",
+        "genre": "Country",
+        "lda_topic": "Celebrate",
+        "streams": "8436737.0"
+    },
+    {
+        "key": "{'genre': 'Country', 'lda_topic': 'Desire'}",
+        "genre": "Country",
+        "lda_topic": "Desire",
+        "streams": "811171229.0"
+    },
+    {
+        "key": "{'genre': 'Country', 'lda_topic': 'Explore'}",
+        "genre": "Country",
+        "lda_topic": "Explore",
+        "streams": "1054003142.0"
+    },
+    {
+        "key": "{'genre': 'Country', 'lda_topic': 'Fun'}",
+        "genre": "Country",
+        "lda_topic": "Fun",
+        "streams": "2056323.0"
+    },
+    {
+        "key": "{'genre': 'Country', 'lda_topic': 'Hope'}",
+        "genre": "Country",
+        "lda_topic": "Hope",
+        "streams": "1054678485.0"
+    },
+    {
+        "key": "{'genre': 'Country', 'lda_topic': 'Love'}",
+        "genre": "Country",
+        "lda_topic": "Love",
+        "streams": "898423361.0"
+    },
+    {
+        "key": "{'genre': 'Country', 'lda_topic': 'Nostalgia'}",
+        "genre": "Country",
+        "lda_topic": "Nostalgia",
+        "streams": "573223239.0"
+    },
+    {
+        "key": "{'genre': 'Country', 'lda_topic': 'Thug'}",
+        "genre": "Country",
+        "lda_topic": "Thug",
+        "streams": "11840388.0"
+    },
+    {
+        "key": "{'genre': 'Dance', 'lda_topic': 'Celebrate'}",
+        "genre": "Dance",
+        "lda_topic": "Celebrate",
+        "streams": "34324603.0"
+    },
+    {
+        "key": "{'genre': 'Dance', 'lda_topic': 'Desire'}",
+        "genre": "Dance",
+        "lda_topic": "Desire",
+        "streams": "1673755.0"
+    },
+    {
+        "key": "{'genre': 'Dance', 'lda_topic': 'Explore'}",
+        "genre": "Dance",
+        "lda_topic": "Explore",
+        "streams": "43923800.0"
+    },
+    {
+        "key": "{'genre': 'Dance', 'lda_topic': 'Fun'}",
+        "genre": "Dance",
+        "lda_topic": "Fun",
+        "streams": "7972.0"
+    },
+    {
+        "key": "{'genre': 'Dance', 'lda_topic': 'Hope'}",
+        "genre": "Dance",
+        "lda_topic": "Hope",
+        "streams": "27921267.0"
+    },
+    {
+        "key": "{'genre': 'Dance', 'lda_topic': 'Love'}",
+        "genre": "Dance",
+        "lda_topic": "Love",
+        "streams": "42605850.0"
+    },
+    {
+        "key": "{'genre': 'Dance', 'lda_topic': 'Nostalgia'}",
+        "genre": "Dance",
+        "lda_topic": "Nostalgia",
+        "streams": "2998572.0"
+    },
+    {
+        "key": "{'genre': 'Dance', 'lda_topic': 'Thug'}",
+        "genre": "Dance",
+        "lda_topic": "Thug",
+        "streams": "1990490.0"
+    },
+    {
+        "key": "{'genre': 'Electronic / EDM', 'lda_topic': 'Celebrate'}",
+        "genre": "Electronic / EDM",
+        "lda_topic": "Celebrate",
+        "streams": "1071675591.0"
+    },
+    {
+        "key": "{'genre': 'Electronic / EDM', 'lda_topic': 'Desire'}",
+        "genre": "Electronic / EDM",
+        "lda_topic": "Desire",
+        "streams": "67761063.0"
+    },
+    {
+        "key": "{'genre': 'Electronic / EDM', 'lda_topic': 'Explore'}",
+        "genre": "Electronic / EDM",
+        "lda_topic": "Explore",
+        "streams": "542300714.0"
+    },
+    {
+        "key": "{'genre': 'Electronic / EDM', 'lda_topic': 'Fun'}",
+        "genre": "Electronic / EDM",
+        "lda_topic": "Fun",
+        "streams": "551300467.0"
+    },
+    {
+        "key": "{'genre': 'Electronic / EDM', 'lda_topic': 'Hope'}",
+        "genre": "Electronic / EDM",
+        "lda_topic": "Hope",
+        "streams": "195696793.0"
+    },
+    {
+        "key": "{'genre': 'Electronic / EDM', 'lda_topic': 'Love'}",
+        "genre": "Electronic / EDM",
+        "lda_topic": "Love",
+        "streams": "216249830.0"
+    },
+    {
+        "key": "{'genre': 'Electronic / EDM', 'lda_topic': 'Nostalgia'}",
+        "genre": "Electronic / EDM",
+        "lda_topic": "Nostalgia",
+        "streams": "96431808.0"
+    },
+    {
+        "key": "{'genre': 'Electronic / EDM', 'lda_topic': 'Thug'}",
+        "genre": "Electronic / EDM",
+        "lda_topic": "Thug",
+        "streams": "49099873.0"
+    },
+    {
+        "key": "{'genre': 'Folk', 'lda_topic': 'Celebrate'}",
+        "genre": "Folk",
+        "lda_topic": "Celebrate",
+        "streams": "775167.0"
+    },
+    {
+        "key": "{'genre': 'Folk', 'lda_topic': 'Desire'}",
+        "genre": "Folk",
+        "lda_topic": "Desire",
+        "streams": "180304123.0"
+    },
+    {
+        "key": "{'genre': 'Folk', 'lda_topic': 'Explore'}",
+        "genre": "Folk",
+        "lda_topic": "Explore",
+        "streams": "3939697.0"
+    },
+    {
+        "key": "{'genre': 'Folk', 'lda_topic': 'Fun'}",
+        "genre": "Folk",
+        "lda_topic": "Fun",
+        "streams": "1884909.0"
+    },
+    {
+        "key": "{'genre': 'Folk', 'lda_topic': 'Hope'}",
+        "genre": "Folk",
+        "lda_topic": "Hope",
+        "streams": "16608779.0"
+    },
+    {
+        "key": "{'genre': 'Folk', 'lda_topic': 'Love'}",
+        "genre": "Folk",
+        "lda_topic": "Love",
+        "streams": "24291335.0"
+    },
+    {
+        "key": "{'genre': 'Folk', 'lda_topic': 'Nostalgia'}",
+        "genre": "Folk",
+        "lda_topic": "Nostalgia",
+        "streams": "21453201.0"
+    },
+    {
+        "key": "{'genre': 'Folk', 'lda_topic': 'Thug'}",
+        "genre": "Folk",
+        "lda_topic": "Thug",
+        "streams": "3010.0"
+    },
+    {
+        "key": "{'genre': 'Funk', 'lda_topic': 'Celebrate'}",
+        "genre": "Funk",
+        "lda_topic": "Celebrate",
+        "streams": "223639.0"
+    },
+    {
+        "key": "{'genre': 'Funk', 'lda_topic': 'Desire'}",
+        "genre": "Funk",
+        "lda_topic": "Desire",
+        "streams": "133947.0"
+    },
+    {
+        "key": "{'genre': 'Funk', 'lda_topic': 'Hope'}",
+        "genre": "Funk",
+        "lda_topic": "Hope",
+        "streams": "389474.0"
+    },
+    {
+        "key": "{'genre': 'Funk', 'lda_topic': 'Love'}",
+        "genre": "Funk",
+        "lda_topic": "Love",
+        "streams": "3117499.0"
+    },
+    {
+        "key": "{'genre': 'Funk', 'lda_topic': 'Thug'}",
+        "genre": "Funk",
+        "lda_topic": "Thug",
+        "streams": "438159.0"
+    },
+    {
+        "key": "{'genre': 'Hip Hop', 'lda_topic': 'Celebrate'}",
+        "genre": "Hip Hop",
+        "lda_topic": "Celebrate",
+        "streams": "177769633.0"
+    },
+    {
+        "key": "{'genre': 'Hip Hop', 'lda_topic': 'Desire'}",
+        "genre": "Hip Hop",
+        "lda_topic": "Desire",
+        "streams": "1811332854.0"
+    },
+    {
+        "key": "{'genre': 'Hip Hop', 'lda_topic': 'Explore'}",
+        "genre": "Hip Hop",
+        "lda_topic": "Explore",
+        "streams": "702499251.0"
+    },
+    {
+        "key": "{'genre': 'Hip Hop', 'lda_topic': 'Fun'}",
+        "genre": "Hip Hop",
+        "lda_topic": "Fun",
+        "streams": "769616537.0"
+    },
+    {
+        "key": "{'genre': 'Hip Hop', 'lda_topic': 'Hope'}",
+        "genre": "Hip Hop",
+        "lda_topic": "Hope",
+        "streams": "3017388389.0"
+    },
+    {
+        "key": "{'genre': 'Hip Hop', 'lda_topic': 'Love'}",
+        "genre": "Hip Hop",
+        "lda_topic": "Love",
+        "streams": "619763510.0"
+    },
+    {
+        "key": "{'genre': 'Hip Hop', 'lda_topic': 'Nostalgia'}",
+        "genre": "Hip Hop",
+        "lda_topic": "Nostalgia",
+        "streams": "733364249.0"
+    },
+    {
+        "key": "{'genre': 'Hip Hop', 'lda_topic': 'Thug'}",
+        "genre": "Hip Hop",
+        "lda_topic": "Thug",
+        "streams": "5746657097.0"
+    },
+    {
+        "key": "{'genre': 'Indie', 'lda_topic': 'Celebrate'}",
+        "genre": "Indie",
+        "lda_topic": "Celebrate",
+        "streams": "3287919.0"
+    },
+    {
+        "key": "{'genre': 'Indie', 'lda_topic': 'Desire'}",
+        "genre": "Indie",
+        "lda_topic": "Desire",
+        "streams": "2288130.0"
+    },
+    {
+        "key": "{'genre': 'Indie', 'lda_topic': 'Explore'}",
+        "genre": "Indie",
+        "lda_topic": "Explore",
+        "streams": "33298969.0"
+    },
+    {
+        "key": "{'genre': 'Indie', 'lda_topic': 'Fun'}",
+        "genre": "Indie",
+        "lda_topic": "Fun",
+        "streams": "17489304.0"
+    },
+    {
+        "key": "{'genre': 'Indie', 'lda_topic': 'Hope'}",
+        "genre": "Indie",
+        "lda_topic": "Hope",
+        "streams": "540280002.0"
+    },
+    {
+        "key": "{'genre': 'Indie', 'lda_topic': 'Love'}",
+        "genre": "Indie",
+        "lda_topic": "Love",
+        "streams": "41311339.0"
+    },
+    {
+        "key": "{'genre': 'Indie', 'lda_topic': 'Nostalgia'}",
+        "genre": "Indie",
+        "lda_topic": "Nostalgia",
+        "streams": "6839306.0"
+    },
+    {
+        "key": "{'genre': 'Indie', 'lda_topic': 'Thug'}",
+        "genre": "Indie",
+        "lda_topic": "Thug",
+        "streams": "170713516.0"
+    },
+    {
+        "key": "{'genre': 'Jazz', 'lda_topic': 'Celebrate'}",
+        "genre": "Jazz",
+        "lda_topic": "Celebrate",
+        "streams": "835146.0"
+    },
+    {
+        "key": "{'genre': 'Jazz', 'lda_topic': 'Explore'}",
+        "genre": "Jazz",
+        "lda_topic": "Explore",
+        "streams": "34268.0"
+    },
+    {
+        "key": "{'genre': 'Jazz', 'lda_topic': 'Fun'}",
+        "genre": "Jazz",
+        "lda_topic": "Fun",
+        "streams": "74487496.0"
+    },
+    {
+        "key": "{'genre': 'Jazz', 'lda_topic': 'Hope'}",
+        "genre": "Jazz",
+        "lda_topic": "Hope",
+        "streams": "1282944.0"
+    },
+    {
+        "key": "{'genre': 'Jazz', 'lda_topic': 'Love'}",
+        "genre": "Jazz",
+        "lda_topic": "Love",
+        "streams": "9573.0"
+    },
+    {
+        "key": "{'genre': 'Jazz', 'lda_topic': 'Thug'}",
+        "genre": "Jazz",
+        "lda_topic": "Thug",
+        "streams": "7830.0"
+    },
+    {
+        "key": "{'genre': 'K-pop', 'lda_topic': 'Celebrate'}",
+        "genre": "K-pop",
+        "lda_topic": "Celebrate",
+        "streams": "2037836.0"
+    },
+    {
+        "key": "{'genre': 'K-pop', 'lda_topic': 'Desire'}",
+        "genre": "K-pop",
+        "lda_topic": "Desire",
+        "streams": "11792665.0"
+    },
+    {
+        "key": "{'genre': 'K-pop', 'lda_topic': 'Explore'}",
+        "genre": "K-pop",
+        "lda_topic": "Explore",
+        "streams": "680162045.0"
+    },
+    {
+        "key": "{'genre': 'K-pop', 'lda_topic': 'Fun'}",
+        "genre": "K-pop",
+        "lda_topic": "Fun",
+        "streams": "8201788.0"
+    },
+    {
+        "key": "{'genre': 'K-pop', 'lda_topic': 'Hope'}",
+        "genre": "K-pop",
+        "lda_topic": "Hope",
+        "streams": "115617946.0"
+    },
+    {
+        "key": "{'genre': 'K-pop', 'lda_topic': 'Love'}",
+        "genre": "K-pop",
+        "lda_topic": "Love",
+        "streams": "329933520.0"
+    },
+    {
+        "key": "{'genre': 'K-pop', 'lda_topic': 'Nostalgia'}",
+        "genre": "K-pop",
+        "lda_topic": "Nostalgia",
+        "streams": "4889697.0"
+    },
+    {
+        "key": "{'genre': 'K-pop', 'lda_topic': 'Thug'}",
+        "genre": "K-pop",
+        "lda_topic": "Thug",
+        "streams": "360278.0"
+    },
+    {
+        "key": "{'genre': 'Metal', 'lda_topic': 'Celebrate'}",
+        "genre": "Metal",
+        "lda_topic": "Celebrate",
+        "streams": "4052876.0"
+    },
+    {
+        "key": "{'genre': 'Metal', 'lda_topic': 'Desire'}",
+        "genre": "Metal",
+        "lda_topic": "Desire",
+        "streams": "320215.0"
+    },
+    {
+        "key": "{'genre': 'Metal', 'lda_topic': 'Explore'}",
+        "genre": "Metal",
+        "lda_topic": "Explore",
+        "streams": "107135826.0"
+    },
+    {
+        "key": "{'genre': 'Metal', 'lda_topic': 'Hope'}",
+        "genre": "Metal",
+        "lda_topic": "Hope",
+        "streams": "9279095.0"
+    },
+    {
+        "key": "{'genre': 'Metal', 'lda_topic': 'Love'}",
+        "genre": "Metal",
+        "lda_topic": "Love",
+        "streams": "17362882.0"
+    },
+    {
+        "key": "{'genre': 'Metal', 'lda_topic': 'Nostalgia'}",
+        "genre": "Metal",
+        "lda_topic": "Nostalgia",
+        "streams": "9157740.0"
+    },
+    {
+        "key": "{'genre': 'Metal', 'lda_topic': 'Thug'}",
+        "genre": "Metal",
+        "lda_topic": "Thug",
+        "streams": "29672.0"
+    },
+    {
+        "key": "{'genre': 'Pop', 'lda_topic': 'Celebrate'}",
+        "genre": "Pop",
+        "lda_topic": "Celebrate",
+        "streams": "5592659286.0"
+    },
+    {
+        "key": "{'genre': 'Pop', 'lda_topic': 'Desire'}",
+        "genre": "Pop",
+        "lda_topic": "Desire",
+        "streams": "6396958291.0"
+    },
+    {
+        "key": "{'genre': 'Pop', 'lda_topic': 'Explore'}",
+        "genre": "Pop",
+        "lda_topic": "Explore",
+        "streams": "5967847070.0"
+    },
+    {
+        "key": "{'genre': 'Pop', 'lda_topic': 'Fun'}",
+        "genre": "Pop",
+        "lda_topic": "Fun",
+        "streams": "891380240.0"
+    },
+    {
+        "key": "{'genre': 'Pop', 'lda_topic': 'Hope'}",
+        "genre": "Pop",
+        "lda_topic": "Hope",
+        "streams": "16126792885.0"
+    },
+    {
+        "key": "{'genre': 'Pop', 'lda_topic': 'Love'}",
+        "genre": "Pop",
+        "lda_topic": "Love",
+        "streams": "8983485814.0"
+    },
+    {
+        "key": "{'genre': 'Pop', 'lda_topic': 'Nostalgia'}",
+        "genre": "Pop",
+        "lda_topic": "Nostalgia",
+        "streams": "3252899776.0"
+    },
+    {
+        "key": "{'genre': 'Pop', 'lda_topic': 'Thug'}",
+        "genre": "Pop",
+        "lda_topic": "Thug",
+        "streams": "1368309521.0"
+    },
+    {
+        "key": "{'genre': 'Punk', 'lda_topic': 'Explore'}",
+        "genre": "Punk",
+        "lda_topic": "Explore",
+        "streams": "19472551.0"
+    },
+    {
+        "key": "{'genre': 'Punk', 'lda_topic': 'Fun'}",
+        "genre": "Punk",
+        "lda_topic": "Fun",
+        "streams": "524632.0"
+    },
+    {
+        "key": "{'genre': 'Punk', 'lda_topic': 'Hope'}",
+        "genre": "Punk",
+        "lda_topic": "Hope",
+        "streams": "1041253.0"
+    },
+    {
+        "key": "{'genre': 'Punk', 'lda_topic': 'Love'}",
+        "genre": "Punk",
+        "lda_topic": "Love",
+        "streams": "226083.0"
+    },
+    {
+        "key": "{'genre': 'R&b', 'lda_topic': 'Celebrate'}",
+        "genre": "R&b",
+        "lda_topic": "Celebrate",
+        "streams": "9798964.0"
+    },
+    {
+        "key": "{'genre': 'R&b', 'lda_topic': 'Desire'}",
+        "genre": "R&b",
+        "lda_topic": "Desire",
+        "streams": "826025377.0"
+    },
+    {
+        "key": "{'genre': 'R&b', 'lda_topic': 'Explore'}",
+        "genre": "R&b",
+        "lda_topic": "Explore",
+        "streams": "4861000544.0"
+    },
+    {
+        "key": "{'genre': 'R&b', 'lda_topic': 'Fun'}",
+        "genre": "R&b",
+        "lda_topic": "Fun",
+        "streams": "42820242.0"
+    },
+    {
+        "key": "{'genre': 'R&b', 'lda_topic': 'Hope'}",
+        "genre": "R&b",
+        "lda_topic": "Hope",
+        "streams": "2625733686.0"
+    },
+    {
+        "key": "{'genre': 'R&b', 'lda_topic': 'Love'}",
+        "genre": "R&b",
+        "lda_topic": "Love",
+        "streams": "1955756802.0"
+    },
+    {
+        "key": "{'genre': 'R&b', 'lda_topic': 'Nostalgia'}",
+        "genre": "R&b",
+        "lda_topic": "Nostalgia",
+        "streams": "594932677.0"
+    },
+    {
+        "key": "{'genre': 'R&b', 'lda_topic': 'Thug'}",
+        "genre": "R&b",
+        "lda_topic": "Thug",
+        "streams": "12244975.0"
+    },
+    {
+        "key": "{'genre': 'Rap', 'lda_topic': 'Celebrate'}",
+        "genre": "Rap",
+        "lda_topic": "Celebrate",
+        "streams": "641727048.0"
+    },
+    {
+        "key": "{'genre': 'Rap', 'lda_topic': 'Desire'}",
+        "genre": "Rap",
+        "lda_topic": "Desire",
+        "streams": "1600052389.0"
+    },
+    {
+        "key": "{'genre': 'Rap', 'lda_topic': 'Explore'}",
+        "genre": "Rap",
+        "lda_topic": "Explore",
+        "streams": "1087169031.0"
+    },
+    {
+        "key": "{'genre': 'Rap', 'lda_topic': 'Fun'}",
+        "genre": "Rap",
+        "lda_topic": "Fun",
+        "streams": "2363658717.0"
+    },
+    {
+        "key": "{'genre': 'Rap', 'lda_topic': 'Hope'}",
+        "genre": "Rap",
+        "lda_topic": "Hope",
+        "streams": "5358773986.0"
+    },
+    {
+        "key": "{'genre': 'Rap', 'lda_topic': 'Love'}",
+        "genre": "Rap",
+        "lda_topic": "Love",
+        "streams": "6359131304.0"
+    },
+    {
+        "key": "{'genre': 'Rap', 'lda_topic': 'Nostalgia'}",
+        "genre": "Rap",
+        "lda_topic": "Nostalgia",
+        "streams": "160278783.0"
+    },
+    {
+        "key": "{'genre': 'Rap', 'lda_topic': 'Thug'}",
+        "genre": "Rap",
+        "lda_topic": "Thug",
+        "streams": "10805486938.0"
+    },
+    {
+        "key": "{'genre': 'Reggae', 'lda_topic': 'Celebrate'}",
+        "genre": "Reggae",
+        "lda_topic": "Celebrate",
+        "streams": "81896495.0"
+    },
+    {
+        "key": "{'genre': 'Reggae', 'lda_topic': 'Desire'}",
+        "genre": "Reggae",
+        "lda_topic": "Desire",
+        "streams": "3086222.0"
+    },
+    {
+        "key": "{'genre': 'Reggae', 'lda_topic': 'Explore'}",
+        "genre": "Reggae",
+        "lda_topic": "Explore",
+        "streams": "25663728.0"
+    },
+    {
+        "key": "{'genre': 'Reggae', 'lda_topic': 'Fun'}",
+        "genre": "Reggae",
+        "lda_topic": "Fun",
+        "streams": "325570.0"
+    },
+    {
+        "key": "{'genre': 'Reggae', 'lda_topic': 'Hope'}",
+        "genre": "Reggae",
+        "lda_topic": "Hope",
+        "streams": "369584.0"
+    },
+    {
+        "key": "{'genre': 'Reggae', 'lda_topic': 'Love'}",
+        "genre": "Reggae",
+        "lda_topic": "Love",
+        "streams": "3961185.0"
+    },
+    {
+        "key": "{'genre': 'Reggae', 'lda_topic': 'Nostalgia'}",
+        "genre": "Reggae",
+        "lda_topic": "Nostalgia",
+        "streams": "104474.0"
+    },
+    {
+        "key": "{'genre': 'Reggae', 'lda_topic': 'Thug'}",
+        "genre": "Reggae",
+        "lda_topic": "Thug",
+        "streams": "112144.0"
+    },
+    {
+        "key": "{'genre': 'Rock', 'lda_topic': 'Celebrate'}",
+        "genre": "Rock",
+        "lda_topic": "Celebrate",
+        "streams": "95606111.0"
+    },
+    {
+        "key": "{'genre': 'Rock', 'lda_topic': 'Desire'}",
+        "genre": "Rock",
+        "lda_topic": "Desire",
+        "streams": "585979601.0"
+    },
+    {
+        "key": "{'genre': 'Rock', 'lda_topic': 'Explore'}",
+        "genre": "Rock",
+        "lda_topic": "Explore",
+        "streams": "5163281529.0"
+    },
+    {
+        "key": "{'genre': 'Rock', 'lda_topic': 'Fun'}",
+        "genre": "Rock",
+        "lda_topic": "Fun",
+        "streams": "92036810.0"
+    },
+    {
+        "key": "{'genre': 'Rock', 'lda_topic': 'Hope'}",
+        "genre": "Rock",
+        "lda_topic": "Hope",
+        "streams": "618681738.0"
+    },
+    {
+        "key": "{'genre': 'Rock', 'lda_topic': 'Love'}",
+        "genre": "Rock",
+        "lda_topic": "Love",
+        "streams": "1160344046.0"
+    },
+    {
+        "key": "{'genre': 'Rock', 'lda_topic': 'Nostalgia'}",
+        "genre": "Rock",
+        "lda_topic": "Nostalgia",
+        "streams": "412334292.0"
+    },
+    {
+        "key": "{'genre': 'Rock', 'lda_topic': 'Thug'}",
+        "genre": "Rock",
+        "lda_topic": "Thug",
+        "streams": "2197037.0"
+    },
+    {
+        "key": "{'genre': 'Soul', 'lda_topic': 'Celebrate'}",
+        "genre": "Soul",
+        "lda_topic": "Celebrate",
+        "streams": "73102889.0"
+    },
+    {
+        "key": "{'genre': 'Soul', 'lda_topic': 'Desire'}",
+        "genre": "Soul",
+        "lda_topic": "Desire",
+        "streams": "1125568.0"
+    },
+    {
+        "key": "{'genre': 'Soul', 'lda_topic': 'Explore'}",
+        "genre": "Soul",
+        "lda_topic": "Explore",
+        "streams": "15725785.0"
+    },
+    {
+        "key": "{'genre': 'Soul', 'lda_topic': 'Fun'}",
+        "genre": "Soul",
+        "lda_topic": "Fun",
+        "streams": "45034.0"
+    },
+    {
+        "key": "{'genre': 'Soul', 'lda_topic': 'Hope'}",
+        "genre": "Soul",
+        "lda_topic": "Hope",
+        "streams": "526992704.0"
+    },
+    {
+        "key": "{'genre': 'Soul', 'lda_topic': 'Love'}",
+        "genre": "Soul",
+        "lda_topic": "Love",
+        "streams": "59491845.0"
+    },
+    {
+        "key": "{'genre': 'Soul', 'lda_topic': 'Nostalgia'}",
+        "genre": "Soul",
+        "lda_topic": "Nostalgia",
+        "streams": "13694875.0"
+    }
+]
