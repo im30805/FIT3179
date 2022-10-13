@@ -36,7 +36,7 @@
           }
         }
     },
-    "width": 915,
+    "width": 815,
     "height": 600,
     "transform": [
         {"calculate": "datum.Streams * 0.00000001", "as": "num_of_streams_rounded"},

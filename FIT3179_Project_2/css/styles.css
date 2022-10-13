@@ -3,14 +3,22 @@
 } 
 
 #bar_chart {
-	margin-left: -110px;
+	margin-left: -60px;
+}
+
+#bump_chart {
+	margin-left: 40px;
 }
 
 #bubble_chart {
-	margin-left: 225px;
+	margin-left: 50px;
 }
 
-select[name=region_selection] {
+#parallel_coord_plot {
+	margin-left: 60px;
+}
+
+select[name=region_selection], select[name=music_genre_selection] {
 	font-size: 14px;
 	font-family: Montserrat, sans-serif;
 	margin-left: 10px;
@@ -20,16 +28,22 @@ input[type=range] {
 	margin-left: 10px;
 	margin-right: 10px;
 	margin-top: -2px;
-	margin-top: -2px;
+	margin-bottom: -2px;
 }
 
 .vega-bind{
 	color: white;
 }
 
+.vega-bindings {
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
 .vega-bind-name{
 	font-size: 14px;
 	font-family: Montserrat, sans-serif;
+	margin-left: -52px;
 }
 
 span {
@@ -38,7 +52,7 @@ span {
 }
 
 .vega-bindings {
-	margin-left: 110px;
+	margin-left: 180px;
 }
 
 body {
@@ -46,9 +60,10 @@ body {
 	font-family: Montserrat, sans-serif;
 }
 
-h1, h2, p {
+h2, p {
 	color: #1DB954;
 	font-family: Montserrat, sans-serif;
+	text-align: justify;
 }
 
 h2[id=centertitle], p[id=centersubtitle] {
@@ -56,6 +71,8 @@ h2[id=centertitle], p[id=centersubtitle] {
 }
 
 h1 {
+	color: #1DB954;
+	font-family: Montserrat, sans-serif;
 	text-align: center;
 	font-weight: bolder;
 }
@@ -65,5 +82,9 @@ h1 {
 }
 
 .description-left{
-    width: 550px;
+    width: 450px;
+}
+
+.description-right{
+	width: 550px;
 }

@@ -1,6 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "width": 1000,
+    "width": 1250,
     "height": 600,
     "autosize": {"resize": true},
     "title": "Number of Spotify Streams per Artist",
@@ -300,10 +300,7 @@
               "titleColor": "white",
               "title": "Region",
               "labelColor": "white",
-              "symbolFillColor":"white",
-              "orient": "top",
-              "direction": "horizontal",
-              "columns": 3
+              "symbolFillColor":"white"
             }
           },
           "opacity": {"value": 0.6},
