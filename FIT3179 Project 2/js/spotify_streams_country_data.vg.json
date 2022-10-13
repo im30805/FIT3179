@@ -1,0 +1,189 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Percentage of Total Music Streams on Spotify by Country from 2017-2021",
+  "width": 670,
+  "height": 750,
+  "autosize": {"resize": true},
+  "padding": {"bottom": -250, "top": -110},
+  "projection": {
+    "type": "equalEarth",
+    "scale": {"expr": "zoom_level"},
+    "translate": {"expr": "[left,right]"}
+  },
+  "params": [
+    {
+      "name": "zoom_level",
+      "value": 120,
+      "bind": {
+        "input": "range",
+        "min": 120,
+        "max": 500,
+        "step": 10,
+        "name": "Zoom: "
+      }
+    },
+    {
+      "name": "left",
+      "value": 325,
+      "bind": {"input": "range", "min": 0, "max": 500, "step": 1, "name": "Left: "}
+    },
+    {
+      "name": "right",
+      "value": 325,
+      "bind": {"input": "range", "min": 0, "max": 500, "step": 1, "name": "Right: "}
+    },
+    {
+      "name": "year_selection",
+      "value": 2017,
+      "bind": {
+        "input": "range",
+        "min": 2017,
+        "max": 2021,
+        "step": 1,
+        "name": "Chart Year: "
+      }
+    }
+  ],
+  "layer": [
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/im30805/FIT3179/main/ne_110m.topojson",
+        "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
+      },
+      "transform": [
+        {
+          "calculate": "'Data is not available in ' + datum.properties.NAME",
+          "as": "note"
+        }
+      ],
+      "mark": {
+        "type": "geoshape",
+        "fill": "#ddd",
+        "stroke": "white",
+        "strokeWidth": 1
+      },
+      "encoding": {"tooltip": {"field": "note"}}
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/im30805/FIT3179/main/oceans.topojson",          
+        "format": {"type": "topojson", "feature": "oceans"}
+      },
+      "mark": {"type": "geoshape", "fill": "black"}
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/im30805/FIT3179/main/spotify_region_streams_year.csv"
+      },
+      "transform": [
+        {
+          "lookup": "region",
+          "from": {
+            "data": {
+              "url": "https://raw.githubusercontent.com/im30805/FIT3179/main/ne_110m.topojson",
+              "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
+            },
+            "key": "properties.NAME"
+          },
+          "as": "geo"
+        },
+        {"filter": "datum.year == year_selection"},
+        {
+          "joinaggregate": [{
+            "op": "sum",
+            "field": "streams",
+            "as": "total_streams"
+          }]
+        },
+        {"calculate": "datum.streams / datum.total_streams * 100", "as": "Percentage of Streams"}
+
+      ],
+      "mark": {"type": "geoshape", "stroke": "#fff", "strokeWidth": 0.5},
+      "encoding": {
+        "shape": {"field": "geo", "type": "geojson"},
+        "color": {
+          "field": "Percentage of Streams",
+          "type": "quantitative",
+          "scale": {
+            "type": "threshold",
+            "domain": [0, 0.005, 0.01, 0.05, 0.1, 0.5, 1, 5, 10, 15],
+            "scheme": "greens"
+          },
+          "legend": {
+            "labelColor": "white",
+            "titleColor": "white",
+            "orient": "none",
+            "legendX": 720,
+            "legendY": 130
+            
+          }
+        },
+        "tooltip": [
+          {"field": "region", "type": "nominal", "title": "Country"},
+          {
+            "field": "Percentage of Streams",
+            "type": "quantitative",
+            "format": ".2f"
+          },
+          {"field": "year", "type": "quantitative", "title": "Year"}
+        ]
+      }
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/im30805/FIT3179/main/spotify_region_streams_year.csv"
+      },
+      "transform": [
+        {
+          "lookup": "region",
+          "from": {
+            "data": {
+              "url": "https://raw.githubusercontent.com/FIT3179/Vega-Lite/main/3_choropleth_map/data/countryInfo.csv"
+            },
+            "key": "name",
+            "fields": ["latitude", "longitude"]
+          }
+        },
+        {"filter": "datum.year == year_selection"},
+        {
+          "joinaggregate": [{
+            "op": "sum",
+            "field": "streams",
+            "as": "total_streams"
+          }]
+        },
+        {"calculate": "datum.streams / datum.total_streams * 100", "as": "Percentage of Streams"}
+      ],
+      "mark": {"type": "text", "fill": "white", "fontWeight": "bold"},
+      "encoding": {
+        "longitude": {"field": "longitude", "type": "quantitative"},
+        "latitude": {"field": "latitude", "type": "quantitative"},
+        "text": {"field": "Percentage of Streams", "type": "quantitative", "format": ".2f"},
+        "opacity": {
+          "condition": {
+            "test": "datum['region'] == 'China' || datum['region'] == 'Brazil' || datum['region'] == 'Australia' || datum['region'] == 'Malaysia' || datum['region'] == 'United States of America'",
+            "value": 1
+          },
+          "value": 0
+        }
+      }
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/im30805/FIT3179/main/ne_110m.topojson",
+        "format": {"type": "topojson", "feature": "ne_110m_graticules_30"}
+      },
+      "mark": {"type": "geoshape", "fill": null, "stroke": "gray"}
+    }
+  ],
+  "config": {
+    "background":"#191414",
+    "view": {
+        "stroke": "#191414"
+    },
+    "title": {
+        "color": "white",
+        "dy": 150
+    }
+  }
+}

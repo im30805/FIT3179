@@ -1,0 +1,306 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 1000,
+    "height": 600,
+    "title": "Number of Spotify Streams per Artist",
+    "data": {
+      "url": "https://raw.githubusercontent.com/im30805/FIT3179/main/spotify_streams_popularity_by_genre_artist.csv"
+    },
+    "params": [
+    {
+        "name": "Streams_Above",
+        "value": 0,
+        "bind": {
+            "input": "range",
+            "min": 0,
+            "max": 100000000,
+            "step": 5,
+            "name": "Minimum Number of Streams (in Million): "
+        }
+    },
+    {
+      "name": "select_region", "select": {"type": "point", "on": "click", "fields": ["region"]}, "bind": "legend"
+    },
+    {
+        "name": "music_genre_selection",
+        "bind": {
+            "input": "select",
+            "options": [
+                null,
+                "Hip Hop",
+                "Pop", 
+                "Rap" ,
+                "Ambigious / Others",
+                "Rock",
+                "R&b", 
+                "K-pop",
+                "Metal",
+                "Country", 
+                "EDM",
+                "Soul", 
+                "Blues",
+                "Funk", 
+                "Electronic / EDM",
+                "Indie", 
+                "Dance",
+                "Jazz",
+                "Folk", 
+                "A Cappella", 
+                "Punk",
+                "Reggae"
+            ],
+            "labels":[
+                "Show All",
+                "Hip Hop",
+                "Pop", 
+                "Rap" ,
+                "Ambigious / Others",
+                "Rock",
+                "R&b", 
+                "K-pop",
+                "Metal",
+                "Country", 
+                "EDM",
+                "Soul", 
+                "Blues",
+                "Funk", 
+                "Electronic / EDM",
+                "Indie", 
+                "Dance",
+                "Jazz",
+                "Folk", 
+                "A Cappella", 
+                "Punk",
+                "Reggae"
+            ],
+                "name": "Music Genre Selection: "
+        }
+    },
+    {
+      "name": "region_selection",
+      "bind": {
+        "input": "select",
+        "options": [
+          null,
+          "Andorra", 
+          "Argentina", 
+          "Australia", 
+          "Austria", 
+          "Belgium", 
+          "Bolivia", 
+          "Brazil", 
+          "Bulgaria", 
+          "Canada", 
+          "Chile", 
+          "Colombia", 
+          "Costa Rica", 
+          "Czech Republic", 
+          "Denmark", 
+          "Dominican Republic", 
+          "Ecuador", 
+          "Egypt", 
+          "El Salvador", 
+          "Estonia", 
+          "Finland", 
+          "France", 
+          "Germany", 
+          "Greece", 
+          "Guatemala", 
+          "Honduras", 
+          "Hong Kong", 
+          "Hungary", 
+          "Iceland", 
+          "India", 
+          "Indonesia", 
+          "Ireland", 
+          "Israel", 
+          "Italy", 
+          "Japan", 
+          "Latvia", 
+          "Lithuania", 
+          "Luxembourg", 
+          "Malaysia", 
+          "Mexico", 
+          "Morocco", 
+          "Netherlands", 
+          "New Zealand", 
+          "Nicaragua", 
+          "Norway", 
+          "Panama", 
+          "Paraguay", 
+          "Peru", 
+          "Philippines", 
+          "Poland", 
+          "Portugal", 
+          "Romania", 
+          "Russia", 
+          "Saudi Arabia", 
+          "Singapore", 
+          "Slovakia", 
+          "South Africa", 
+          "South Korea", 
+          "Spain", 
+          "Sweden", 
+          "Switzerland", 
+          "Taiwan", 
+          "Thailand", 
+          "Turkey", 
+          "Ukraine", 
+          "United Arab Emirates", 
+          "United Kingdom", 
+          "United States", 
+          "Uruguay", 
+          "Vietnam"
+        ],
+        "labels":[
+          "Show All",
+          "Andorra", 
+          "Argentina", 
+          "Australia", 
+          "Austria", 
+          "Belgium", 
+          "Bolivia", 
+          "Brazil", 
+          "Bulgaria", 
+          "Canada", 
+          "Chile", 
+          "Colombia", 
+          "Costa Rica", 
+          "Czech Republic", 
+          "Denmark", 
+          "Dominican Republic", 
+          "Ecuador", 
+          "Egypt", 
+          "El Salvador", 
+          "Estonia", 
+          "Finland", 
+          "France", 
+          "Germany", 
+          "Greece", 
+          "Guatemala", 
+          "Honduras", 
+          "Hong Kong", 
+          "Hungary", 
+          "Iceland", 
+          "India", 
+          "Indonesia", 
+          "Ireland", 
+          "Israel", 
+          "Italy", 
+          "Japan", 
+          "Latvia", 
+          "Lithuania", 
+          "Luxembourg", 
+          "Malaysia", 
+          "Mexico", 
+          "Morocco", 
+          "Netherlands", 
+          "New Zealand", 
+          "Nicaragua", 
+          "Norway", 
+          "Panama", 
+          "Paraguay", 
+          "Peru", 
+          "Philippines", 
+          "Poland", 
+          "Portugal", 
+          "Romania", 
+          "Russia", 
+          "Saudi Arabia", 
+          "Singapore", 
+          "Slovakia", 
+          "South Africa", 
+          "South Korea", 
+          "Spain", 
+          "Sweden", 
+          "Switzerland", 
+          "Taiwan", 
+          "Thailand", 
+          "Turkey", 
+          "Ukraine", 
+          "United Arab Emirates", 
+          "United Kingdom", 
+          "United States of America", 
+          "Uruguay", 
+          "Vietnam"
+        ],
+          "name": "Select Region: "
+      }
+    }
+    ],
+    "transform": [
+      {
+          "calculate": "datum.streams / 100000000", "as": "num_of_streams_rounded"
+      },
+      {
+          "calculate": "datum.popularity / 100000", "as": "popularity_rate_rounded"
+      },
+      {
+          "calculate": "datum.Artist_followers/ 1000000", "as": "artist_followers_rounded"
+      },
+      {
+          "filter": "music_genre_selection == null || datum.Genre == music_genre_selection"
+      },
+      {
+        "filter": "region_selection == null || datum.region == region_selection"
+      },        
+      {
+          "filter": "datum.streams > Streams_Above"
+      }
+
+    ],
+    "encoding": {
+      "x": {
+        "field": "artist_followers_rounded",
+        "type": "quantitative",
+        "title": "Number of Artist Followers",
+        "axis": {"tickCount": 7},
+        "scale": {"type": "log", "domain": [0.000001, 100]}
+      },
+      "y": {
+        "field": "popularity_rate_rounded",
+        "type": "quantitative",
+        "title": "Popularity Rating",
+        "axis": {"tickCount": 6},
+        "scale": {"type": "log", "domain": [0.000001, 25]}
+      }
+    },
+    "layer": [
+      {
+        "mark": "circle",
+        "encoding": {
+          "size": {
+            "field": "streams",
+            "type": "quantitative",
+            "scale": {
+              "type": "threshold",
+              "domain": [50000, 100000, 500000, 1000000, 10000000, 50000000, 100000000, 500000000],
+            "range": [1, 5, 10, 50, 100, 200, 300, 400]
+            },
+            "legend": {"format": ".1s"}
+          },
+          "color": {
+            "field": "region",
+            "type": "nominal",
+            "scale": {
+              "scheme": "tableau20"
+            },
+            "condition":  {
+              "param": "select_region", 
+              "empty": false,
+              "value": null
+            }
+          },
+          "opacity": {"value": 0.6},
+          "tooltip": [
+            {"field": "Artist", "type": "nominal"},
+            {"field": "streams", "type": "quantitative", "format": ",", "title": "Total Streams Played in Country"},
+            {"field": "popularity_rate_rounded", "type": "quantitative", "format": ",", "title": "Popularity Rating in Country"},
+            {"field": "Artist_followers", "type": "quantitative", "format": ",", "title": "Number of Followers Artist has Globally"},
+            {"field": "Genre", "type": "nominal"},
+            {"field": "region", "type": "nominal", "title": "Region"}
+          ]
+        }
+      }
+    ]
+  }

@@ -1,0 +1,235 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "Top 75 Artists Based on the Number of Streams Played",
+    "width": 515,
+    "height": 650,
+    "autosize": {"resize": true},
+    "data": {"url": "https://raw.githubusercontent.com/im30805/FIT3179/main/spotify_region_artist_streams_with_total.csv"},
+    "params": [
+        {
+          "name": "region_selection",
+          "bind": {
+            "input": "select",
+            "options": [
+              null,
+              "Argentina", 
+              "Australia", 
+              "Austria", 
+              "Belgium", 
+              "Bolivia", 
+              "Brazil", 
+              "Bulgaria", 
+              "Canada", 
+              "Chile", 
+              "Colombia", 
+              "Costa Rica", 
+              "Czech Republic", 
+              "Denmark", 
+              "Dominican Republic", 
+              "Ecuador", 
+              "Egypt", 
+              "El Salvador", 
+              "Estonia", 
+              "Finland", 
+              "France", 
+              "Germany", 
+              "Greece", 
+              "Guatemala", 
+              "Honduras", 
+              "Hong Kong", 
+              "Hungary", 
+              "Iceland", 
+              "India", 
+              "Indonesia", 
+              "Ireland", 
+              "Israel", 
+              "Italy", 
+              "Japan", 
+              "Latvia", 
+              "Lithuania", 
+              "Luxembourg", 
+              "Malaysia", 
+              "Mexico", 
+              "Morocco", 
+              "Netherlands", 
+              "New Zealand", 
+              "Nicaragua", 
+              "Norway", 
+              "Panama", 
+              "Paraguay", 
+              "Peru", 
+              "Philippines", 
+              "Poland", 
+              "Portugal", 
+              "Romania", 
+              "Russia", 
+              "Saudi Arabia", 
+              "Singapore", 
+              "Slovakia", 
+              "South Africa", 
+              "South Korea", 
+              "Spain", 
+              "Sweden", 
+              "Switzerland", 
+              "Taiwan", 
+              "Thailand", 
+              "Turkey", 
+              "Ukraine", 
+              "United Arab Emirates", 
+              "United Kingdom", 
+              "United States of America", 
+              "Uruguay", 
+              "Vietnam"
+            ],
+            "labels":[
+              "Global",
+              "Argentina", 
+              "Australia", 
+              "Austria", 
+              "Belgium", 
+              "Bolivia", 
+              "Brazil", 
+              "Bulgaria", 
+              "Canada", 
+              "Chile", 
+              "Colombia", 
+              "Costa Rica", 
+              "Czech Republic", 
+              "Denmark", 
+              "Dominican Republic", 
+              "Ecuador", 
+              "Egypt", 
+              "El Salvador", 
+              "Estonia", 
+              "Finland", 
+              "France", 
+              "Germany", 
+              "Greece", 
+              "Guatemala", 
+              "Honduras", 
+              "Hong Kong", 
+              "Hungary", 
+              "Iceland", 
+              "India", 
+              "Indonesia", 
+              "Ireland", 
+              "Israel", 
+              "Italy", 
+              "Japan", 
+              "Latvia", 
+              "Lithuania", 
+              "Luxembourg", 
+              "Malaysia", 
+              "Mexico", 
+              "Morocco", 
+              "Netherlands", 
+              "New Zealand", 
+              "Nicaragua", 
+              "Norway", 
+              "Panama", 
+              "Paraguay", 
+              "Peru", 
+              "Philippines", 
+              "Poland", 
+              "Portugal", 
+              "Romania", 
+              "Russia", 
+              "Saudi Arabia", 
+              "Singapore", 
+              "Slovakia", 
+              "South Africa", 
+              "South Korea", 
+              "Spain", 
+              "Sweden", 
+              "Switzerland", 
+              "Taiwan", 
+              "Thailand", 
+              "Turkey", 
+              "Ukraine", 
+              "United Arab Emirates", 
+              "United Kingdom", 
+              "United States of America", 
+              "Uruguay", 
+              "Vietnam"
+            ],
+              "name": "Showing the Top 75 Artists for: "
+          }
+        }
+      ],
+    "transform": [
+        {
+            "filter": "region_selection == null || datum.region == region_selection"
+        },  
+        {
+            "aggregate": [{
+                "op": "sum",
+                "field": "streams",
+                "as": "overall_streams_artist"
+            }],
+            "groupby": ["Artist", "region"]
+        },
+        {
+            "window": [{
+                "op": "rank",
+                "as": "rank"
+            }],
+            "sort": [{ "field": "overall_streams_artist", "order": "descending" }]
+        }, 
+        {
+            "filter": "datum.rank <= 75"
+        }
+  ],
+    "mark": "bar",
+    "encoding": {
+        "x": {
+          "aggregate": "sum",
+          "field": "overall_streams_artist",
+          "type": "quantitative",
+          "title": "Total Streams Played on Spotify",
+          "axis": {
+            "labelColor": "white",
+            "titleColor": "white"
+          }
+        },
+        "y": {
+          "field": "Artist",
+          "type": "nominal",
+          "sort": "-x",
+          "axis": {
+            "labelColor": "white",
+            "titleColor": "white"
+          }
+        },
+        "color": {
+          "field": "region",
+          "type": "nominal",
+          "scale": {
+            "scheme": "tableau20"
+          },
+          "title": "Region",
+          "legend": {
+            "labelColor": "white",
+            "titleColor": "white"
+          }
+        },
+        "opacity": {"value": 0.6},
+          "tooltip": [
+          {"field": "Artist", "type": "nominal"},
+          {"field": "region", "type": "nominal", "title": "Region"},
+          {"field": "overall_streams_artist", "type": "quantitative", "format": ",", "title": "Total Streams Played"}
+        ]
+    },
+    "config": {
+      "background": "#191414",
+      "view": {
+          "stroke": "#191414"
+      },
+      "title": {
+        "color": "white",
+        "subtitleColor": "white"
+      },
+      "header": {
+        "labelColor": "white"
+      }
+    }
+  }

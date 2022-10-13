@@ -1,0 +1,222 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "Comparison of Song Features in Music Genres",
+    "data": {
+        "url": "https://raw.githubusercontent.com/im30805/FIT3179/main/spotify_parallel_coord_data.json",
+        "format": {
+          "type": "json",
+          "parse": {
+            "Danceability": "number",
+            "Energy": "number",
+            "Key": "number",
+            "Loudness": "number",
+            "Mode": "number",
+            "Speechiness": "number",
+            "Acoustics": "number",
+            "Instrumentalness": "number",
+            "Liveliness": "number",
+            "Valence": "number",
+            "Tempo": "number",
+            "Duration_ms": "number",
+            "Time Signature": "number",
+            "Explicit (False)": "number",
+            "Explicit (True)": "number",
+            "Anger": "number",
+            "Anticipation": "number",
+            "Disgust": "number",
+            "Fear": "number",
+            "Joy": "number",
+            "Sadness": "number",
+            "Surprise": "number",
+            "Trust": "number",
+            "Negative": "number",
+            "Positive": "number",
+            "Streams": "number",
+            "Number of Words in Lyrics": "number"
+          }
+        }
+    },
+    "width": 915,
+    "height": 600,
+    "transform": [
+        {"calculate": "datum.Streams * 0.00000001", "as": "num_of_streams_rounded"},
+        {"calculate": "datum.Duration_ms / 60000", "as": "duration_rounded"},
+        {"calculate": "datum.num_of_streams_rounded * 1", "as": "Total Streams (Million)"},
+        {"calculate": "datum.duration_rounded * 1", "as": "Duration (s)"},
+        {"window": [{"op": "count", "as": "index"}]},
+        {"fold": ["Duration (s)", "Danceability", "Energy", "Loudness", "Speechiness",
+      "Acoustics", "Instrumentalness", "Liveliness", "Valence", "Tempo", "Explicit (False)", "Explicit (True)", "Positive", "Negative", "Number of Words in Lyrics"]},
+        {
+        "window": [
+            {"op": "min", "field": "value", "as": "min"},
+            {"op": "max", "field": "value", "as": "max"}
+        ],
+            "frame": [null, null],
+            "groupby": ["key"]
+        },
+        {
+            "calculate": "(datum.value - datum.min) / (datum.max-datum.min)",
+            "as": "norm_val"
+        },
+        {
+            "calculate": "(datum.min + datum.max) / 2",
+            "as": "mid"
+        },
+        {
+          "filter": "datum.num_of_streams_rounded > 5"
+        }
+    ],
+    "layer": [{
+        "params": [
+          {"name": "select_genre", "select": {"type": "point", "on": "click", "fields": ["Genre"]}, "bind": "legend"}
+        ],
+        "mark": {"type": "rule", "color": "#ccc"},
+        "encoding": {
+          "detail": {"aggregate": "count", "type": "quantitative"},
+          "x": {"type": "nominal", "field": "key"}
+        }
+      }, {
+        "mark": {"type": "line", "interpolate": "monotone"},
+        "encoding": {
+          "color": {
+            "type": "nominal", 
+            "field": "Genre"
+          },
+          "detail": {"type": "nominal", "field": "index"},
+          "opacity": {"value": 0.8},
+          "x": {"type": "nominal", "field": "key", "axis": {"labelColor": "white", "titleColor": "white"}},
+          "y": {"type": "quantitative", "field": "norm_val", "axis": null},
+          "tooltip": [
+            {
+              "type": "quantitative",
+              "field": "Total Streams"
+            }, 
+            {
+              "type": "quantitative",
+              "field": "Duration (s)"
+            }, 
+            {
+              "type": "quantitative",
+              "field": "Danceability"
+            }, 
+            {
+              "type": "quantitative",
+              "field": "Energy"
+            },
+            {
+              "type": "quantitative",
+              "field": "Explicit (False)"
+            },
+            {
+              "type": "quantitative",
+              "field": "Explicit (True)"
+            },
+            {
+              "type": "quantitative",
+              "field": "Loudness"
+            },
+            {
+              "type": "quantitative",
+              "field": "Speechiness"
+            },
+            {
+              "type": "quantitative",
+              "field": "Accoustics"
+            },
+            {
+              "type": "quantitative",
+              "field": "Instrumentalness"
+            },
+            {
+              "type": "quantitative",
+              "field": "Liveliness"
+            },
+            {
+              "type": "quantitative",
+              "field": "Valence"
+            },
+            {
+              "type": "quantitative",
+              "field": "Tempo"
+            },
+            {
+              "type": "quantitative",
+              "field": "Positive"
+            },
+            {
+              "type": "quantitative",
+              "field": "Negative"
+            }
+          ],
+          "size":{
+            "condition": {
+                "param": "select_genre", 
+                "empty": false, 
+                "value": 6
+            },
+            "value": 2
+          }
+        }
+      },{
+        "encoding": {
+          "x": {"type": "nominal", "field": "key", "title": "Features"}, 
+          "y": {"value": 0, "axis": {"labelColor": "white", "titleColor": "white"}}
+        },
+        "layer": [{
+          "mark": {"type": "text", "style": "label", "fill": "white"},
+          "encoding": {
+            "text": {"aggregate": "max", "field": "max", "type": "quantitative", "format": ".2f"}
+          }
+        }, {
+          "mark": {"type": "tick", "style": "tick", "size": 8, "color": "#ccc"}
+        }]
+      },{
+    
+        "encoding": {
+          "x": {"type": "nominal", "field": "key", "axis": {"labelColor": "white", "titleColor": "white"}}, 
+          "y": {"value": 150, "axis": {"labelColor": "white", "titleColor": "white"}}
+        },
+        "layer": [{
+          "mark": {"type": "text", "style": "label", "fill": "white"},
+          "encoding": {
+            "text": {"aggregate": "min", "field": "mid", "type": "quantitative", "format": ".2f"}
+          }
+        }, {
+          "mark": {"type": "tick", "style": "tick", "size": 8, "color": "#ccc"}
+        }]
+      },{
+        "encoding": {
+          "x": {"type": "nominal", "field": "key", "axis": {"labelColor": "white", "titleColor": "white"}}, 
+          "y": {"value": 300, "axis": {"labelColor": "white", "titleColor": "white"}}
+        },
+        "layer": [{
+          "mark": {"type": "text", "style": "label", "fill": "white"},
+          "encoding": {
+            "text": {"aggregate": "min", "field": "min", "type": "quantitative", "format": ".2f"}
+          }
+        }, {
+          "mark": {"type": "tick", "style": "tick", "size": 8, "color": "#ccc"}
+        }]
+      }],
+      "config": {
+        "axisX": {"domain": false, "labelAngle": 20, "tickColor": "#ccc"},
+        "view": {"stroke": "#191414"},
+        "style": {
+          "label": {"baseline": "middle", "align": "right", "dx": -5},
+          "tick": {"orient": "horizontal"}
+        },
+        "background": "#191414",
+        "title": {
+          "color": "white",
+          "subtitleColor": "white"
+        },
+        "header": {
+          "labelColor": "white"
+        },
+        "legend": {
+          "labelColor": "white",
+          "titleColor": "white"
+        }
+      }
+}
+  

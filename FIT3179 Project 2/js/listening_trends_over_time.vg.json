@@ -1,0 +1,151 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 450,
+  "height": 575,
+  "title": "Global Listening Trends of Different Music Genres on Spotify Charts from 2017-2021",
+  "data": {
+    "url": "https://raw.githubusercontent.com/im30805/FIT3179/main/spotify_streams_groupedby_genre_year.csv"
+  },
+  "params": [
+    {
+      "name": "Streams_Above",
+      "value": 0,
+      "bind": {
+        "input": "range",
+        "min": 0,
+        "max": 100,
+        "step": 5,
+        "name": "Minimum Number of Streams (in Million): "
+      }
+    },
+    {
+      "name": "music_genre_selection",
+      "bind": {
+        "input": "select",
+        "options": [
+          null,
+          "Hip Hop",
+          "Pop", 
+          "Rap" ,
+          "Ambigious / Others",
+          "Rock",
+          "R&b", 
+          "K-pop",
+          "Metal",
+          "Country", 
+          "EDM",
+          "Soul", 
+          "Blues",
+          "Funk", 
+          "Electronic / EDM",
+          "Indie", 
+          "Dance",
+          "Jazz",
+          "Folk", 
+          "A Cappella", 
+          "Punk",
+          "Reggae"
+        ],
+        "labels":[
+          "Show All",
+          "Hip Hop",
+          "Pop", 
+          "Rap" ,
+          "Ambigious / Others",
+          "Rock",
+          "R&b", 
+          "K-pop",
+          "Metal",
+          "Country", 
+          "EDM",
+          "Soul", 
+          "Blues",
+          "Funk", 
+          "Electronic / EDM",
+          "Indie", 
+          "Dance",
+          "Jazz",
+          "Folk", 
+          "A Cappella", 
+          "Punk",
+          "Reggae"
+        ],
+          "name": "Music Genre Selection: "
+      }
+    }
+  ],
+  "transform": [
+    {
+      "calculate": "datum.sum / 100000000", "as": "num_of_streams_rounded"
+    },
+    {
+      "filter": "music_genre_selection == null || datum.Genre == music_genre_selection"
+    },      
+    {
+      "filter": "datum.num_of_streams_rounded > Streams_Above"
+    }
+
+  ],
+  "layer": [
+    {
+      "mark": {"type": "line", "point": true},
+      "encoding": {
+        "x": {
+          "field": "chart_year",
+          "type": "temporal",
+          "title": "Year on Spotify Chart",
+          "timeUnit": {"unit": "year"},
+          "axis": {"tickCount": "year", "tickBand": "center"}
+        },
+        "y": {
+          "field": "num_of_streams_rounded",
+          "type": "quantitative",
+          "title": "Number of Streams (in Million)"
+        },
+        "color": {
+          "field": "Genre",
+          "type": "nominal",
+          "title": "Music Genre",
+          "scale": {
+            "scheme": "tableau20"
+          }
+        },
+        "tooltip": [
+             {"field": "Genre", "type": "nominal", "title": "Music Genre"},
+             {"field": "chart_year", "type": "temporal", "timeUnit": "year", "title": "Year on Spotify Chart"},
+             {"field": "num_of_streams_rounded", "type": "quantitative", "title": "Total Number of Streams (in Million)", "format": ".2f"}
+        ]
+      }
+    },
+    {
+      "encoding": {
+        "x": {"aggregate": "mean", "field": "chart_year", "type": "temporal", "timeUnit": "year"},
+        "y": {"aggregate": "q3", "field": "num_of_streams_rounded", "type": "quantitative"}
+      },
+      "transform": [
+        {
+          "filter": "datum.num_of_streams_rounded > 30"
+        }
+      ],
+      "layer": [
+        {
+          "mark": {
+            "type": "text",
+            "baseline": "middle",
+            "fontSize": 11.5,
+            "dy": -8,
+            "fontStyle": "italic"
+            },
+            "encoding": {
+              "text": {
+                "field": "Genre",
+                "type": "nominal"
+              },
+              "color": {"value": "black"}
+            }
+            
+        }
+      ]
+    }
+  ]
+}

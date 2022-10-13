@@ -1,0 +1,60 @@
+#choropleth_map {
+    margin-left: -100px;
+} 
+
+#bar_chart {
+	margin-left: -110px;
+}
+
+select[name=region_selection] {
+	font-size: 14px;
+	font-family: Montserrat, sans-serif;
+	margin-left: 10px;
+}
+
+input[type=range] {
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: -2px;
+	margin-top: -2px;
+}
+
+.vega-bind{
+	color: white;
+}
+
+.vega-bind-name{
+	font-size: 14px;
+	font-family: Montserrat, sans-serif;
+}
+
+span {
+	font-size: 14px;
+	font-family: Montserrat, sans-serif;
+}
+
+.vega-bindings {
+	margin-left: 110px;
+}
+
+body {
+	background-color: #191414;
+	font-family: Montserrat, sans-serif;
+}
+
+h1, h2, p {
+	color: #1DB954;
+	font-family: Montserrat, sans-serif;
+}
+
+h1 {
+	text-align: center;
+}
+
+.pure-g {
+	margin-left: 10px;
+}
+
+.description-left{
+    width: 550px;
+}
