@@ -216,7 +216,8 @@
         "legend": {
           "labelColor": "white",
           "titleColor": "white"
-        }
+        },
+        "font": "Montserrat"
       }
 }
   
