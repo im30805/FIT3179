@@ -209,7 +209,10 @@
           "title": "Region",
           "legend": {
             "labelColor": "white",
-            "titleColor": "white"
+            "titleColor": "white",
+            "columns": 6,
+            "orient": "top",
+            "direction": "horizontal"
           }
         },
         "opacity": {"value": 0.6},
@@ -230,6 +233,7 @@
       },
       "header": {
         "labelColor": "white"
-      }
+      },
+      "font": "Montserrat"
     }
   }

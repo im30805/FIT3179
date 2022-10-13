@@ -8,7 +8,7 @@
   "projection": {
     "type": "equalEarth",
     "scale": {"expr": "zoom_level"},
-    "translate": {"expr": "[left,right]"}
+    "translate": {"expr": "[horizontal,vertical]"}
   },
   "params": [
     {
@@ -23,14 +23,14 @@
       }
     },
     {
-      "name": "left",
+      "name": "horizontal",
       "value": 325,
-      "bind": {"input": "range", "min": 0, "max": 500, "step": 1, "name": "Left: "}
+      "bind": {"input": "range", "min": 0, "max": 500, "step": 1, "name": "Horizontal: "}
     },
     {
-      "name": "right",
+      "name": "vertical",
       "value": 325,
-      "bind": {"input": "range", "min": 0, "max": 500, "step": 1, "name": "Right: "}
+      "bind": {"input": "range", "min": 0, "max": 500, "step": 1, "name": "Vertical: "}
     },
     {
       "name": "year_selection",
@@ -40,7 +40,7 @@
         "min": 2017,
         "max": 2021,
         "step": 1,
-        "name": "Chart Year: "
+        "name": "Year: "
       }
     }
   ],
@@ -184,6 +184,7 @@
     "title": {
         "color": "white",
         "dy": 150
-    }
+    },
+    "font": "Montserrat"
   }
 }
