@@ -89,10 +89,6 @@
           "tooltip": [
             {
               "type": "quantitative",
-              "field": "Total Streams"
-            }, 
-            {
-              "type": "quantitative",
               "field": "Duration (s)"
             }, 
             {
