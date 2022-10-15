@@ -1,6 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": "Comparison of Song Features in Music Genres",
+    "title": "Comparison of Song Features in the Music Genres (Top 10 Based on Number of Streams)",
     "data": {
         "url": "https://raw.githubusercontent.com/im30805/FIT3179/main/spotify_parallel_coord_data_1.json",
         "format": {
@@ -43,51 +43,29 @@
             "input": "select",
             "options": [
                 null,
-                "Hip Hop",
-                "Pop", 
-                "Rap" ,
                 "Ambigious / Others",
-                "Rock",
-                "R&b", 
-                "K-pop",
-                "Metal",
-                "Country", 
-                "EDM",
-                "Soul", 
-                "Blues",
-                "Funk", 
                 "Electronic / EDM",
+                "Hip Hop",
                 "Indie", 
-                "Dance",
-                "Jazz",
-                "Folk", 
-                "A Cappella", 
-                "Punk",
-                "Reggae"
+                "K-pop",
+                "Pop",
+                "R&b",
+                "Rap",
+                "Rock",
+                "Soul"
             ],
             "labels":[
                 "Show All",
-                "Hip Hop",
-                "Pop", 
-                "Rap" ,
                 "Ambigious / Others",
-                "Rock",
-                "R&b", 
-                "K-pop",
-                "Metal",
-                "Country", 
-                "EDM",
-                "Soul", 
-                "Blues",
-                "Funk", 
                 "Electronic / EDM",
+                "Hip Hop",
                 "Indie", 
-                "Dance",
-                "Jazz",
-                "Folk", 
-                "A Cappella", 
-                "Punk",
-                "Reggae"
+                "K-pop",
+                "Pop",
+                "R&b",
+                "Rap",
+                "Rock",
+                "Soul"
             ],
                 "name": "Music Genre Selection: "
         }
@@ -121,23 +99,30 @@
             "as": "mid"
         },
         {
-           "filter": "datum.num_of_streams_rounded > 5"
+          "window": [{
+              "op": "rank",
+              "as": "rank"
+          }],
+          "sort": [{ "field": "num_of_streams_rounded", "order": "descending" }]
+        }, 
+        {
+            "filter": "datum.rank <= 1500"
         },
         {
            "filter": "music_genre_selection == null || datum.Genre == music_genre_selection"
         }
     ],
     "layer": [{
-        "params": [
-          {"name": "select_genre", "select": {"type": "point", "on": "click", "fields": ["Genre"]}, "bind": "legend"}
-        ],
         "mark": {"type": "rule", "color": "#ccc"},
         "encoding": {
           "detail": {"aggregate": "count", "type": "quantitative"},
           "x": {"type": "nominal", "field": "key"}
         }
       }, {
-        "mark": {"type": "line", "interpolate": "monotone"},
+        "params": [
+          {"name": "select_genre", "select": {"type": "point", "on": "click", "fields": ["Genre"]}, "bind": "legend"}
+        ],
+        "mark": {"type": "line", "interpolate": "linear"},
         "encoding": {
           "color": {
             "type": "nominal", 

@@ -195,7 +195,7 @@
             "signal": "!groupSelector && (groupHover.genre_stack == datum.genre_stack || groupHover.lda_topic_stack == datum.lda_topic_stack) ? 1 : 0"
           },
           "tooltip": {
-            "signal": "datum.genre_stack + ' → ' + datum.lda_topic_stack + '    ' + format(datum.size, ',.0f') + '   (' + format(datum.percentage, '.1%') + ')'"
+            "signal": "'Total Streams for ' + datum.genre_stack + ' → ' + datum.lda_topic_stack + ' are ' + format(datum.size, ',.0f') + '   (' + format(datum.percentage, '.1%') + ')'"
           }
         },
         "hover": {"strokeOpacity": {"value": 1}}
@@ -216,7 +216,7 @@
           "y2": {"field": "scaledY1"},
           "fillOpacity": {"value": 0.6},
           "tooltip": {
-            "signal": "datum.grpId + '   ' + format(datum.total, ',.0f') + '   (' + format(datum.percentage, '.1%') + ')'"
+            "signal": "'Total Streams for ' + datum.grpId + ' are: ' + format(datum.total, ',.0f') + '   (' + format(datum.percentage, '.1%') + ')'"
           }
         },
         "hover": {"fillOpacity": {"value": 1}}
