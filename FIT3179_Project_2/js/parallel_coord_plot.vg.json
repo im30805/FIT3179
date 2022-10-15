@@ -2,7 +2,7 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": "Comparison of Song Features in Music Genres",
     "data": {
-        "url": "https://raw.githubusercontent.com/im30805/FIT3179/main/spotify_parallel_coord_data.json",
+        "url": "https://raw.githubusercontent.com/im30805/FIT3179/main/spotify_parallel_coord_data_1.json",
         "format": {
           "type": "json",
           "parse": {
@@ -93,8 +93,8 @@
         }
       }
     ],
-    "width": 1125,
-    "height": 450,
+    "width": "container",
+    "height": 550,
     "autosize": {"resize": true},
     "transform": [
         {"calculate": "datum.Streams * 0.00000001", "as": "num_of_streams_rounded"},
@@ -141,7 +141,14 @@
         "encoding": {
           "color": {
             "type": "nominal", 
-            "field": "Genre"
+            "field": "Genre",
+            "scale": {
+              "scheme": "tableau20"
+            },
+            "legend": {
+              "labelColor": "white",
+              "titleColor": "white"
+            }
           },
           "detail": {"type": "nominal", "field": "index"},
           "opacity": {"value": 0.8},

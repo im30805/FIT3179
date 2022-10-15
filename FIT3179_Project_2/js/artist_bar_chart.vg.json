@@ -1,8 +1,8 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": "Artists Ranked Top 55 Based on the Number of Streams Played by Country / Globally",
+    "title": "Artists Ranked Top 45 Based on the Number of Streams Played by Country / Globally",
     "width": "container",
-    "height": 750,
+    "height": 500,
     "autosize": {"resize": true},
     "data": {"url": "https://raw.githubusercontent.com/im30805/FIT3179/main/spotify_region_artist_streams_with_total.csv"},
     "params": [
@@ -152,7 +152,7 @@
               "Uruguay", 
               "Vietnam"
             ],
-              "name": "Showing the Artists in the Top 55 for: "
+              "name": "Showing the Artists in the Top 45 for: "
           }
         }
       ],
@@ -176,7 +176,7 @@
             "sort": [{ "field": "overall_streams_artist", "order": "descending" }]
         }, 
         {
-            "filter": "datum.rank <= 55"
+            "filter": "datum.rank <= 45"
         }
   ],
     "mark": "bar",
@@ -188,7 +188,8 @@
           "title": "Total Streams Played on Spotify",
           "axis": {
             "labelColor": "white",
-            "titleColor": "white"
+            "titleColor": "white",
+            "grid": false
           }
         },
         "y": {
@@ -209,10 +210,7 @@
           "title": "Region",
           "legend": {
             "labelColor": "white",
-            "titleColor": "white",
-            "columns": 6,
-            "orient": "top",
-            "direction": "horizontal"
+            "titleColor": "white" 
           }
         },
         "opacity": {"value": 0.6},

@@ -1,7 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega/v5.2.json",
-  "height": 600,
-  "width": 850,
+  "height": 500,
+  "autosize": {"type": "fit-x", "contains": "padding"},
+  "padding": 5,
   "title": {
     "text": "Connection between Music Genres and Topic of Lyrics Based on Streams",
     "align": "center",
@@ -317,6 +318,16 @@
     }
   ],
   "signals": [
+    {
+      "name": "width",
+      "init": "isFinite(containerSize()[0]) ? containerSize()[0] : 200",
+      "on": [
+        {
+          "update": "isFinite(containerSize()[0]) ? containerSize()[0] : 200",
+          "events": "window:resize"
+        }
+      ]
+    },
     {
       "name": "groupHover",
       "value": {},

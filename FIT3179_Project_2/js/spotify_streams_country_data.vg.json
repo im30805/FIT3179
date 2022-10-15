@@ -1,10 +1,9 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": "Percentage of Total Music Streams on Spotify by Country from 2017-2021",
-  "width": 670,
+  "width": "container",
   "height": 750,
-  "autosize": {"resize": true},
-  "padding": {"bottom": -250, "top": -50},
+  "padding": {"left": 155, "bottom": -250, "top": -110, "right": 175},
   "projection": {
     "type": "equalEarth",
     "scale": {"expr": "zoom_level"},
@@ -113,9 +112,8 @@
             "labelColor": "white",
             "titleColor": "white",
             "orient": "none",
-            "direction": "horizontal",
-            "legendX": 365,
-            "legendY": 55
+            "legendX": 715,
+            "legendY": 185
             
           }
         },

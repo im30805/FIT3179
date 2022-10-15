@@ -1,16 +1,13 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.1.0.json",
     "width": "container", 
-    "height": 410,
+    "height": 500,
     "data": {"url": "https://raw.githubusercontent.com/im30805/FIT3179/main/spotify_streams_groupedby_genre_year.csv"},
-
-    "title": "Ranking of Genres",
-
     "params": [
       {
         "name": "top_n_genres", 
         "value": 10 ,
-        "bind": {"input": "range", "min": 1, "max": 30, "step": 1, "name": "Number of Ranks to Show: " }
+        "bind": {"input": "range", "min": 1, "max": 20, "step": 1, "name": "Number of Ranks to Show: " }
       }
     ],
 
@@ -44,7 +41,8 @@
           "tickMinStep": 1 ,
           "tickCount": {"expr": "top_n_genres"},
           "labelColor": "white",
-          "titleColor": "white"
+          "titleColor": "white",
+          "grid": false
         },
         "title": "Rank"
       }
@@ -62,6 +60,9 @@
               "legend": {
                 "labelColor": "white",
                 "titleColor": "white"
+              },
+              "scale": {
+                "scheme": "tableau20"
               }
             },
             "size":{
