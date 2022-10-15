@@ -36,8 +36,66 @@
           }
         }
     },
-    "width": 815,
-    "height": 600,
+    "params": [
+      {
+        "name": "music_genre_selection",
+        "bind": {
+            "input": "select",
+            "options": [
+                null,
+                "Hip Hop",
+                "Pop", 
+                "Rap" ,
+                "Ambigious / Others",
+                "Rock",
+                "R&b", 
+                "K-pop",
+                "Metal",
+                "Country", 
+                "EDM",
+                "Soul", 
+                "Blues",
+                "Funk", 
+                "Electronic / EDM",
+                "Indie", 
+                "Dance",
+                "Jazz",
+                "Folk", 
+                "A Cappella", 
+                "Punk",
+                "Reggae"
+            ],
+            "labels":[
+                "Show All",
+                "Hip Hop",
+                "Pop", 
+                "Rap" ,
+                "Ambigious / Others",
+                "Rock",
+                "R&b", 
+                "K-pop",
+                "Metal",
+                "Country", 
+                "EDM",
+                "Soul", 
+                "Blues",
+                "Funk", 
+                "Electronic / EDM",
+                "Indie", 
+                "Dance",
+                "Jazz",
+                "Folk", 
+                "A Cappella", 
+                "Punk",
+                "Reggae"
+            ],
+                "name": "Music Genre Selection: "
+        }
+      }
+    ],
+    "width": 1125,
+    "height": 450,
+    "autosize": {"resize": true},
     "transform": [
         {"calculate": "datum.Streams * 0.00000001", "as": "num_of_streams_rounded"},
         {"calculate": "datum.Duration_ms / 60000", "as": "duration_rounded"},
@@ -63,7 +121,10 @@
             "as": "mid"
         },
         {
-          "filter": "datum.num_of_streams_rounded > 5"
+           "filter": "datum.num_of_streams_rounded > 5"
+        },
+        {
+           "filter": "music_genre_selection == null || datum.Genre == music_genre_selection"
         }
     ],
     "layer": [{

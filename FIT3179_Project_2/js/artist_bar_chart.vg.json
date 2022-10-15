@@ -1,7 +1,7 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": "Artists Ranked Top 75 Based on the Number of Streams Played",
-    "width": 515,
+    "title": "Artists Ranked Top 55 Based on the Number of Streams Played by Country / Globally",
+    "width": "container",
     "height": 750,
     "autosize": {"resize": true},
     "data": {"url": "https://raw.githubusercontent.com/im30805/FIT3179/main/spotify_region_artist_streams_with_total.csv"},
@@ -152,7 +152,7 @@
               "Uruguay", 
               "Vietnam"
             ],
-              "name": "Showing the Artists in the Top 75 for: "
+              "name": "Showing the Artists in the Top 55 for: "
           }
         }
       ],
@@ -176,7 +176,7 @@
             "sort": [{ "field": "overall_streams_artist", "order": "descending" }]
         }, 
         {
-            "filter": "datum.rank <= 75"
+            "filter": "datum.rank <= 55"
         }
   ],
     "mark": "bar",

@@ -4,7 +4,7 @@
   "width": 670,
   "height": 750,
   "autosize": {"resize": true},
-  "padding": {"bottom": -250, "top": -110},
+  "padding": {"bottom": -250, "top": -50},
   "projection": {
     "type": "equalEarth",
     "scale": {"expr": "zoom_level"},
@@ -25,7 +25,7 @@
     {
       "name": "horizontal",
       "value": 325,
-      "bind": {"input": "range", "min": 0, "max": 500, "step": 1, "name": "Horizontal: "}
+      "bind": {"input": "range", "min": -100, "max": 500, "step": 1, "name": "Horizontal: "}
     },
     {
       "name": "vertical",
@@ -69,7 +69,7 @@
         "url": "https://raw.githubusercontent.com/im30805/FIT3179/main/oceans.topojson",          
         "format": {"type": "topojson", "feature": "oceans"}
       },
-      "mark": {"type": "geoshape", "fill": "black"}
+      "mark": {"type": "geoshape", "fill": "skyblue"}
     },
     {
       "data": {
@@ -98,7 +98,7 @@
         {"calculate": "datum.streams / datum.total_streams * 100", "as": "Percentage of Streams"}
 
       ],
-      "mark": {"type": "geoshape", "stroke": "#fff", "strokeWidth": 0.5},
+      "mark": {"type": "geoshape", "stroke": "darkgray", "strokeWidth": 0.5},
       "encoding": {
         "shape": {"field": "geo", "type": "geojson"},
         "color": {
@@ -113,8 +113,9 @@
             "labelColor": "white",
             "titleColor": "white",
             "orient": "none",
-            "legendX": 720,
-            "legendY": 130
+            "direction": "horizontal",
+            "legendX": 365,
+            "legendY": 55
             
           }
         },
